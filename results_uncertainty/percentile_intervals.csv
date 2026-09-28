@@ -1,0 +1,14 @@
+family,label,900-1500,1500-2500,2500+
+attacking,Box touches /90,39.8,34.9,29.1
+attacking,Key passes /90,57.3,46.8,42.5
+attacking,Shots /90,50.3,43.7,37.7
+attacking,npxG /90,52.3,46.7,39.2
+attacking,xA /90,54.9,47.4,43.7
+defending,Aerial duels won /90,35.7,31.3,27.2
+defending,Ball recoveries /90,49.3,42.1,37.0
+defending,Pressures /90,34.3,29.1,25.7
+defending,Tackles + interceptions /90,49.0,40.2,35.3
+progression,Pass completion %,31.5,25.6,21.5
+progression,Progressive carries /90,33.6,29.7,24.1
+progression,Progressive passes /90,36.2,31.1,24.9
+progression,Successful dribbles /90,45.4,40.6,35.4

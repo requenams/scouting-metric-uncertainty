@@ -1,0 +1,1236 @@
+competition,season,pos_group,metric,label,family,matches,players,top10_overlap
+La Liga,2015/2016,CB,npxg_p90,npxG /90,attacking,5,62,0.6
+La Liga,2015/2016,CB,shots_p90,Shots /90,attacking,5,62,0.5
+La Liga,2015/2016,CB,xa_p90,xA /90,attacking,5,62,0.3
+La Liga,2015/2016,CB,key_passes_p90,Key passes /90,attacking,5,62,0.6
+La Liga,2015/2016,CB,touches_box_p90,Box touches /90,attacking,5,62,0.3
+La Liga,2015/2016,CB,progressive_passes_p90,Progressive passes /90,progression,5,62,0.6
+La Liga,2015/2016,CB,progressive_carries_p90,Progressive carries /90,progression,5,62,0.7
+La Liga,2015/2016,CB,dribbles_completed_p90,Successful dribbles /90,progression,5,62,0.5
+La Liga,2015/2016,CB,pass_completion_pct,Pass completion %,progression,5,62,0.8
+La Liga,2015/2016,CB,pressures_p90,Pressures /90,defending,5,62,0.6
+La Liga,2015/2016,CB,tackles_interceptions_p90,Tackles + interceptions /90,defending,5,62,0.4
+La Liga,2015/2016,CB,ball_recoveries_p90,Ball recoveries /90,defending,5,62,0.6
+La Liga,2015/2016,CB,aerials_won_p90,Aerial duels won /90,defending,5,62,0.4
+La Liga,2015/2016,CB,npxg_p90,npxG /90,attacking,10,62,0.6
+La Liga,2015/2016,CB,shots_p90,Shots /90,attacking,10,62,0.7
+La Liga,2015/2016,CB,xa_p90,xA /90,attacking,10,62,0.7
+La Liga,2015/2016,CB,key_passes_p90,Key passes /90,attacking,10,62,0.7
+La Liga,2015/2016,CB,touches_box_p90,Box touches /90,attacking,10,62,0.6
+La Liga,2015/2016,CB,progressive_passes_p90,Progressive passes /90,progression,10,62,0.6
+La Liga,2015/2016,CB,progressive_carries_p90,Progressive carries /90,progression,10,62,0.9
+La Liga,2015/2016,CB,dribbles_completed_p90,Successful dribbles /90,progression,10,62,0.7
+La Liga,2015/2016,CB,pass_completion_pct,Pass completion %,progression,10,62,0.9
+La Liga,2015/2016,CB,pressures_p90,Pressures /90,defending,10,62,0.7
+La Liga,2015/2016,CB,tackles_interceptions_p90,Tackles + interceptions /90,defending,10,62,0.6
+La Liga,2015/2016,CB,ball_recoveries_p90,Ball recoveries /90,defending,10,62,0.8
+La Liga,2015/2016,CB,aerials_won_p90,Aerial duels won /90,defending,10,62,0.7
+La Liga,2015/2016,CB,npxg_p90,npxG /90,attacking,15,49,0.6
+La Liga,2015/2016,CB,shots_p90,Shots /90,attacking,15,49,0.9
+La Liga,2015/2016,CB,xa_p90,xA /90,attacking,15,49,0.7
+La Liga,2015/2016,CB,key_passes_p90,Key passes /90,attacking,15,49,0.9
+La Liga,2015/2016,CB,touches_box_p90,Box touches /90,attacking,15,49,0.8
+La Liga,2015/2016,CB,progressive_passes_p90,Progressive passes /90,progression,15,49,0.9
+La Liga,2015/2016,CB,progressive_carries_p90,Progressive carries /90,progression,15,49,0.9
+La Liga,2015/2016,CB,dribbles_completed_p90,Successful dribbles /90,progression,15,49,0.9
+La Liga,2015/2016,CB,pass_completion_pct,Pass completion %,progression,15,49,0.8
+La Liga,2015/2016,CB,pressures_p90,Pressures /90,defending,15,49,0.6
+La Liga,2015/2016,CB,tackles_interceptions_p90,Tackles + interceptions /90,defending,15,49,0.7
+La Liga,2015/2016,CB,ball_recoveries_p90,Ball recoveries /90,defending,15,49,0.8
+La Liga,2015/2016,CB,aerials_won_p90,Aerial duels won /90,defending,15,49,0.8
+La Liga,2015/2016,CB,npxg_p90,npxG /90,attacking,20,43,0.8
+La Liga,2015/2016,CB,shots_p90,Shots /90,attacking,20,43,0.9
+La Liga,2015/2016,CB,xa_p90,xA /90,attacking,20,43,0.7
+La Liga,2015/2016,CB,key_passes_p90,Key passes /90,attacking,20,43,0.9
+La Liga,2015/2016,CB,touches_box_p90,Box touches /90,attacking,20,43,0.9
+La Liga,2015/2016,CB,progressive_passes_p90,Progressive passes /90,progression,20,43,0.8
+La Liga,2015/2016,CB,progressive_carries_p90,Progressive carries /90,progression,20,43,0.8
+La Liga,2015/2016,CB,dribbles_completed_p90,Successful dribbles /90,progression,20,43,1.0
+La Liga,2015/2016,CB,pass_completion_pct,Pass completion %,progression,20,43,0.9
+La Liga,2015/2016,CB,pressures_p90,Pressures /90,defending,20,43,0.9
+La Liga,2015/2016,CB,tackles_interceptions_p90,Tackles + interceptions /90,defending,20,43,0.9
+La Liga,2015/2016,CB,ball_recoveries_p90,Ball recoveries /90,defending,20,43,0.9
+La Liga,2015/2016,CB,aerials_won_p90,Aerial duels won /90,defending,20,43,1.0
+La Liga,2015/2016,FB,npxg_p90,npxG /90,attacking,5,68,0.4
+La Liga,2015/2016,FB,shots_p90,Shots /90,attacking,5,68,0.5
+La Liga,2015/2016,FB,xa_p90,xA /90,attacking,5,68,0.4
+La Liga,2015/2016,FB,key_passes_p90,Key passes /90,attacking,5,68,0.6
+La Liga,2015/2016,FB,touches_box_p90,Box touches /90,attacking,5,68,0.6
+La Liga,2015/2016,FB,progressive_passes_p90,Progressive passes /90,progression,5,68,0.6
+La Liga,2015/2016,FB,progressive_carries_p90,Progressive carries /90,progression,5,68,0.6
+La Liga,2015/2016,FB,dribbles_completed_p90,Successful dribbles /90,progression,5,68,0.7
+La Liga,2015/2016,FB,pass_completion_pct,Pass completion %,progression,5,68,0.7
+La Liga,2015/2016,FB,pressures_p90,Pressures /90,defending,5,68,0.7
+La Liga,2015/2016,FB,tackles_interceptions_p90,Tackles + interceptions /90,defending,5,68,0.4
+La Liga,2015/2016,FB,ball_recoveries_p90,Ball recoveries /90,defending,5,68,0.7
+La Liga,2015/2016,FB,aerials_won_p90,Aerial duels won /90,defending,5,68,0.6
+La Liga,2015/2016,FB,npxg_p90,npxG /90,attacking,10,68,0.6
+La Liga,2015/2016,FB,shots_p90,Shots /90,attacking,10,68,0.6
+La Liga,2015/2016,FB,xa_p90,xA /90,attacking,10,68,0.7
+La Liga,2015/2016,FB,key_passes_p90,Key passes /90,attacking,10,68,0.5
+La Liga,2015/2016,FB,touches_box_p90,Box touches /90,attacking,10,68,0.7
+La Liga,2015/2016,FB,progressive_passes_p90,Progressive passes /90,progression,10,68,0.7
+La Liga,2015/2016,FB,progressive_carries_p90,Progressive carries /90,progression,10,68,0.7
+La Liga,2015/2016,FB,dribbles_completed_p90,Successful dribbles /90,progression,10,68,0.9
+La Liga,2015/2016,FB,pass_completion_pct,Pass completion %,progression,10,68,0.8
+La Liga,2015/2016,FB,pressures_p90,Pressures /90,defending,10,68,0.8
+La Liga,2015/2016,FB,tackles_interceptions_p90,Tackles + interceptions /90,defending,10,68,0.4
+La Liga,2015/2016,FB,ball_recoveries_p90,Ball recoveries /90,defending,10,68,0.9
+La Liga,2015/2016,FB,aerials_won_p90,Aerial duels won /90,defending,10,68,0.9
+La Liga,2015/2016,FB,npxg_p90,npxG /90,attacking,15,55,0.7
+La Liga,2015/2016,FB,shots_p90,Shots /90,attacking,15,55,0.8
+La Liga,2015/2016,FB,xa_p90,xA /90,attacking,15,55,0.8
+La Liga,2015/2016,FB,key_passes_p90,Key passes /90,attacking,15,55,0.9
+La Liga,2015/2016,FB,touches_box_p90,Box touches /90,attacking,15,55,0.7
+La Liga,2015/2016,FB,progressive_passes_p90,Progressive passes /90,progression,15,55,0.8
+La Liga,2015/2016,FB,progressive_carries_p90,Progressive carries /90,progression,15,55,0.8
+La Liga,2015/2016,FB,dribbles_completed_p90,Successful dribbles /90,progression,15,55,1.0
+La Liga,2015/2016,FB,pass_completion_pct,Pass completion %,progression,15,55,0.8
+La Liga,2015/2016,FB,pressures_p90,Pressures /90,defending,15,55,0.8
+La Liga,2015/2016,FB,tackles_interceptions_p90,Tackles + interceptions /90,defending,15,55,0.7
+La Liga,2015/2016,FB,ball_recoveries_p90,Ball recoveries /90,defending,15,55,0.7
+La Liga,2015/2016,FB,aerials_won_p90,Aerial duels won /90,defending,15,55,0.8
+La Liga,2015/2016,FB,npxg_p90,npxG /90,attacking,20,40,0.9
+La Liga,2015/2016,FB,shots_p90,Shots /90,attacking,20,40,0.9
+La Liga,2015/2016,FB,xa_p90,xA /90,attacking,20,40,0.9
+La Liga,2015/2016,FB,key_passes_p90,Key passes /90,attacking,20,40,0.8
+La Liga,2015/2016,FB,touches_box_p90,Box touches /90,attacking,20,40,0.9
+La Liga,2015/2016,FB,progressive_passes_p90,Progressive passes /90,progression,20,40,0.9
+La Liga,2015/2016,FB,progressive_carries_p90,Progressive carries /90,progression,20,40,1.0
+La Liga,2015/2016,FB,dribbles_completed_p90,Successful dribbles /90,progression,20,40,0.9
+La Liga,2015/2016,FB,pass_completion_pct,Pass completion %,progression,20,40,0.9
+La Liga,2015/2016,FB,pressures_p90,Pressures /90,defending,20,40,1.0
+La Liga,2015/2016,FB,tackles_interceptions_p90,Tackles + interceptions /90,defending,20,40,0.9
+La Liga,2015/2016,FB,ball_recoveries_p90,Ball recoveries /90,defending,20,40,0.9
+La Liga,2015/2016,FB,aerials_won_p90,Aerial duels won /90,defending,20,40,0.8
+La Liga,2015/2016,DM,npxg_p90,npxG /90,attacking,5,54,0.3
+La Liga,2015/2016,DM,shots_p90,Shots /90,attacking,5,54,0.7
+La Liga,2015/2016,DM,xa_p90,xA /90,attacking,5,54,0.6
+La Liga,2015/2016,DM,key_passes_p90,Key passes /90,attacking,5,54,0.8
+La Liga,2015/2016,DM,touches_box_p90,Box touches /90,attacking,5,54,0.7
+La Liga,2015/2016,DM,progressive_passes_p90,Progressive passes /90,progression,5,54,0.5
+La Liga,2015/2016,DM,progressive_carries_p90,Progressive carries /90,progression,5,54,0.6
+La Liga,2015/2016,DM,dribbles_completed_p90,Successful dribbles /90,progression,5,54,0.3
+La Liga,2015/2016,DM,pass_completion_pct,Pass completion %,progression,5,54,0.7
+La Liga,2015/2016,DM,pressures_p90,Pressures /90,defending,5,54,0.7
+La Liga,2015/2016,DM,tackles_interceptions_p90,Tackles + interceptions /90,defending,5,54,0.6
+La Liga,2015/2016,DM,ball_recoveries_p90,Ball recoveries /90,defending,5,54,0.4
+La Liga,2015/2016,DM,aerials_won_p90,Aerial duels won /90,defending,5,54,0.7
+La Liga,2015/2016,DM,npxg_p90,npxG /90,attacking,10,54,0.6
+La Liga,2015/2016,DM,shots_p90,Shots /90,attacking,10,54,0.8
+La Liga,2015/2016,DM,xa_p90,xA /90,attacking,10,54,0.8
+La Liga,2015/2016,DM,key_passes_p90,Key passes /90,attacking,10,54,0.9
+La Liga,2015/2016,DM,touches_box_p90,Box touches /90,attacking,10,54,0.7
+La Liga,2015/2016,DM,progressive_passes_p90,Progressive passes /90,progression,10,54,0.6
+La Liga,2015/2016,DM,progressive_carries_p90,Progressive carries /90,progression,10,54,0.8
+La Liga,2015/2016,DM,dribbles_completed_p90,Successful dribbles /90,progression,10,54,0.7
+La Liga,2015/2016,DM,pass_completion_pct,Pass completion %,progression,10,54,0.8
+La Liga,2015/2016,DM,pressures_p90,Pressures /90,defending,10,54,0.7
+La Liga,2015/2016,DM,tackles_interceptions_p90,Tackles + interceptions /90,defending,10,54,0.7
+La Liga,2015/2016,DM,ball_recoveries_p90,Ball recoveries /90,defending,10,54,0.5
+La Liga,2015/2016,DM,aerials_won_p90,Aerial duels won /90,defending,10,54,0.7
+La Liga,2015/2016,DM,npxg_p90,npxG /90,attacking,15,49,0.7
+La Liga,2015/2016,DM,shots_p90,Shots /90,attacking,15,49,0.9
+La Liga,2015/2016,DM,xa_p90,xA /90,attacking,15,49,0.7
+La Liga,2015/2016,DM,key_passes_p90,Key passes /90,attacking,15,49,0.9
+La Liga,2015/2016,DM,touches_box_p90,Box touches /90,attacking,15,49,0.7
+La Liga,2015/2016,DM,progressive_passes_p90,Progressive passes /90,progression,15,49,0.9
+La Liga,2015/2016,DM,progressive_carries_p90,Progressive carries /90,progression,15,49,0.9
+La Liga,2015/2016,DM,dribbles_completed_p90,Successful dribbles /90,progression,15,49,0.7
+La Liga,2015/2016,DM,pass_completion_pct,Pass completion %,progression,15,49,0.9
+La Liga,2015/2016,DM,pressures_p90,Pressures /90,defending,15,49,1.0
+La Liga,2015/2016,DM,tackles_interceptions_p90,Tackles + interceptions /90,defending,15,49,0.9
+La Liga,2015/2016,DM,ball_recoveries_p90,Ball recoveries /90,defending,15,49,0.7
+La Liga,2015/2016,DM,aerials_won_p90,Aerial duels won /90,defending,15,49,0.8
+La Liga,2015/2016,DM,npxg_p90,npxG /90,attacking,20,38,0.9
+La Liga,2015/2016,DM,shots_p90,Shots /90,attacking,20,38,0.8
+La Liga,2015/2016,DM,xa_p90,xA /90,attacking,20,38,0.7
+La Liga,2015/2016,DM,key_passes_p90,Key passes /90,attacking,20,38,0.9
+La Liga,2015/2016,DM,touches_box_p90,Box touches /90,attacking,20,38,0.8
+La Liga,2015/2016,DM,progressive_passes_p90,Progressive passes /90,progression,20,38,0.9
+La Liga,2015/2016,DM,progressive_carries_p90,Progressive carries /90,progression,20,38,0.9
+La Liga,2015/2016,DM,dribbles_completed_p90,Successful dribbles /90,progression,20,38,0.7
+La Liga,2015/2016,DM,pass_completion_pct,Pass completion %,progression,20,38,0.9
+La Liga,2015/2016,DM,pressures_p90,Pressures /90,defending,20,38,0.9
+La Liga,2015/2016,DM,tackles_interceptions_p90,Tackles + interceptions /90,defending,20,38,0.9
+La Liga,2015/2016,DM,ball_recoveries_p90,Ball recoveries /90,defending,20,38,0.9
+La Liga,2015/2016,DM,aerials_won_p90,Aerial duels won /90,defending,20,38,0.9
+La Liga,2015/2016,CM,npxg_p90,npxG /90,attacking,5,33,0.6
+La Liga,2015/2016,CM,shots_p90,Shots /90,attacking,5,33,0.6
+La Liga,2015/2016,CM,xa_p90,xA /90,attacking,5,33,0.7
+La Liga,2015/2016,CM,key_passes_p90,Key passes /90,attacking,5,33,0.7
+La Liga,2015/2016,CM,touches_box_p90,Box touches /90,attacking,5,33,0.7
+La Liga,2015/2016,CM,progressive_passes_p90,Progressive passes /90,progression,5,33,0.8
+La Liga,2015/2016,CM,progressive_carries_p90,Progressive carries /90,progression,5,33,0.8
+La Liga,2015/2016,CM,dribbles_completed_p90,Successful dribbles /90,progression,5,33,0.7
+La Liga,2015/2016,CM,pass_completion_pct,Pass completion %,progression,5,33,0.7
+La Liga,2015/2016,CM,pressures_p90,Pressures /90,defending,5,33,0.9
+La Liga,2015/2016,CM,tackles_interceptions_p90,Tackles + interceptions /90,defending,5,33,0.8
+La Liga,2015/2016,CM,ball_recoveries_p90,Ball recoveries /90,defending,5,33,0.4
+La Liga,2015/2016,CM,aerials_won_p90,Aerial duels won /90,defending,5,33,0.6
+La Liga,2015/2016,CM,npxg_p90,npxG /90,attacking,10,33,0.6
+La Liga,2015/2016,CM,shots_p90,Shots /90,attacking,10,33,0.8
+La Liga,2015/2016,CM,xa_p90,xA /90,attacking,10,33,0.8
+La Liga,2015/2016,CM,key_passes_p90,Key passes /90,attacking,10,33,0.9
+La Liga,2015/2016,CM,touches_box_p90,Box touches /90,attacking,10,33,0.8
+La Liga,2015/2016,CM,progressive_passes_p90,Progressive passes /90,progression,10,33,0.8
+La Liga,2015/2016,CM,progressive_carries_p90,Progressive carries /90,progression,10,33,0.9
+La Liga,2015/2016,CM,dribbles_completed_p90,Successful dribbles /90,progression,10,33,0.9
+La Liga,2015/2016,CM,pass_completion_pct,Pass completion %,progression,10,33,1.0
+La Liga,2015/2016,CM,pressures_p90,Pressures /90,defending,10,33,0.9
+La Liga,2015/2016,CM,tackles_interceptions_p90,Tackles + interceptions /90,defending,10,33,0.9
+La Liga,2015/2016,CM,ball_recoveries_p90,Ball recoveries /90,defending,10,33,0.8
+La Liga,2015/2016,CM,aerials_won_p90,Aerial duels won /90,defending,10,33,0.7
+La Liga,2015/2016,CM,npxg_p90,npxG /90,attacking,15,29,0.8
+La Liga,2015/2016,CM,shots_p90,Shots /90,attacking,15,29,0.8
+La Liga,2015/2016,CM,xa_p90,xA /90,attacking,15,29,0.8
+La Liga,2015/2016,CM,key_passes_p90,Key passes /90,attacking,15,29,0.9
+La Liga,2015/2016,CM,touches_box_p90,Box touches /90,attacking,15,29,0.9
+La Liga,2015/2016,CM,progressive_passes_p90,Progressive passes /90,progression,15,29,0.9
+La Liga,2015/2016,CM,progressive_carries_p90,Progressive carries /90,progression,15,29,1.0
+La Liga,2015/2016,CM,dribbles_completed_p90,Successful dribbles /90,progression,15,29,1.0
+La Liga,2015/2016,CM,pass_completion_pct,Pass completion %,progression,15,29,1.0
+La Liga,2015/2016,CM,pressures_p90,Pressures /90,defending,15,29,0.9
+La Liga,2015/2016,CM,tackles_interceptions_p90,Tackles + interceptions /90,defending,15,29,0.9
+La Liga,2015/2016,CM,ball_recoveries_p90,Ball recoveries /90,defending,15,29,0.8
+La Liga,2015/2016,CM,aerials_won_p90,Aerial duels won /90,defending,15,29,0.8
+La Liga,2015/2016,CM,npxg_p90,npxG /90,attacking,20,24,0.8
+La Liga,2015/2016,CM,shots_p90,Shots /90,attacking,20,24,0.9
+La Liga,2015/2016,CM,xa_p90,xA /90,attacking,20,24,0.9
+La Liga,2015/2016,CM,key_passes_p90,Key passes /90,attacking,20,24,0.9
+La Liga,2015/2016,CM,touches_box_p90,Box touches /90,attacking,20,24,1.0
+La Liga,2015/2016,CM,progressive_passes_p90,Progressive passes /90,progression,20,24,1.0
+La Liga,2015/2016,CM,progressive_carries_p90,Progressive carries /90,progression,20,24,1.0
+La Liga,2015/2016,CM,dribbles_completed_p90,Successful dribbles /90,progression,20,24,1.0
+La Liga,2015/2016,CM,pass_completion_pct,Pass completion %,progression,20,24,0.9
+La Liga,2015/2016,CM,pressures_p90,Pressures /90,defending,20,24,1.0
+La Liga,2015/2016,CM,tackles_interceptions_p90,Tackles + interceptions /90,defending,20,24,1.0
+La Liga,2015/2016,CM,ball_recoveries_p90,Ball recoveries /90,defending,20,24,0.8
+La Liga,2015/2016,CM,aerials_won_p90,Aerial duels won /90,defending,20,24,1.0
+La Liga,2015/2016,W,npxg_p90,npxG /90,attacking,5,43,0.6
+La Liga,2015/2016,W,shots_p90,Shots /90,attacking,5,43,0.9
+La Liga,2015/2016,W,xa_p90,xA /90,attacking,5,43,0.7
+La Liga,2015/2016,W,key_passes_p90,Key passes /90,attacking,5,43,0.7
+La Liga,2015/2016,W,touches_box_p90,Box touches /90,attacking,5,43,0.8
+La Liga,2015/2016,W,progressive_passes_p90,Progressive passes /90,progression,5,43,0.7
+La Liga,2015/2016,W,progressive_carries_p90,Progressive carries /90,progression,5,43,0.6
+La Liga,2015/2016,W,dribbles_completed_p90,Successful dribbles /90,progression,5,43,0.8
+La Liga,2015/2016,W,pass_completion_pct,Pass completion %,progression,5,43,0.6
+La Liga,2015/2016,W,pressures_p90,Pressures /90,defending,5,43,0.7
+La Liga,2015/2016,W,tackles_interceptions_p90,Tackles + interceptions /90,defending,5,43,0.7
+La Liga,2015/2016,W,ball_recoveries_p90,Ball recoveries /90,defending,5,43,0.6
+La Liga,2015/2016,W,aerials_won_p90,Aerial duels won /90,defending,5,43,0.7
+La Liga,2015/2016,W,npxg_p90,npxG /90,attacking,10,43,0.7
+La Liga,2015/2016,W,shots_p90,Shots /90,attacking,10,43,0.8
+La Liga,2015/2016,W,xa_p90,xA /90,attacking,10,43,0.8
+La Liga,2015/2016,W,key_passes_p90,Key passes /90,attacking,10,43,0.9
+La Liga,2015/2016,W,touches_box_p90,Box touches /90,attacking,10,43,0.8
+La Liga,2015/2016,W,progressive_passes_p90,Progressive passes /90,progression,10,43,0.9
+La Liga,2015/2016,W,progressive_carries_p90,Progressive carries /90,progression,10,43,0.8
+La Liga,2015/2016,W,dribbles_completed_p90,Successful dribbles /90,progression,10,43,0.9
+La Liga,2015/2016,W,pass_completion_pct,Pass completion %,progression,10,43,0.8
+La Liga,2015/2016,W,pressures_p90,Pressures /90,defending,10,43,0.9
+La Liga,2015/2016,W,tackles_interceptions_p90,Tackles + interceptions /90,defending,10,43,0.8
+La Liga,2015/2016,W,ball_recoveries_p90,Ball recoveries /90,defending,10,43,0.7
+La Liga,2015/2016,W,aerials_won_p90,Aerial duels won /90,defending,10,43,0.7
+La Liga,2015/2016,W,npxg_p90,npxG /90,attacking,15,38,0.8
+La Liga,2015/2016,W,shots_p90,Shots /90,attacking,15,38,0.9
+La Liga,2015/2016,W,xa_p90,xA /90,attacking,15,38,0.8
+La Liga,2015/2016,W,key_passes_p90,Key passes /90,attacking,15,38,0.8
+La Liga,2015/2016,W,touches_box_p90,Box touches /90,attacking,15,38,1.0
+La Liga,2015/2016,W,progressive_passes_p90,Progressive passes /90,progression,15,38,0.9
+La Liga,2015/2016,W,progressive_carries_p90,Progressive carries /90,progression,15,38,0.9
+La Liga,2015/2016,W,dribbles_completed_p90,Successful dribbles /90,progression,15,38,1.0
+La Liga,2015/2016,W,pass_completion_pct,Pass completion %,progression,15,38,0.8
+La Liga,2015/2016,W,pressures_p90,Pressures /90,defending,15,38,1.0
+La Liga,2015/2016,W,tackles_interceptions_p90,Tackles + interceptions /90,defending,15,38,0.6
+La Liga,2015/2016,W,ball_recoveries_p90,Ball recoveries /90,defending,15,38,0.9
+La Liga,2015/2016,W,aerials_won_p90,Aerial duels won /90,defending,15,38,0.9
+La Liga,2015/2016,W,npxg_p90,npxG /90,attacking,20,25,1.0
+La Liga,2015/2016,W,shots_p90,Shots /90,attacking,20,25,0.9
+La Liga,2015/2016,W,xa_p90,xA /90,attacking,20,25,0.9
+La Liga,2015/2016,W,key_passes_p90,Key passes /90,attacking,20,25,1.0
+La Liga,2015/2016,W,touches_box_p90,Box touches /90,attacking,20,25,0.9
+La Liga,2015/2016,W,progressive_passes_p90,Progressive passes /90,progression,20,25,0.9
+La Liga,2015/2016,W,progressive_carries_p90,Progressive carries /90,progression,20,25,0.9
+La Liga,2015/2016,W,dribbles_completed_p90,Successful dribbles /90,progression,20,25,0.9
+La Liga,2015/2016,W,pass_completion_pct,Pass completion %,progression,20,25,1.0
+La Liga,2015/2016,W,pressures_p90,Pressures /90,defending,20,25,0.9
+La Liga,2015/2016,W,tackles_interceptions_p90,Tackles + interceptions /90,defending,20,25,0.9
+La Liga,2015/2016,W,ball_recoveries_p90,Ball recoveries /90,defending,20,25,0.9
+La Liga,2015/2016,W,aerials_won_p90,Aerial duels won /90,defending,20,25,0.9
+La Liga,2015/2016,FW,npxg_p90,npxG /90,attacking,5,37,0.6
+La Liga,2015/2016,FW,shots_p90,Shots /90,attacking,5,37,0.7
+La Liga,2015/2016,FW,xa_p90,xA /90,attacking,5,37,0.5
+La Liga,2015/2016,FW,key_passes_p90,Key passes /90,attacking,5,37,0.8
+La Liga,2015/2016,FW,touches_box_p90,Box touches /90,attacking,5,37,0.8
+La Liga,2015/2016,FW,progressive_passes_p90,Progressive passes /90,progression,5,37,0.7
+La Liga,2015/2016,FW,progressive_carries_p90,Progressive carries /90,progression,5,37,0.8
+La Liga,2015/2016,FW,dribbles_completed_p90,Successful dribbles /90,progression,5,37,0.3
+La Liga,2015/2016,FW,pass_completion_pct,Pass completion %,progression,5,37,0.7
+La Liga,2015/2016,FW,pressures_p90,Pressures /90,defending,5,37,0.7
+La Liga,2015/2016,FW,tackles_interceptions_p90,Tackles + interceptions /90,defending,5,37,0.7
+La Liga,2015/2016,FW,ball_recoveries_p90,Ball recoveries /90,defending,5,37,0.6
+La Liga,2015/2016,FW,aerials_won_p90,Aerial duels won /90,defending,5,37,0.7
+La Liga,2015/2016,FW,npxg_p90,npxG /90,attacking,10,37,0.9
+La Liga,2015/2016,FW,shots_p90,Shots /90,attacking,10,37,0.7
+La Liga,2015/2016,FW,xa_p90,xA /90,attacking,10,37,0.6
+La Liga,2015/2016,FW,key_passes_p90,Key passes /90,attacking,10,37,0.8
+La Liga,2015/2016,FW,touches_box_p90,Box touches /90,attacking,10,37,0.9
+La Liga,2015/2016,FW,progressive_passes_p90,Progressive passes /90,progression,10,37,0.7
+La Liga,2015/2016,FW,progressive_carries_p90,Progressive carries /90,progression,10,37,0.8
+La Liga,2015/2016,FW,dribbles_completed_p90,Successful dribbles /90,progression,10,37,0.8
+La Liga,2015/2016,FW,pass_completion_pct,Pass completion %,progression,10,37,0.8
+La Liga,2015/2016,FW,pressures_p90,Pressures /90,defending,10,37,0.8
+La Liga,2015/2016,FW,tackles_interceptions_p90,Tackles + interceptions /90,defending,10,37,0.9
+La Liga,2015/2016,FW,ball_recoveries_p90,Ball recoveries /90,defending,10,37,0.7
+La Liga,2015/2016,FW,aerials_won_p90,Aerial duels won /90,defending,10,37,0.7
+La Liga,2015/2016,FW,npxg_p90,npxG /90,attacking,15,34,0.8
+La Liga,2015/2016,FW,shots_p90,Shots /90,attacking,15,34,0.8
+La Liga,2015/2016,FW,xa_p90,xA /90,attacking,15,34,0.8
+La Liga,2015/2016,FW,key_passes_p90,Key passes /90,attacking,15,34,0.9
+La Liga,2015/2016,FW,touches_box_p90,Box touches /90,attacking,15,34,0.8
+La Liga,2015/2016,FW,progressive_passes_p90,Progressive passes /90,progression,15,34,0.8
+La Liga,2015/2016,FW,progressive_carries_p90,Progressive carries /90,progression,15,34,0.8
+La Liga,2015/2016,FW,dribbles_completed_p90,Successful dribbles /90,progression,15,34,0.8
+La Liga,2015/2016,FW,pass_completion_pct,Pass completion %,progression,15,34,0.8
+La Liga,2015/2016,FW,pressures_p90,Pressures /90,defending,15,34,0.8
+La Liga,2015/2016,FW,tackles_interceptions_p90,Tackles + interceptions /90,defending,15,34,1.0
+La Liga,2015/2016,FW,ball_recoveries_p90,Ball recoveries /90,defending,15,34,0.7
+La Liga,2015/2016,FW,aerials_won_p90,Aerial duels won /90,defending,15,34,0.8
+La Liga,2015/2016,FW,npxg_p90,npxG /90,attacking,20,27,0.9
+La Liga,2015/2016,FW,shots_p90,Shots /90,attacking,20,27,0.9
+La Liga,2015/2016,FW,xa_p90,xA /90,attacking,20,27,0.7
+La Liga,2015/2016,FW,key_passes_p90,Key passes /90,attacking,20,27,0.9
+La Liga,2015/2016,FW,touches_box_p90,Box touches /90,attacking,20,27,0.9
+La Liga,2015/2016,FW,progressive_passes_p90,Progressive passes /90,progression,20,27,0.8
+La Liga,2015/2016,FW,progressive_carries_p90,Progressive carries /90,progression,20,27,0.8
+La Liga,2015/2016,FW,dribbles_completed_p90,Successful dribbles /90,progression,20,27,0.9
+La Liga,2015/2016,FW,pass_completion_pct,Pass completion %,progression,20,27,0.7
+La Liga,2015/2016,FW,pressures_p90,Pressures /90,defending,20,27,0.9
+La Liga,2015/2016,FW,tackles_interceptions_p90,Tackles + interceptions /90,defending,20,27,0.9
+La Liga,2015/2016,FW,ball_recoveries_p90,Ball recoveries /90,defending,20,27,0.8
+La Liga,2015/2016,FW,aerials_won_p90,Aerial duels won /90,defending,20,27,0.9
+Ligue 1,2015/2016,CB,npxg_p90,npxG /90,attacking,5,67,0.5
+Ligue 1,2015/2016,CB,shots_p90,Shots /90,attacking,5,67,0.4
+Ligue 1,2015/2016,CB,xa_p90,xA /90,attacking,5,67,0.3
+Ligue 1,2015/2016,CB,key_passes_p90,Key passes /90,attacking,5,67,0.5
+Ligue 1,2015/2016,CB,touches_box_p90,Box touches /90,attacking,5,67,0.5
+Ligue 1,2015/2016,CB,progressive_passes_p90,Progressive passes /90,progression,5,67,0.6
+Ligue 1,2015/2016,CB,progressive_carries_p90,Progressive carries /90,progression,5,67,0.5
+Ligue 1,2015/2016,CB,dribbles_completed_p90,Successful dribbles /90,progression,5,67,0.6
+Ligue 1,2015/2016,CB,pass_completion_pct,Pass completion %,progression,5,67,0.7
+Ligue 1,2015/2016,CB,pressures_p90,Pressures /90,defending,5,67,0.5
+Ligue 1,2015/2016,CB,tackles_interceptions_p90,Tackles + interceptions /90,defending,5,67,0.5
+Ligue 1,2015/2016,CB,ball_recoveries_p90,Ball recoveries /90,defending,5,67,0.8
+Ligue 1,2015/2016,CB,aerials_won_p90,Aerial duels won /90,defending,5,67,0.6
+Ligue 1,2015/2016,CB,npxg_p90,npxG /90,attacking,10,67,0.7
+Ligue 1,2015/2016,CB,shots_p90,Shots /90,attacking,10,67,0.8
+Ligue 1,2015/2016,CB,xa_p90,xA /90,attacking,10,67,0.6
+Ligue 1,2015/2016,CB,key_passes_p90,Key passes /90,attacking,10,67,0.6
+Ligue 1,2015/2016,CB,touches_box_p90,Box touches /90,attacking,10,67,0.7
+Ligue 1,2015/2016,CB,progressive_passes_p90,Progressive passes /90,progression,10,67,0.6
+Ligue 1,2015/2016,CB,progressive_carries_p90,Progressive carries /90,progression,10,67,0.8
+Ligue 1,2015/2016,CB,dribbles_completed_p90,Successful dribbles /90,progression,10,67,0.5
+Ligue 1,2015/2016,CB,pass_completion_pct,Pass completion %,progression,10,67,0.7
+Ligue 1,2015/2016,CB,pressures_p90,Pressures /90,defending,10,67,0.6
+Ligue 1,2015/2016,CB,tackles_interceptions_p90,Tackles + interceptions /90,defending,10,67,0.8
+Ligue 1,2015/2016,CB,ball_recoveries_p90,Ball recoveries /90,defending,10,67,0.8
+Ligue 1,2015/2016,CB,aerials_won_p90,Aerial duels won /90,defending,10,67,0.8
+Ligue 1,2015/2016,CB,npxg_p90,npxG /90,attacking,15,56,0.8
+Ligue 1,2015/2016,CB,shots_p90,Shots /90,attacking,15,56,0.7
+Ligue 1,2015/2016,CB,xa_p90,xA /90,attacking,15,56,0.8
+Ligue 1,2015/2016,CB,key_passes_p90,Key passes /90,attacking,15,56,0.8
+Ligue 1,2015/2016,CB,touches_box_p90,Box touches /90,attacking,15,56,0.7
+Ligue 1,2015/2016,CB,progressive_passes_p90,Progressive passes /90,progression,15,56,0.7
+Ligue 1,2015/2016,CB,progressive_carries_p90,Progressive carries /90,progression,15,56,0.8
+Ligue 1,2015/2016,CB,dribbles_completed_p90,Successful dribbles /90,progression,15,56,0.8
+Ligue 1,2015/2016,CB,pass_completion_pct,Pass completion %,progression,15,56,0.8
+Ligue 1,2015/2016,CB,pressures_p90,Pressures /90,defending,15,56,0.8
+Ligue 1,2015/2016,CB,tackles_interceptions_p90,Tackles + interceptions /90,defending,15,56,0.7
+Ligue 1,2015/2016,CB,ball_recoveries_p90,Ball recoveries /90,defending,15,56,0.8
+Ligue 1,2015/2016,CB,aerials_won_p90,Aerial duels won /90,defending,15,56,0.8
+Ligue 1,2015/2016,CB,npxg_p90,npxG /90,attacking,20,45,0.7
+Ligue 1,2015/2016,CB,shots_p90,Shots /90,attacking,20,45,0.7
+Ligue 1,2015/2016,CB,xa_p90,xA /90,attacking,20,45,0.7
+Ligue 1,2015/2016,CB,key_passes_p90,Key passes /90,attacking,20,45,0.8
+Ligue 1,2015/2016,CB,touches_box_p90,Box touches /90,attacking,20,45,0.8
+Ligue 1,2015/2016,CB,progressive_passes_p90,Progressive passes /90,progression,20,45,0.9
+Ligue 1,2015/2016,CB,progressive_carries_p90,Progressive carries /90,progression,20,45,0.7
+Ligue 1,2015/2016,CB,dribbles_completed_p90,Successful dribbles /90,progression,20,45,0.8
+Ligue 1,2015/2016,CB,pass_completion_pct,Pass completion %,progression,20,45,0.9
+Ligue 1,2015/2016,CB,pressures_p90,Pressures /90,defending,20,45,0.8
+Ligue 1,2015/2016,CB,tackles_interceptions_p90,Tackles + interceptions /90,defending,20,45,0.9
+Ligue 1,2015/2016,CB,ball_recoveries_p90,Ball recoveries /90,defending,20,45,0.8
+Ligue 1,2015/2016,CB,aerials_won_p90,Aerial duels won /90,defending,20,45,1.0
+Ligue 1,2015/2016,FB,npxg_p90,npxG /90,attacking,5,66,0.5
+Ligue 1,2015/2016,FB,shots_p90,Shots /90,attacking,5,66,0.6
+Ligue 1,2015/2016,FB,xa_p90,xA /90,attacking,5,66,0.5
+Ligue 1,2015/2016,FB,key_passes_p90,Key passes /90,attacking,5,66,0.4
+Ligue 1,2015/2016,FB,touches_box_p90,Box touches /90,attacking,5,66,0.7
+Ligue 1,2015/2016,FB,progressive_passes_p90,Progressive passes /90,progression,5,66,0.7
+Ligue 1,2015/2016,FB,progressive_carries_p90,Progressive carries /90,progression,5,66,0.6
+Ligue 1,2015/2016,FB,dribbles_completed_p90,Successful dribbles /90,progression,5,66,0.6
+Ligue 1,2015/2016,FB,pass_completion_pct,Pass completion %,progression,5,66,0.5
+Ligue 1,2015/2016,FB,pressures_p90,Pressures /90,defending,5,66,0.7
+Ligue 1,2015/2016,FB,tackles_interceptions_p90,Tackles + interceptions /90,defending,5,66,0.7
+Ligue 1,2015/2016,FB,ball_recoveries_p90,Ball recoveries /90,defending,5,66,0.8
+Ligue 1,2015/2016,FB,aerials_won_p90,Aerial duels won /90,defending,5,66,0.7
+Ligue 1,2015/2016,FB,npxg_p90,npxG /90,attacking,10,66,0.7
+Ligue 1,2015/2016,FB,shots_p90,Shots /90,attacking,10,66,0.9
+Ligue 1,2015/2016,FB,xa_p90,xA /90,attacking,10,66,0.7
+Ligue 1,2015/2016,FB,key_passes_p90,Key passes /90,attacking,10,66,0.5
+Ligue 1,2015/2016,FB,touches_box_p90,Box touches /90,attacking,10,66,0.7
+Ligue 1,2015/2016,FB,progressive_passes_p90,Progressive passes /90,progression,10,66,0.9
+Ligue 1,2015/2016,FB,progressive_carries_p90,Progressive carries /90,progression,10,66,0.7
+Ligue 1,2015/2016,FB,dribbles_completed_p90,Successful dribbles /90,progression,10,66,0.7
+Ligue 1,2015/2016,FB,pass_completion_pct,Pass completion %,progression,10,66,0.6
+Ligue 1,2015/2016,FB,pressures_p90,Pressures /90,defending,10,66,0.8
+Ligue 1,2015/2016,FB,tackles_interceptions_p90,Tackles + interceptions /90,defending,10,66,0.8
+Ligue 1,2015/2016,FB,ball_recoveries_p90,Ball recoveries /90,defending,10,66,0.7
+Ligue 1,2015/2016,FB,aerials_won_p90,Aerial duels won /90,defending,10,66,0.8
+Ligue 1,2015/2016,FB,npxg_p90,npxG /90,attacking,15,55,0.9
+Ligue 1,2015/2016,FB,shots_p90,Shots /90,attacking,15,55,0.9
+Ligue 1,2015/2016,FB,xa_p90,xA /90,attacking,15,55,0.4
+Ligue 1,2015/2016,FB,key_passes_p90,Key passes /90,attacking,15,55,0.6
+Ligue 1,2015/2016,FB,touches_box_p90,Box touches /90,attacking,15,55,0.8
+Ligue 1,2015/2016,FB,progressive_passes_p90,Progressive passes /90,progression,15,55,1.0
+Ligue 1,2015/2016,FB,progressive_carries_p90,Progressive carries /90,progression,15,55,0.8
+Ligue 1,2015/2016,FB,dribbles_completed_p90,Successful dribbles /90,progression,15,55,0.8
+Ligue 1,2015/2016,FB,pass_completion_pct,Pass completion %,progression,15,55,0.8
+Ligue 1,2015/2016,FB,pressures_p90,Pressures /90,defending,15,55,1.0
+Ligue 1,2015/2016,FB,tackles_interceptions_p90,Tackles + interceptions /90,defending,15,55,0.8
+Ligue 1,2015/2016,FB,ball_recoveries_p90,Ball recoveries /90,defending,15,55,0.8
+Ligue 1,2015/2016,FB,aerials_won_p90,Aerial duels won /90,defending,15,55,0.9
+Ligue 1,2015/2016,FB,npxg_p90,npxG /90,attacking,20,38,0.9
+Ligue 1,2015/2016,FB,shots_p90,Shots /90,attacking,20,38,0.9
+Ligue 1,2015/2016,FB,xa_p90,xA /90,attacking,20,38,0.9
+Ligue 1,2015/2016,FB,key_passes_p90,Key passes /90,attacking,20,38,0.7
+Ligue 1,2015/2016,FB,touches_box_p90,Box touches /90,attacking,20,38,0.9
+Ligue 1,2015/2016,FB,progressive_passes_p90,Progressive passes /90,progression,20,38,0.9
+Ligue 1,2015/2016,FB,progressive_carries_p90,Progressive carries /90,progression,20,38,0.9
+Ligue 1,2015/2016,FB,dribbles_completed_p90,Successful dribbles /90,progression,20,38,0.9
+Ligue 1,2015/2016,FB,pass_completion_pct,Pass completion %,progression,20,38,1.0
+Ligue 1,2015/2016,FB,pressures_p90,Pressures /90,defending,20,38,0.9
+Ligue 1,2015/2016,FB,tackles_interceptions_p90,Tackles + interceptions /90,defending,20,38,0.9
+Ligue 1,2015/2016,FB,ball_recoveries_p90,Ball recoveries /90,defending,20,38,0.9
+Ligue 1,2015/2016,FB,aerials_won_p90,Aerial duels won /90,defending,20,38,1.0
+Ligue 1,2015/2016,DM,npxg_p90,npxG /90,attacking,5,47,0.6
+Ligue 1,2015/2016,DM,shots_p90,Shots /90,attacking,5,47,0.2
+Ligue 1,2015/2016,DM,xa_p90,xA /90,attacking,5,47,0.6
+Ligue 1,2015/2016,DM,key_passes_p90,Key passes /90,attacking,5,47,0.4
+Ligue 1,2015/2016,DM,touches_box_p90,Box touches /90,attacking,5,47,0.6
+Ligue 1,2015/2016,DM,progressive_passes_p90,Progressive passes /90,progression,5,47,0.7
+Ligue 1,2015/2016,DM,progressive_carries_p90,Progressive carries /90,progression,5,47,0.5
+Ligue 1,2015/2016,DM,dribbles_completed_p90,Successful dribbles /90,progression,5,47,0.6
+Ligue 1,2015/2016,DM,pass_completion_pct,Pass completion %,progression,5,47,0.6
+Ligue 1,2015/2016,DM,pressures_p90,Pressures /90,defending,5,47,0.7
+Ligue 1,2015/2016,DM,tackles_interceptions_p90,Tackles + interceptions /90,defending,5,47,0.3
+Ligue 1,2015/2016,DM,ball_recoveries_p90,Ball recoveries /90,defending,5,47,0.7
+Ligue 1,2015/2016,DM,aerials_won_p90,Aerial duels won /90,defending,5,47,0.8
+Ligue 1,2015/2016,DM,npxg_p90,npxG /90,attacking,10,47,0.9
+Ligue 1,2015/2016,DM,shots_p90,Shots /90,attacking,10,47,0.6
+Ligue 1,2015/2016,DM,xa_p90,xA /90,attacking,10,47,0.6
+Ligue 1,2015/2016,DM,key_passes_p90,Key passes /90,attacking,10,47,0.7
+Ligue 1,2015/2016,DM,touches_box_p90,Box touches /90,attacking,10,47,0.8
+Ligue 1,2015/2016,DM,progressive_passes_p90,Progressive passes /90,progression,10,47,0.8
+Ligue 1,2015/2016,DM,progressive_carries_p90,Progressive carries /90,progression,10,47,0.8
+Ligue 1,2015/2016,DM,dribbles_completed_p90,Successful dribbles /90,progression,10,47,0.7
+Ligue 1,2015/2016,DM,pass_completion_pct,Pass completion %,progression,10,47,0.7
+Ligue 1,2015/2016,DM,pressures_p90,Pressures /90,defending,10,47,0.8
+Ligue 1,2015/2016,DM,tackles_interceptions_p90,Tackles + interceptions /90,defending,10,47,0.7
+Ligue 1,2015/2016,DM,ball_recoveries_p90,Ball recoveries /90,defending,10,47,0.9
+Ligue 1,2015/2016,DM,aerials_won_p90,Aerial duels won /90,defending,10,47,0.7
+Ligue 1,2015/2016,DM,npxg_p90,npxG /90,attacking,15,43,0.7
+Ligue 1,2015/2016,DM,shots_p90,Shots /90,attacking,15,43,0.9
+Ligue 1,2015/2016,DM,xa_p90,xA /90,attacking,15,43,0.7
+Ligue 1,2015/2016,DM,key_passes_p90,Key passes /90,attacking,15,43,0.8
+Ligue 1,2015/2016,DM,touches_box_p90,Box touches /90,attacking,15,43,0.9
+Ligue 1,2015/2016,DM,progressive_passes_p90,Progressive passes /90,progression,15,43,0.9
+Ligue 1,2015/2016,DM,progressive_carries_p90,Progressive carries /90,progression,15,43,0.8
+Ligue 1,2015/2016,DM,dribbles_completed_p90,Successful dribbles /90,progression,15,43,0.9
+Ligue 1,2015/2016,DM,pass_completion_pct,Pass completion %,progression,15,43,0.9
+Ligue 1,2015/2016,DM,pressures_p90,Pressures /90,defending,15,43,0.9
+Ligue 1,2015/2016,DM,tackles_interceptions_p90,Tackles + interceptions /90,defending,15,43,0.6
+Ligue 1,2015/2016,DM,ball_recoveries_p90,Ball recoveries /90,defending,15,43,0.9
+Ligue 1,2015/2016,DM,aerials_won_p90,Aerial duels won /90,defending,15,43,0.9
+Ligue 1,2015/2016,DM,npxg_p90,npxG /90,attacking,20,33,0.9
+Ligue 1,2015/2016,DM,shots_p90,Shots /90,attacking,20,33,0.8
+Ligue 1,2015/2016,DM,xa_p90,xA /90,attacking,20,33,1.0
+Ligue 1,2015/2016,DM,key_passes_p90,Key passes /90,attacking,20,33,0.9
+Ligue 1,2015/2016,DM,touches_box_p90,Box touches /90,attacking,20,33,0.9
+Ligue 1,2015/2016,DM,progressive_passes_p90,Progressive passes /90,progression,20,33,1.0
+Ligue 1,2015/2016,DM,progressive_carries_p90,Progressive carries /90,progression,20,33,0.8
+Ligue 1,2015/2016,DM,dribbles_completed_p90,Successful dribbles /90,progression,20,33,0.9
+Ligue 1,2015/2016,DM,pass_completion_pct,Pass completion %,progression,20,33,1.0
+Ligue 1,2015/2016,DM,pressures_p90,Pressures /90,defending,20,33,0.8
+Ligue 1,2015/2016,DM,tackles_interceptions_p90,Tackles + interceptions /90,defending,20,33,0.7
+Ligue 1,2015/2016,DM,ball_recoveries_p90,Ball recoveries /90,defending,20,33,1.0
+Ligue 1,2015/2016,DM,aerials_won_p90,Aerial duels won /90,defending,20,33,1.0
+Ligue 1,2015/2016,CM,npxg_p90,npxG /90,attacking,5,38,0.8
+Ligue 1,2015/2016,CM,shots_p90,Shots /90,attacking,5,38,0.8
+Ligue 1,2015/2016,CM,xa_p90,xA /90,attacking,5,38,0.6
+Ligue 1,2015/2016,CM,key_passes_p90,Key passes /90,attacking,5,38,0.5
+Ligue 1,2015/2016,CM,touches_box_p90,Box touches /90,attacking,5,38,0.7
+Ligue 1,2015/2016,CM,progressive_passes_p90,Progressive passes /90,progression,5,38,0.7
+Ligue 1,2015/2016,CM,progressive_carries_p90,Progressive carries /90,progression,5,38,0.7
+Ligue 1,2015/2016,CM,dribbles_completed_p90,Successful dribbles /90,progression,5,38,0.8
+Ligue 1,2015/2016,CM,pass_completion_pct,Pass completion %,progression,5,38,0.8
+Ligue 1,2015/2016,CM,pressures_p90,Pressures /90,defending,5,38,0.9
+Ligue 1,2015/2016,CM,tackles_interceptions_p90,Tackles + interceptions /90,defending,5,38,0.7
+Ligue 1,2015/2016,CM,ball_recoveries_p90,Ball recoveries /90,defending,5,38,0.6
+Ligue 1,2015/2016,CM,aerials_won_p90,Aerial duels won /90,defending,5,38,1.0
+Ligue 1,2015/2016,CM,npxg_p90,npxG /90,attacking,10,38,0.9
+Ligue 1,2015/2016,CM,shots_p90,Shots /90,attacking,10,38,0.8
+Ligue 1,2015/2016,CM,xa_p90,xA /90,attacking,10,38,0.8
+Ligue 1,2015/2016,CM,key_passes_p90,Key passes /90,attacking,10,38,0.6
+Ligue 1,2015/2016,CM,touches_box_p90,Box touches /90,attacking,10,38,0.8
+Ligue 1,2015/2016,CM,progressive_passes_p90,Progressive passes /90,progression,10,38,0.8
+Ligue 1,2015/2016,CM,progressive_carries_p90,Progressive carries /90,progression,10,38,0.8
+Ligue 1,2015/2016,CM,dribbles_completed_p90,Successful dribbles /90,progression,10,38,0.8
+Ligue 1,2015/2016,CM,pass_completion_pct,Pass completion %,progression,10,38,0.8
+Ligue 1,2015/2016,CM,pressures_p90,Pressures /90,defending,10,38,0.9
+Ligue 1,2015/2016,CM,tackles_interceptions_p90,Tackles + interceptions /90,defending,10,38,0.9
+Ligue 1,2015/2016,CM,ball_recoveries_p90,Ball recoveries /90,defending,10,38,0.7
+Ligue 1,2015/2016,CM,aerials_won_p90,Aerial duels won /90,defending,10,38,1.0
+Ligue 1,2015/2016,CM,npxg_p90,npxG /90,attacking,15,32,0.9
+Ligue 1,2015/2016,CM,shots_p90,Shots /90,attacking,15,32,0.9
+Ligue 1,2015/2016,CM,xa_p90,xA /90,attacking,15,32,0.9
+Ligue 1,2015/2016,CM,key_passes_p90,Key passes /90,attacking,15,32,0.8
+Ligue 1,2015/2016,CM,touches_box_p90,Box touches /90,attacking,15,32,0.9
+Ligue 1,2015/2016,CM,progressive_passes_p90,Progressive passes /90,progression,15,32,0.9
+Ligue 1,2015/2016,CM,progressive_carries_p90,Progressive carries /90,progression,15,32,0.8
+Ligue 1,2015/2016,CM,dribbles_completed_p90,Successful dribbles /90,progression,15,32,0.9
+Ligue 1,2015/2016,CM,pass_completion_pct,Pass completion %,progression,15,32,0.9
+Ligue 1,2015/2016,CM,pressures_p90,Pressures /90,defending,15,32,1.0
+Ligue 1,2015/2016,CM,tackles_interceptions_p90,Tackles + interceptions /90,defending,15,32,0.9
+Ligue 1,2015/2016,CM,ball_recoveries_p90,Ball recoveries /90,defending,15,32,0.8
+Ligue 1,2015/2016,CM,aerials_won_p90,Aerial duels won /90,defending,15,32,1.0
+Ligue 1,2015/2016,CM,npxg_p90,npxG /90,attacking,20,25,0.8
+Ligue 1,2015/2016,CM,shots_p90,Shots /90,attacking,20,25,1.0
+Ligue 1,2015/2016,CM,xa_p90,xA /90,attacking,20,25,0.9
+Ligue 1,2015/2016,CM,key_passes_p90,Key passes /90,attacking,20,25,0.9
+Ligue 1,2015/2016,CM,touches_box_p90,Box touches /90,attacking,20,25,0.9
+Ligue 1,2015/2016,CM,progressive_passes_p90,Progressive passes /90,progression,20,25,0.9
+Ligue 1,2015/2016,CM,progressive_carries_p90,Progressive carries /90,progression,20,25,0.9
+Ligue 1,2015/2016,CM,dribbles_completed_p90,Successful dribbles /90,progression,20,25,1.0
+Ligue 1,2015/2016,CM,pass_completion_pct,Pass completion %,progression,20,25,1.0
+Ligue 1,2015/2016,CM,pressures_p90,Pressures /90,defending,20,25,0.9
+Ligue 1,2015/2016,CM,tackles_interceptions_p90,Tackles + interceptions /90,defending,20,25,0.8
+Ligue 1,2015/2016,CM,ball_recoveries_p90,Ball recoveries /90,defending,20,25,0.8
+Ligue 1,2015/2016,CM,aerials_won_p90,Aerial duels won /90,defending,20,25,1.0
+Ligue 1,2015/2016,W,npxg_p90,npxG /90,attacking,5,41,0.6
+Ligue 1,2015/2016,W,shots_p90,Shots /90,attacking,5,41,0.8
+Ligue 1,2015/2016,W,xa_p90,xA /90,attacking,5,41,0.6
+Ligue 1,2015/2016,W,key_passes_p90,Key passes /90,attacking,5,41,0.6
+Ligue 1,2015/2016,W,touches_box_p90,Box touches /90,attacking,5,41,0.5
+Ligue 1,2015/2016,W,progressive_passes_p90,Progressive passes /90,progression,5,41,0.8
+Ligue 1,2015/2016,W,progressive_carries_p90,Progressive carries /90,progression,5,41,0.7
+Ligue 1,2015/2016,W,dribbles_completed_p90,Successful dribbles /90,progression,5,41,0.7
+Ligue 1,2015/2016,W,pass_completion_pct,Pass completion %,progression,5,41,0.7
+Ligue 1,2015/2016,W,pressures_p90,Pressures /90,defending,5,41,0.6
+Ligue 1,2015/2016,W,tackles_interceptions_p90,Tackles + interceptions /90,defending,5,41,0.4
+Ligue 1,2015/2016,W,ball_recoveries_p90,Ball recoveries /90,defending,5,41,0.6
+Ligue 1,2015/2016,W,aerials_won_p90,Aerial duels won /90,defending,5,41,0.6
+Ligue 1,2015/2016,W,npxg_p90,npxG /90,attacking,10,41,0.6
+Ligue 1,2015/2016,W,shots_p90,Shots /90,attacking,10,41,0.8
+Ligue 1,2015/2016,W,xa_p90,xA /90,attacking,10,41,0.6
+Ligue 1,2015/2016,W,key_passes_p90,Key passes /90,attacking,10,41,0.8
+Ligue 1,2015/2016,W,touches_box_p90,Box touches /90,attacking,10,41,0.8
+Ligue 1,2015/2016,W,progressive_passes_p90,Progressive passes /90,progression,10,41,0.8
+Ligue 1,2015/2016,W,progressive_carries_p90,Progressive carries /90,progression,10,41,0.8
+Ligue 1,2015/2016,W,dribbles_completed_p90,Successful dribbles /90,progression,10,41,0.8
+Ligue 1,2015/2016,W,pass_completion_pct,Pass completion %,progression,10,41,0.8
+Ligue 1,2015/2016,W,pressures_p90,Pressures /90,defending,10,41,0.8
+Ligue 1,2015/2016,W,tackles_interceptions_p90,Tackles + interceptions /90,defending,10,41,0.5
+Ligue 1,2015/2016,W,ball_recoveries_p90,Ball recoveries /90,defending,10,41,0.7
+Ligue 1,2015/2016,W,aerials_won_p90,Aerial duels won /90,defending,10,41,0.9
+Ligue 1,2015/2016,W,npxg_p90,npxG /90,attacking,15,36,0.8
+Ligue 1,2015/2016,W,shots_p90,Shots /90,attacking,15,36,0.9
+Ligue 1,2015/2016,W,xa_p90,xA /90,attacking,15,36,0.8
+Ligue 1,2015/2016,W,key_passes_p90,Key passes /90,attacking,15,36,0.8
+Ligue 1,2015/2016,W,touches_box_p90,Box touches /90,attacking,15,36,0.8
+Ligue 1,2015/2016,W,progressive_passes_p90,Progressive passes /90,progression,15,36,0.8
+Ligue 1,2015/2016,W,progressive_carries_p90,Progressive carries /90,progression,15,36,0.9
+Ligue 1,2015/2016,W,dribbles_completed_p90,Successful dribbles /90,progression,15,36,0.8
+Ligue 1,2015/2016,W,pass_completion_pct,Pass completion %,progression,15,36,1.0
+Ligue 1,2015/2016,W,pressures_p90,Pressures /90,defending,15,36,0.9
+Ligue 1,2015/2016,W,tackles_interceptions_p90,Tackles + interceptions /90,defending,15,36,0.8
+Ligue 1,2015/2016,W,ball_recoveries_p90,Ball recoveries /90,defending,15,36,0.9
+Ligue 1,2015/2016,W,aerials_won_p90,Aerial duels won /90,defending,15,36,1.0
+Ligue 1,2015/2016,W,npxg_p90,npxG /90,attacking,20,24,0.9
+Ligue 1,2015/2016,W,shots_p90,Shots /90,attacking,20,24,0.9
+Ligue 1,2015/2016,W,xa_p90,xA /90,attacking,20,24,0.9
+Ligue 1,2015/2016,W,key_passes_p90,Key passes /90,attacking,20,24,0.8
+Ligue 1,2015/2016,W,touches_box_p90,Box touches /90,attacking,20,24,0.8
+Ligue 1,2015/2016,W,progressive_passes_p90,Progressive passes /90,progression,20,24,0.9
+Ligue 1,2015/2016,W,progressive_carries_p90,Progressive carries /90,progression,20,24,0.9
+Ligue 1,2015/2016,W,dribbles_completed_p90,Successful dribbles /90,progression,20,24,1.0
+Ligue 1,2015/2016,W,pass_completion_pct,Pass completion %,progression,20,24,0.9
+Ligue 1,2015/2016,W,pressures_p90,Pressures /90,defending,20,24,0.9
+Ligue 1,2015/2016,W,tackles_interceptions_p90,Tackles + interceptions /90,defending,20,24,0.9
+Ligue 1,2015/2016,W,ball_recoveries_p90,Ball recoveries /90,defending,20,24,1.0
+Ligue 1,2015/2016,W,aerials_won_p90,Aerial duels won /90,defending,20,24,1.0
+Ligue 1,2015/2016,FW,npxg_p90,npxG /90,attacking,5,36,0.4
+Ligue 1,2015/2016,FW,shots_p90,Shots /90,attacking,5,36,0.8
+Ligue 1,2015/2016,FW,xa_p90,xA /90,attacking,5,36,0.7
+Ligue 1,2015/2016,FW,key_passes_p90,Key passes /90,attacking,5,36,0.6
+Ligue 1,2015/2016,FW,touches_box_p90,Box touches /90,attacking,5,36,0.7
+Ligue 1,2015/2016,FW,progressive_passes_p90,Progressive passes /90,progression,5,36,0.7
+Ligue 1,2015/2016,FW,progressive_carries_p90,Progressive carries /90,progression,5,36,0.9
+Ligue 1,2015/2016,FW,dribbles_completed_p90,Successful dribbles /90,progression,5,36,0.6
+Ligue 1,2015/2016,FW,pass_completion_pct,Pass completion %,progression,5,36,0.8
+Ligue 1,2015/2016,FW,pressures_p90,Pressures /90,defending,5,36,0.8
+Ligue 1,2015/2016,FW,tackles_interceptions_p90,Tackles + interceptions /90,defending,5,36,0.6
+Ligue 1,2015/2016,FW,ball_recoveries_p90,Ball recoveries /90,defending,5,36,0.6
+Ligue 1,2015/2016,FW,aerials_won_p90,Aerial duels won /90,defending,5,36,0.8
+Ligue 1,2015/2016,FW,npxg_p90,npxG /90,attacking,10,36,0.6
+Ligue 1,2015/2016,FW,shots_p90,Shots /90,attacking,10,36,0.8
+Ligue 1,2015/2016,FW,xa_p90,xA /90,attacking,10,36,0.7
+Ligue 1,2015/2016,FW,key_passes_p90,Key passes /90,attacking,10,36,0.7
+Ligue 1,2015/2016,FW,touches_box_p90,Box touches /90,attacking,10,36,0.8
+Ligue 1,2015/2016,FW,progressive_passes_p90,Progressive passes /90,progression,10,36,0.7
+Ligue 1,2015/2016,FW,progressive_carries_p90,Progressive carries /90,progression,10,36,0.8
+Ligue 1,2015/2016,FW,dribbles_completed_p90,Successful dribbles /90,progression,10,36,0.7
+Ligue 1,2015/2016,FW,pass_completion_pct,Pass completion %,progression,10,36,0.7
+Ligue 1,2015/2016,FW,pressures_p90,Pressures /90,defending,10,36,0.9
+Ligue 1,2015/2016,FW,tackles_interceptions_p90,Tackles + interceptions /90,defending,10,36,0.6
+Ligue 1,2015/2016,FW,ball_recoveries_p90,Ball recoveries /90,defending,10,36,0.8
+Ligue 1,2015/2016,FW,aerials_won_p90,Aerial duels won /90,defending,10,36,0.9
+Ligue 1,2015/2016,FW,npxg_p90,npxG /90,attacking,15,32,0.9
+Ligue 1,2015/2016,FW,shots_p90,Shots /90,attacking,15,32,0.8
+Ligue 1,2015/2016,FW,xa_p90,xA /90,attacking,15,32,0.8
+Ligue 1,2015/2016,FW,key_passes_p90,Key passes /90,attacking,15,32,1.0
+Ligue 1,2015/2016,FW,touches_box_p90,Box touches /90,attacking,15,32,0.8
+Ligue 1,2015/2016,FW,progressive_passes_p90,Progressive passes /90,progression,15,32,0.8
+Ligue 1,2015/2016,FW,progressive_carries_p90,Progressive carries /90,progression,15,32,0.9
+Ligue 1,2015/2016,FW,dribbles_completed_p90,Successful dribbles /90,progression,15,32,0.9
+Ligue 1,2015/2016,FW,pass_completion_pct,Pass completion %,progression,15,32,0.8
+Ligue 1,2015/2016,FW,pressures_p90,Pressures /90,defending,15,32,1.0
+Ligue 1,2015/2016,FW,tackles_interceptions_p90,Tackles + interceptions /90,defending,15,32,0.7
+Ligue 1,2015/2016,FW,ball_recoveries_p90,Ball recoveries /90,defending,15,32,0.9
+Ligue 1,2015/2016,FW,aerials_won_p90,Aerial duels won /90,defending,15,32,0.8
+Ligue 1,2015/2016,FW,npxg_p90,npxG /90,attacking,20,25,0.9
+Ligue 1,2015/2016,FW,shots_p90,Shots /90,attacking,20,25,0.8
+Ligue 1,2015/2016,FW,xa_p90,xA /90,attacking,20,25,1.0
+Ligue 1,2015/2016,FW,key_passes_p90,Key passes /90,attacking,20,25,0.8
+Ligue 1,2015/2016,FW,touches_box_p90,Box touches /90,attacking,20,25,0.9
+Ligue 1,2015/2016,FW,progressive_passes_p90,Progressive passes /90,progression,20,25,1.0
+Ligue 1,2015/2016,FW,progressive_carries_p90,Progressive carries /90,progression,20,25,0.9
+Ligue 1,2015/2016,FW,dribbles_completed_p90,Successful dribbles /90,progression,20,25,0.9
+Ligue 1,2015/2016,FW,pass_completion_pct,Pass completion %,progression,20,25,0.9
+Ligue 1,2015/2016,FW,pressures_p90,Pressures /90,defending,20,25,0.9
+Ligue 1,2015/2016,FW,tackles_interceptions_p90,Tackles + interceptions /90,defending,20,25,0.9
+Ligue 1,2015/2016,FW,ball_recoveries_p90,Ball recoveries /90,defending,20,25,0.9
+Ligue 1,2015/2016,FW,aerials_won_p90,Aerial duels won /90,defending,20,25,1.0
+Premier League,2015/2016,CB,npxg_p90,npxG /90,attacking,5,59,0.2
+Premier League,2015/2016,CB,shots_p90,Shots /90,attacking,5,59,0.6
+Premier League,2015/2016,CB,xa_p90,xA /90,attacking,5,59,0.3
+Premier League,2015/2016,CB,key_passes_p90,Key passes /90,attacking,5,59,0.3
+Premier League,2015/2016,CB,touches_box_p90,Box touches /90,attacking,5,59,0.5
+Premier League,2015/2016,CB,progressive_passes_p90,Progressive passes /90,progression,5,59,0.8
+Premier League,2015/2016,CB,progressive_carries_p90,Progressive carries /90,progression,5,59,0.6
+Premier League,2015/2016,CB,dribbles_completed_p90,Successful dribbles /90,progression,5,59,0.6
+Premier League,2015/2016,CB,pass_completion_pct,Pass completion %,progression,5,59,0.7
+Premier League,2015/2016,CB,pressures_p90,Pressures /90,defending,5,59,0.6
+Premier League,2015/2016,CB,tackles_interceptions_p90,Tackles + interceptions /90,defending,5,59,0.6
+Premier League,2015/2016,CB,ball_recoveries_p90,Ball recoveries /90,defending,5,59,0.6
+Premier League,2015/2016,CB,aerials_won_p90,Aerial duels won /90,defending,5,59,0.5
+Premier League,2015/2016,CB,npxg_p90,npxG /90,attacking,10,59,0.3
+Premier League,2015/2016,CB,shots_p90,Shots /90,attacking,10,59,0.5
+Premier League,2015/2016,CB,xa_p90,xA /90,attacking,10,59,0.5
+Premier League,2015/2016,CB,key_passes_p90,Key passes /90,attacking,10,59,0.5
+Premier League,2015/2016,CB,touches_box_p90,Box touches /90,attacking,10,59,0.7
+Premier League,2015/2016,CB,progressive_passes_p90,Progressive passes /90,progression,10,59,0.8
+Premier League,2015/2016,CB,progressive_carries_p90,Progressive carries /90,progression,10,59,0.8
+Premier League,2015/2016,CB,dribbles_completed_p90,Successful dribbles /90,progression,10,59,0.7
+Premier League,2015/2016,CB,pass_completion_pct,Pass completion %,progression,10,59,0.8
+Premier League,2015/2016,CB,pressures_p90,Pressures /90,defending,10,59,0.8
+Premier League,2015/2016,CB,tackles_interceptions_p90,Tackles + interceptions /90,defending,10,59,0.9
+Premier League,2015/2016,CB,ball_recoveries_p90,Ball recoveries /90,defending,10,59,0.6
+Premier League,2015/2016,CB,aerials_won_p90,Aerial duels won /90,defending,10,59,0.8
+Premier League,2015/2016,CB,npxg_p90,npxG /90,attacking,15,52,0.6
+Premier League,2015/2016,CB,shots_p90,Shots /90,attacking,15,52,0.7
+Premier League,2015/2016,CB,xa_p90,xA /90,attacking,15,52,0.6
+Premier League,2015/2016,CB,key_passes_p90,Key passes /90,attacking,15,52,0.7
+Premier League,2015/2016,CB,touches_box_p90,Box touches /90,attacking,15,52,0.7
+Premier League,2015/2016,CB,progressive_passes_p90,Progressive passes /90,progression,15,52,0.9
+Premier League,2015/2016,CB,progressive_carries_p90,Progressive carries /90,progression,15,52,0.9
+Premier League,2015/2016,CB,dribbles_completed_p90,Successful dribbles /90,progression,15,52,0.8
+Premier League,2015/2016,CB,pass_completion_pct,Pass completion %,progression,15,52,0.9
+Premier League,2015/2016,CB,pressures_p90,Pressures /90,defending,15,52,0.8
+Premier League,2015/2016,CB,tackles_interceptions_p90,Tackles + interceptions /90,defending,15,52,0.8
+Premier League,2015/2016,CB,ball_recoveries_p90,Ball recoveries /90,defending,15,52,0.8
+Premier League,2015/2016,CB,aerials_won_p90,Aerial duels won /90,defending,15,52,0.8
+Premier League,2015/2016,CB,npxg_p90,npxG /90,attacking,20,47,0.7
+Premier League,2015/2016,CB,shots_p90,Shots /90,attacking,20,47,0.6
+Premier League,2015/2016,CB,xa_p90,xA /90,attacking,20,47,0.6
+Premier League,2015/2016,CB,key_passes_p90,Key passes /90,attacking,20,47,0.8
+Premier League,2015/2016,CB,touches_box_p90,Box touches /90,attacking,20,47,0.7
+Premier League,2015/2016,CB,progressive_passes_p90,Progressive passes /90,progression,20,47,0.9
+Premier League,2015/2016,CB,progressive_carries_p90,Progressive carries /90,progression,20,47,0.8
+Premier League,2015/2016,CB,dribbles_completed_p90,Successful dribbles /90,progression,20,47,0.8
+Premier League,2015/2016,CB,pass_completion_pct,Pass completion %,progression,20,47,0.9
+Premier League,2015/2016,CB,pressures_p90,Pressures /90,defending,20,47,0.9
+Premier League,2015/2016,CB,tackles_interceptions_p90,Tackles + interceptions /90,defending,20,47,0.8
+Premier League,2015/2016,CB,ball_recoveries_p90,Ball recoveries /90,defending,20,47,0.8
+Premier League,2015/2016,CB,aerials_won_p90,Aerial duels won /90,defending,20,47,0.7
+Premier League,2015/2016,FB,npxg_p90,npxG /90,attacking,5,59,0.4
+Premier League,2015/2016,FB,shots_p90,Shots /90,attacking,5,59,0.6
+Premier League,2015/2016,FB,xa_p90,xA /90,attacking,5,59,0.3
+Premier League,2015/2016,FB,key_passes_p90,Key passes /90,attacking,5,59,0.6
+Premier League,2015/2016,FB,touches_box_p90,Box touches /90,attacking,5,59,0.6
+Premier League,2015/2016,FB,progressive_passes_p90,Progressive passes /90,progression,5,59,0.5
+Premier League,2015/2016,FB,progressive_carries_p90,Progressive carries /90,progression,5,59,0.8
+Premier League,2015/2016,FB,dribbles_completed_p90,Successful dribbles /90,progression,5,59,0.7
+Premier League,2015/2016,FB,pass_completion_pct,Pass completion %,progression,5,59,0.7
+Premier League,2015/2016,FB,pressures_p90,Pressures /90,defending,5,59,0.7
+Premier League,2015/2016,FB,tackles_interceptions_p90,Tackles + interceptions /90,defending,5,59,0.6
+Premier League,2015/2016,FB,ball_recoveries_p90,Ball recoveries /90,defending,5,59,0.6
+Premier League,2015/2016,FB,aerials_won_p90,Aerial duels won /90,defending,5,59,0.6
+Premier League,2015/2016,FB,npxg_p90,npxG /90,attacking,10,59,0.7
+Premier League,2015/2016,FB,shots_p90,Shots /90,attacking,10,59,0.7
+Premier League,2015/2016,FB,xa_p90,xA /90,attacking,10,59,0.5
+Premier League,2015/2016,FB,key_passes_p90,Key passes /90,attacking,10,59,0.6
+Premier League,2015/2016,FB,touches_box_p90,Box touches /90,attacking,10,59,0.7
+Premier League,2015/2016,FB,progressive_passes_p90,Progressive passes /90,progression,10,59,0.9
+Premier League,2015/2016,FB,progressive_carries_p90,Progressive carries /90,progression,10,59,0.9
+Premier League,2015/2016,FB,dribbles_completed_p90,Successful dribbles /90,progression,10,59,0.9
+Premier League,2015/2016,FB,pass_completion_pct,Pass completion %,progression,10,59,0.5
+Premier League,2015/2016,FB,pressures_p90,Pressures /90,defending,10,59,0.8
+Premier League,2015/2016,FB,tackles_interceptions_p90,Tackles + interceptions /90,defending,10,59,0.6
+Premier League,2015/2016,FB,ball_recoveries_p90,Ball recoveries /90,defending,10,59,0.7
+Premier League,2015/2016,FB,aerials_won_p90,Aerial duels won /90,defending,10,59,0.9
+Premier League,2015/2016,FB,npxg_p90,npxG /90,attacking,15,48,0.8
+Premier League,2015/2016,FB,shots_p90,Shots /90,attacking,15,48,0.7
+Premier League,2015/2016,FB,xa_p90,xA /90,attacking,15,48,0.5
+Premier League,2015/2016,FB,key_passes_p90,Key passes /90,attacking,15,48,0.7
+Premier League,2015/2016,FB,touches_box_p90,Box touches /90,attacking,15,48,0.8
+Premier League,2015/2016,FB,progressive_passes_p90,Progressive passes /90,progression,15,48,0.9
+Premier League,2015/2016,FB,progressive_carries_p90,Progressive carries /90,progression,15,48,0.8
+Premier League,2015/2016,FB,dribbles_completed_p90,Successful dribbles /90,progression,15,48,0.8
+Premier League,2015/2016,FB,pass_completion_pct,Pass completion %,progression,15,48,0.9
+Premier League,2015/2016,FB,pressures_p90,Pressures /90,defending,15,48,0.8
+Premier League,2015/2016,FB,tackles_interceptions_p90,Tackles + interceptions /90,defending,15,48,0.9
+Premier League,2015/2016,FB,ball_recoveries_p90,Ball recoveries /90,defending,15,48,0.8
+Premier League,2015/2016,FB,aerials_won_p90,Aerial duels won /90,defending,15,48,0.8
+Premier League,2015/2016,FB,npxg_p90,npxG /90,attacking,20,41,0.8
+Premier League,2015/2016,FB,shots_p90,Shots /90,attacking,20,41,0.8
+Premier League,2015/2016,FB,xa_p90,xA /90,attacking,20,41,0.8
+Premier League,2015/2016,FB,key_passes_p90,Key passes /90,attacking,20,41,0.8
+Premier League,2015/2016,FB,touches_box_p90,Box touches /90,attacking,20,41,0.9
+Premier League,2015/2016,FB,progressive_passes_p90,Progressive passes /90,progression,20,41,0.8
+Premier League,2015/2016,FB,progressive_carries_p90,Progressive carries /90,progression,20,41,1.0
+Premier League,2015/2016,FB,dribbles_completed_p90,Successful dribbles /90,progression,20,41,1.0
+Premier League,2015/2016,FB,pass_completion_pct,Pass completion %,progression,20,41,1.0
+Premier League,2015/2016,FB,pressures_p90,Pressures /90,defending,20,41,0.9
+Premier League,2015/2016,FB,tackles_interceptions_p90,Tackles + interceptions /90,defending,20,41,0.8
+Premier League,2015/2016,FB,ball_recoveries_p90,Ball recoveries /90,defending,20,41,0.9
+Premier League,2015/2016,FB,aerials_won_p90,Aerial duels won /90,defending,20,41,0.8
+Premier League,2015/2016,DM,npxg_p90,npxG /90,attacking,5,40,0.6
+Premier League,2015/2016,DM,shots_p90,Shots /90,attacking,5,40,0.7
+Premier League,2015/2016,DM,xa_p90,xA /90,attacking,5,40,0.8
+Premier League,2015/2016,DM,key_passes_p90,Key passes /90,attacking,5,40,0.8
+Premier League,2015/2016,DM,touches_box_p90,Box touches /90,attacking,5,40,0.8
+Premier League,2015/2016,DM,progressive_passes_p90,Progressive passes /90,progression,5,40,0.7
+Premier League,2015/2016,DM,progressive_carries_p90,Progressive carries /90,progression,5,40,0.9
+Premier League,2015/2016,DM,dribbles_completed_p90,Successful dribbles /90,progression,5,40,0.7
+Premier League,2015/2016,DM,pass_completion_pct,Pass completion %,progression,5,40,0.7
+Premier League,2015/2016,DM,pressures_p90,Pressures /90,defending,5,40,0.5
+Premier League,2015/2016,DM,tackles_interceptions_p90,Tackles + interceptions /90,defending,5,40,0.7
+Premier League,2015/2016,DM,ball_recoveries_p90,Ball recoveries /90,defending,5,40,0.6
+Premier League,2015/2016,DM,aerials_won_p90,Aerial duels won /90,defending,5,40,0.8
+Premier League,2015/2016,DM,npxg_p90,npxG /90,attacking,10,40,0.7
+Premier League,2015/2016,DM,shots_p90,Shots /90,attacking,10,40,0.9
+Premier League,2015/2016,DM,xa_p90,xA /90,attacking,10,40,0.8
+Premier League,2015/2016,DM,key_passes_p90,Key passes /90,attacking,10,40,0.8
+Premier League,2015/2016,DM,touches_box_p90,Box touches /90,attacking,10,40,0.8
+Premier League,2015/2016,DM,progressive_passes_p90,Progressive passes /90,progression,10,40,0.8
+Premier League,2015/2016,DM,progressive_carries_p90,Progressive carries /90,progression,10,40,0.9
+Premier League,2015/2016,DM,dribbles_completed_p90,Successful dribbles /90,progression,10,40,0.9
+Premier League,2015/2016,DM,pass_completion_pct,Pass completion %,progression,10,40,0.7
+Premier League,2015/2016,DM,pressures_p90,Pressures /90,defending,10,40,0.5
+Premier League,2015/2016,DM,tackles_interceptions_p90,Tackles + interceptions /90,defending,10,40,0.8
+Premier League,2015/2016,DM,ball_recoveries_p90,Ball recoveries /90,defending,10,40,0.8
+Premier League,2015/2016,DM,aerials_won_p90,Aerial duels won /90,defending,10,40,0.7
+Premier League,2015/2016,DM,npxg_p90,npxG /90,attacking,15,35,0.9
+Premier League,2015/2016,DM,shots_p90,Shots /90,attacking,15,35,0.9
+Premier League,2015/2016,DM,xa_p90,xA /90,attacking,15,35,0.8
+Premier League,2015/2016,DM,key_passes_p90,Key passes /90,attacking,15,35,0.8
+Premier League,2015/2016,DM,touches_box_p90,Box touches /90,attacking,15,35,0.9
+Premier League,2015/2016,DM,progressive_passes_p90,Progressive passes /90,progression,15,35,0.9
+Premier League,2015/2016,DM,progressive_carries_p90,Progressive carries /90,progression,15,35,0.9
+Premier League,2015/2016,DM,dribbles_completed_p90,Successful dribbles /90,progression,15,35,0.9
+Premier League,2015/2016,DM,pass_completion_pct,Pass completion %,progression,15,35,0.9
+Premier League,2015/2016,DM,pressures_p90,Pressures /90,defending,15,35,0.6
+Premier League,2015/2016,DM,tackles_interceptions_p90,Tackles + interceptions /90,defending,15,35,0.8
+Premier League,2015/2016,DM,ball_recoveries_p90,Ball recoveries /90,defending,15,35,0.9
+Premier League,2015/2016,DM,aerials_won_p90,Aerial duels won /90,defending,15,35,0.7
+Premier League,2015/2016,DM,npxg_p90,npxG /90,attacking,20,28,0.9
+Premier League,2015/2016,DM,shots_p90,Shots /90,attacking,20,28,0.9
+Premier League,2015/2016,DM,xa_p90,xA /90,attacking,20,28,0.8
+Premier League,2015/2016,DM,key_passes_p90,Key passes /90,attacking,20,28,0.9
+Premier League,2015/2016,DM,touches_box_p90,Box touches /90,attacking,20,28,0.9
+Premier League,2015/2016,DM,progressive_passes_p90,Progressive passes /90,progression,20,28,0.9
+Premier League,2015/2016,DM,progressive_carries_p90,Progressive carries /90,progression,20,28,1.0
+Premier League,2015/2016,DM,dribbles_completed_p90,Successful dribbles /90,progression,20,28,1.0
+Premier League,2015/2016,DM,pass_completion_pct,Pass completion %,progression,20,28,0.8
+Premier League,2015/2016,DM,pressures_p90,Pressures /90,defending,20,28,0.8
+Premier League,2015/2016,DM,tackles_interceptions_p90,Tackles + interceptions /90,defending,20,28,0.9
+Premier League,2015/2016,DM,ball_recoveries_p90,Ball recoveries /90,defending,20,28,0.9
+Premier League,2015/2016,DM,aerials_won_p90,Aerial duels won /90,defending,20,28,0.9
+Premier League,2015/2016,CM,npxg_p90,npxG /90,attacking,5,44,0.8
+Premier League,2015/2016,CM,shots_p90,Shots /90,attacking,5,44,0.7
+Premier League,2015/2016,CM,xa_p90,xA /90,attacking,5,44,0.6
+Premier League,2015/2016,CM,key_passes_p90,Key passes /90,attacking,5,44,0.6
+Premier League,2015/2016,CM,touches_box_p90,Box touches /90,attacking,5,44,0.7
+Premier League,2015/2016,CM,progressive_passes_p90,Progressive passes /90,progression,5,44,0.8
+Premier League,2015/2016,CM,progressive_carries_p90,Progressive carries /90,progression,5,44,0.9
+Premier League,2015/2016,CM,dribbles_completed_p90,Successful dribbles /90,progression,5,44,0.7
+Premier League,2015/2016,CM,pass_completion_pct,Pass completion %,progression,5,44,0.6
+Premier League,2015/2016,CM,pressures_p90,Pressures /90,defending,5,44,0.7
+Premier League,2015/2016,CM,tackles_interceptions_p90,Tackles + interceptions /90,defending,5,44,0.7
+Premier League,2015/2016,CM,ball_recoveries_p90,Ball recoveries /90,defending,5,44,0.4
+Premier League,2015/2016,CM,aerials_won_p90,Aerial duels won /90,defending,5,44,0.6
+Premier League,2015/2016,CM,npxg_p90,npxG /90,attacking,10,44,0.9
+Premier League,2015/2016,CM,shots_p90,Shots /90,attacking,10,44,0.8
+Premier League,2015/2016,CM,xa_p90,xA /90,attacking,10,44,0.8
+Premier League,2015/2016,CM,key_passes_p90,Key passes /90,attacking,10,44,0.8
+Premier League,2015/2016,CM,touches_box_p90,Box touches /90,attacking,10,44,0.8
+Premier League,2015/2016,CM,progressive_passes_p90,Progressive passes /90,progression,10,44,0.9
+Premier League,2015/2016,CM,progressive_carries_p90,Progressive carries /90,progression,10,44,0.9
+Premier League,2015/2016,CM,dribbles_completed_p90,Successful dribbles /90,progression,10,44,0.8
+Premier League,2015/2016,CM,pass_completion_pct,Pass completion %,progression,10,44,0.9
+Premier League,2015/2016,CM,pressures_p90,Pressures /90,defending,10,44,0.7
+Premier League,2015/2016,CM,tackles_interceptions_p90,Tackles + interceptions /90,defending,10,44,0.7
+Premier League,2015/2016,CM,ball_recoveries_p90,Ball recoveries /90,defending,10,44,0.7
+Premier League,2015/2016,CM,aerials_won_p90,Aerial duels won /90,defending,10,44,0.7
+Premier League,2015/2016,CM,npxg_p90,npxG /90,attacking,15,41,0.9
+Premier League,2015/2016,CM,shots_p90,Shots /90,attacking,15,41,0.9
+Premier League,2015/2016,CM,xa_p90,xA /90,attacking,15,41,0.8
+Premier League,2015/2016,CM,key_passes_p90,Key passes /90,attacking,15,41,0.8
+Premier League,2015/2016,CM,touches_box_p90,Box touches /90,attacking,15,41,1.0
+Premier League,2015/2016,CM,progressive_passes_p90,Progressive passes /90,progression,15,41,1.0
+Premier League,2015/2016,CM,progressive_carries_p90,Progressive carries /90,progression,15,41,1.0
+Premier League,2015/2016,CM,dribbles_completed_p90,Successful dribbles /90,progression,15,41,0.9
+Premier League,2015/2016,CM,pass_completion_pct,Pass completion %,progression,15,41,0.9
+Premier League,2015/2016,CM,pressures_p90,Pressures /90,defending,15,41,0.8
+Premier League,2015/2016,CM,tackles_interceptions_p90,Tackles + interceptions /90,defending,15,41,0.8
+Premier League,2015/2016,CM,ball_recoveries_p90,Ball recoveries /90,defending,15,41,0.7
+Premier League,2015/2016,CM,aerials_won_p90,Aerial duels won /90,defending,15,41,0.8
+Premier League,2015/2016,CM,npxg_p90,npxG /90,attacking,20,34,0.8
+Premier League,2015/2016,CM,shots_p90,Shots /90,attacking,20,34,0.8
+Premier League,2015/2016,CM,xa_p90,xA /90,attacking,20,34,0.9
+Premier League,2015/2016,CM,key_passes_p90,Key passes /90,attacking,20,34,1.0
+Premier League,2015/2016,CM,touches_box_p90,Box touches /90,attacking,20,34,0.8
+Premier League,2015/2016,CM,progressive_passes_p90,Progressive passes /90,progression,20,34,0.9
+Premier League,2015/2016,CM,progressive_carries_p90,Progressive carries /90,progression,20,34,0.8
+Premier League,2015/2016,CM,dribbles_completed_p90,Successful dribbles /90,progression,20,34,1.0
+Premier League,2015/2016,CM,pass_completion_pct,Pass completion %,progression,20,34,0.9
+Premier League,2015/2016,CM,pressures_p90,Pressures /90,defending,20,34,0.9
+Premier League,2015/2016,CM,tackles_interceptions_p90,Tackles + interceptions /90,defending,20,34,0.9
+Premier League,2015/2016,CM,ball_recoveries_p90,Ball recoveries /90,defending,20,34,0.9
+Premier League,2015/2016,CM,aerials_won_p90,Aerial duels won /90,defending,20,34,0.8
+Premier League,2015/2016,W,npxg_p90,npxG /90,attacking,5,37,0.5
+Premier League,2015/2016,W,shots_p90,Shots /90,attacking,5,37,1.0
+Premier League,2015/2016,W,xa_p90,xA /90,attacking,5,37,0.5
+Premier League,2015/2016,W,key_passes_p90,Key passes /90,attacking,5,37,0.7
+Premier League,2015/2016,W,touches_box_p90,Box touches /90,attacking,5,37,0.7
+Premier League,2015/2016,W,progressive_passes_p90,Progressive passes /90,progression,5,37,0.8
+Premier League,2015/2016,W,progressive_carries_p90,Progressive carries /90,progression,5,37,0.9
+Premier League,2015/2016,W,dribbles_completed_p90,Successful dribbles /90,progression,5,37,0.7
+Premier League,2015/2016,W,pass_completion_pct,Pass completion %,progression,5,37,0.7
+Premier League,2015/2016,W,pressures_p90,Pressures /90,defending,5,37,0.6
+Premier League,2015/2016,W,tackles_interceptions_p90,Tackles + interceptions /90,defending,5,37,0.7
+Premier League,2015/2016,W,ball_recoveries_p90,Ball recoveries /90,defending,5,37,0.5
+Premier League,2015/2016,W,aerials_won_p90,Aerial duels won /90,defending,5,37,0.7
+Premier League,2015/2016,W,npxg_p90,npxG /90,attacking,10,37,0.6
+Premier League,2015/2016,W,shots_p90,Shots /90,attacking,10,37,0.9
+Premier League,2015/2016,W,xa_p90,xA /90,attacking,10,37,0.8
+Premier League,2015/2016,W,key_passes_p90,Key passes /90,attacking,10,37,0.8
+Premier League,2015/2016,W,touches_box_p90,Box touches /90,attacking,10,37,0.8
+Premier League,2015/2016,W,progressive_passes_p90,Progressive passes /90,progression,10,37,0.9
+Premier League,2015/2016,W,progressive_carries_p90,Progressive carries /90,progression,10,37,0.9
+Premier League,2015/2016,W,dribbles_completed_p90,Successful dribbles /90,progression,10,37,0.8
+Premier League,2015/2016,W,pass_completion_pct,Pass completion %,progression,10,37,0.7
+Premier League,2015/2016,W,pressures_p90,Pressures /90,defending,10,37,0.8
+Premier League,2015/2016,W,tackles_interceptions_p90,Tackles + interceptions /90,defending,10,37,0.8
+Premier League,2015/2016,W,ball_recoveries_p90,Ball recoveries /90,defending,10,37,0.6
+Premier League,2015/2016,W,aerials_won_p90,Aerial duels won /90,defending,10,37,0.8
+Premier League,2015/2016,W,npxg_p90,npxG /90,attacking,15,33,0.9
+Premier League,2015/2016,W,shots_p90,Shots /90,attacking,15,33,1.0
+Premier League,2015/2016,W,xa_p90,xA /90,attacking,15,33,0.7
+Premier League,2015/2016,W,key_passes_p90,Key passes /90,attacking,15,33,0.9
+Premier League,2015/2016,W,touches_box_p90,Box touches /90,attacking,15,33,0.9
+Premier League,2015/2016,W,progressive_passes_p90,Progressive passes /90,progression,15,33,0.9
+Premier League,2015/2016,W,progressive_carries_p90,Progressive carries /90,progression,15,33,1.0
+Premier League,2015/2016,W,dribbles_completed_p90,Successful dribbles /90,progression,15,33,0.9
+Premier League,2015/2016,W,pass_completion_pct,Pass completion %,progression,15,33,0.8
+Premier League,2015/2016,W,pressures_p90,Pressures /90,defending,15,33,0.8
+Premier League,2015/2016,W,tackles_interceptions_p90,Tackles + interceptions /90,defending,15,33,0.8
+Premier League,2015/2016,W,ball_recoveries_p90,Ball recoveries /90,defending,15,33,0.8
+Premier League,2015/2016,W,aerials_won_p90,Aerial duels won /90,defending,15,33,0.9
+Premier League,2015/2016,W,npxg_p90,npxG /90,attacking,20,28,1.0
+Premier League,2015/2016,W,shots_p90,Shots /90,attacking,20,28,0.9
+Premier League,2015/2016,W,xa_p90,xA /90,attacking,20,28,0.7
+Premier League,2015/2016,W,key_passes_p90,Key passes /90,attacking,20,28,0.9
+Premier League,2015/2016,W,touches_box_p90,Box touches /90,attacking,20,28,0.8
+Premier League,2015/2016,W,progressive_passes_p90,Progressive passes /90,progression,20,28,0.9
+Premier League,2015/2016,W,progressive_carries_p90,Progressive carries /90,progression,20,28,1.0
+Premier League,2015/2016,W,dribbles_completed_p90,Successful dribbles /90,progression,20,28,1.0
+Premier League,2015/2016,W,pass_completion_pct,Pass completion %,progression,20,28,0.9
+Premier League,2015/2016,W,pressures_p90,Pressures /90,defending,20,28,0.9
+Premier League,2015/2016,W,tackles_interceptions_p90,Tackles + interceptions /90,defending,20,28,0.9
+Premier League,2015/2016,W,ball_recoveries_p90,Ball recoveries /90,defending,20,28,0.8
+Premier League,2015/2016,W,aerials_won_p90,Aerial duels won /90,defending,20,28,1.0
+Premier League,2015/2016,FW,npxg_p90,npxG /90,attacking,5,37,0.3
+Premier League,2015/2016,FW,shots_p90,Shots /90,attacking,5,37,0.7
+Premier League,2015/2016,FW,xa_p90,xA /90,attacking,5,37,0.5
+Premier League,2015/2016,FW,key_passes_p90,Key passes /90,attacking,5,37,0.5
+Premier League,2015/2016,FW,touches_box_p90,Box touches /90,attacking,5,37,0.6
+Premier League,2015/2016,FW,progressive_passes_p90,Progressive passes /90,progression,5,37,0.8
+Premier League,2015/2016,FW,progressive_carries_p90,Progressive carries /90,progression,5,37,0.9
+Premier League,2015/2016,FW,dribbles_completed_p90,Successful dribbles /90,progression,5,37,0.8
+Premier League,2015/2016,FW,pass_completion_pct,Pass completion %,progression,5,37,0.7
+Premier League,2015/2016,FW,pressures_p90,Pressures /90,defending,5,37,0.7
+Premier League,2015/2016,FW,tackles_interceptions_p90,Tackles + interceptions /90,defending,5,37,0.6
+Premier League,2015/2016,FW,ball_recoveries_p90,Ball recoveries /90,defending,5,37,0.8
+Premier League,2015/2016,FW,aerials_won_p90,Aerial duels won /90,defending,5,37,1.0
+Premier League,2015/2016,FW,npxg_p90,npxG /90,attacking,10,37,0.5
+Premier League,2015/2016,FW,shots_p90,Shots /90,attacking,10,37,0.7
+Premier League,2015/2016,FW,xa_p90,xA /90,attacking,10,37,0.5
+Premier League,2015/2016,FW,key_passes_p90,Key passes /90,attacking,10,37,0.5
+Premier League,2015/2016,FW,touches_box_p90,Box touches /90,attacking,10,37,0.7
+Premier League,2015/2016,FW,progressive_passes_p90,Progressive passes /90,progression,10,37,0.8
+Premier League,2015/2016,FW,progressive_carries_p90,Progressive carries /90,progression,10,37,0.9
+Premier League,2015/2016,FW,dribbles_completed_p90,Successful dribbles /90,progression,10,37,0.8
+Premier League,2015/2016,FW,pass_completion_pct,Pass completion %,progression,10,37,0.8
+Premier League,2015/2016,FW,pressures_p90,Pressures /90,defending,10,37,0.8
+Premier League,2015/2016,FW,tackles_interceptions_p90,Tackles + interceptions /90,defending,10,37,0.7
+Premier League,2015/2016,FW,ball_recoveries_p90,Ball recoveries /90,defending,10,37,0.7
+Premier League,2015/2016,FW,aerials_won_p90,Aerial duels won /90,defending,10,37,0.8
+Premier League,2015/2016,FW,npxg_p90,npxG /90,attacking,15,33,0.8
+Premier League,2015/2016,FW,shots_p90,Shots /90,attacking,15,33,0.8
+Premier League,2015/2016,FW,xa_p90,xA /90,attacking,15,33,0.7
+Premier League,2015/2016,FW,key_passes_p90,Key passes /90,attacking,15,33,0.8
+Premier League,2015/2016,FW,touches_box_p90,Box touches /90,attacking,15,33,0.8
+Premier League,2015/2016,FW,progressive_passes_p90,Progressive passes /90,progression,15,33,0.9
+Premier League,2015/2016,FW,progressive_carries_p90,Progressive carries /90,progression,15,33,1.0
+Premier League,2015/2016,FW,dribbles_completed_p90,Successful dribbles /90,progression,15,33,0.8
+Premier League,2015/2016,FW,pass_completion_pct,Pass completion %,progression,15,33,1.0
+Premier League,2015/2016,FW,pressures_p90,Pressures /90,defending,15,33,0.9
+Premier League,2015/2016,FW,tackles_interceptions_p90,Tackles + interceptions /90,defending,15,33,0.7
+Premier League,2015/2016,FW,ball_recoveries_p90,Ball recoveries /90,defending,15,33,0.8
+Premier League,2015/2016,FW,aerials_won_p90,Aerial duels won /90,defending,15,33,0.8
+Premier League,2015/2016,FW,npxg_p90,npxG /90,attacking,20,26,0.9
+Premier League,2015/2016,FW,shots_p90,Shots /90,attacking,20,26,1.0
+Premier League,2015/2016,FW,xa_p90,xA /90,attacking,20,26,0.8
+Premier League,2015/2016,FW,key_passes_p90,Key passes /90,attacking,20,26,0.8
+Premier League,2015/2016,FW,touches_box_p90,Box touches /90,attacking,20,26,0.8
+Premier League,2015/2016,FW,progressive_passes_p90,Progressive passes /90,progression,20,26,0.9
+Premier League,2015/2016,FW,progressive_carries_p90,Progressive carries /90,progression,20,26,1.0
+Premier League,2015/2016,FW,dribbles_completed_p90,Successful dribbles /90,progression,20,26,0.9
+Premier League,2015/2016,FW,pass_completion_pct,Pass completion %,progression,20,26,0.9
+Premier League,2015/2016,FW,pressures_p90,Pressures /90,defending,20,26,0.9
+Premier League,2015/2016,FW,tackles_interceptions_p90,Tackles + interceptions /90,defending,20,26,0.8
+Premier League,2015/2016,FW,ball_recoveries_p90,Ball recoveries /90,defending,20,26,0.9
+Premier League,2015/2016,FW,aerials_won_p90,Aerial duels won /90,defending,20,26,1.0
+Serie A,2015/2016,CB,npxg_p90,npxG /90,attacking,5,70,0.6
+Serie A,2015/2016,CB,shots_p90,Shots /90,attacking,5,70,0.6
+Serie A,2015/2016,CB,xa_p90,xA /90,attacking,5,70,0.5
+Serie A,2015/2016,CB,key_passes_p90,Key passes /90,attacking,5,70,0.6
+Serie A,2015/2016,CB,touches_box_p90,Box touches /90,attacking,5,70,0.7
+Serie A,2015/2016,CB,progressive_passes_p90,Progressive passes /90,progression,5,70,0.7
+Serie A,2015/2016,CB,progressive_carries_p90,Progressive carries /90,progression,5,70,0.8
+Serie A,2015/2016,CB,dribbles_completed_p90,Successful dribbles /90,progression,5,70,0.6
+Serie A,2015/2016,CB,pass_completion_pct,Pass completion %,progression,5,70,0.5
+Serie A,2015/2016,CB,pressures_p90,Pressures /90,defending,5,70,0.6
+Serie A,2015/2016,CB,tackles_interceptions_p90,Tackles + interceptions /90,defending,5,70,0.5
+Serie A,2015/2016,CB,ball_recoveries_p90,Ball recoveries /90,defending,5,70,0.3
+Serie A,2015/2016,CB,aerials_won_p90,Aerial duels won /90,defending,5,70,0.7
+Serie A,2015/2016,CB,npxg_p90,npxG /90,attacking,10,70,0.6
+Serie A,2015/2016,CB,shots_p90,Shots /90,attacking,10,70,0.6
+Serie A,2015/2016,CB,xa_p90,xA /90,attacking,10,70,0.6
+Serie A,2015/2016,CB,key_passes_p90,Key passes /90,attacking,10,70,0.8
+Serie A,2015/2016,CB,touches_box_p90,Box touches /90,attacking,10,70,0.9
+Serie A,2015/2016,CB,progressive_passes_p90,Progressive passes /90,progression,10,70,0.7
+Serie A,2015/2016,CB,progressive_carries_p90,Progressive carries /90,progression,10,70,0.7
+Serie A,2015/2016,CB,dribbles_completed_p90,Successful dribbles /90,progression,10,70,0.5
+Serie A,2015/2016,CB,pass_completion_pct,Pass completion %,progression,10,70,0.4
+Serie A,2015/2016,CB,pressures_p90,Pressures /90,defending,10,70,0.8
+Serie A,2015/2016,CB,tackles_interceptions_p90,Tackles + interceptions /90,defending,10,70,0.7
+Serie A,2015/2016,CB,ball_recoveries_p90,Ball recoveries /90,defending,10,70,0.8
+Serie A,2015/2016,CB,aerials_won_p90,Aerial duels won /90,defending,10,70,0.7
+Serie A,2015/2016,CB,npxg_p90,npxG /90,attacking,15,61,0.6
+Serie A,2015/2016,CB,shots_p90,Shots /90,attacking,15,61,0.7
+Serie A,2015/2016,CB,xa_p90,xA /90,attacking,15,61,0.7
+Serie A,2015/2016,CB,key_passes_p90,Key passes /90,attacking,15,61,0.6
+Serie A,2015/2016,CB,touches_box_p90,Box touches /90,attacking,15,61,0.7
+Serie A,2015/2016,CB,progressive_passes_p90,Progressive passes /90,progression,15,61,0.9
+Serie A,2015/2016,CB,progressive_carries_p90,Progressive carries /90,progression,15,61,0.9
+Serie A,2015/2016,CB,dribbles_completed_p90,Successful dribbles /90,progression,15,61,0.5
+Serie A,2015/2016,CB,pass_completion_pct,Pass completion %,progression,15,61,0.5
+Serie A,2015/2016,CB,pressures_p90,Pressures /90,defending,15,61,0.9
+Serie A,2015/2016,CB,tackles_interceptions_p90,Tackles + interceptions /90,defending,15,61,0.8
+Serie A,2015/2016,CB,ball_recoveries_p90,Ball recoveries /90,defending,15,61,0.9
+Serie A,2015/2016,CB,aerials_won_p90,Aerial duels won /90,defending,15,61,0.8
+Serie A,2015/2016,CB,npxg_p90,npxG /90,attacking,20,49,0.6
+Serie A,2015/2016,CB,shots_p90,Shots /90,attacking,20,49,0.8
+Serie A,2015/2016,CB,xa_p90,xA /90,attacking,20,49,0.8
+Serie A,2015/2016,CB,key_passes_p90,Key passes /90,attacking,20,49,0.9
+Serie A,2015/2016,CB,touches_box_p90,Box touches /90,attacking,20,49,0.8
+Serie A,2015/2016,CB,progressive_passes_p90,Progressive passes /90,progression,20,49,0.9
+Serie A,2015/2016,CB,progressive_carries_p90,Progressive carries /90,progression,20,49,0.9
+Serie A,2015/2016,CB,dribbles_completed_p90,Successful dribbles /90,progression,20,49,0.5
+Serie A,2015/2016,CB,pass_completion_pct,Pass completion %,progression,20,49,0.8
+Serie A,2015/2016,CB,pressures_p90,Pressures /90,defending,20,49,0.9
+Serie A,2015/2016,CB,tackles_interceptions_p90,Tackles + interceptions /90,defending,20,49,1.0
+Serie A,2015/2016,CB,ball_recoveries_p90,Ball recoveries /90,defending,20,49,0.8
+Serie A,2015/2016,CB,aerials_won_p90,Aerial duels won /90,defending,20,49,0.9
+Serie A,2015/2016,FB,npxg_p90,npxG /90,attacking,5,61,0.7
+Serie A,2015/2016,FB,shots_p90,Shots /90,attacking,5,61,0.7
+Serie A,2015/2016,FB,xa_p90,xA /90,attacking,5,61,0.6
+Serie A,2015/2016,FB,key_passes_p90,Key passes /90,attacking,5,61,0.7
+Serie A,2015/2016,FB,touches_box_p90,Box touches /90,attacking,5,61,0.7
+Serie A,2015/2016,FB,progressive_passes_p90,Progressive passes /90,progression,5,61,0.7
+Serie A,2015/2016,FB,progressive_carries_p90,Progressive carries /90,progression,5,61,0.9
+Serie A,2015/2016,FB,dribbles_completed_p90,Successful dribbles /90,progression,5,61,0.6
+Serie A,2015/2016,FB,pass_completion_pct,Pass completion %,progression,5,61,0.7
+Serie A,2015/2016,FB,pressures_p90,Pressures /90,defending,5,61,0.8
+Serie A,2015/2016,FB,tackles_interceptions_p90,Tackles + interceptions /90,defending,5,61,0.6
+Serie A,2015/2016,FB,ball_recoveries_p90,Ball recoveries /90,defending,5,61,0.5
+Serie A,2015/2016,FB,aerials_won_p90,Aerial duels won /90,defending,5,61,0.5
+Serie A,2015/2016,FB,npxg_p90,npxG /90,attacking,10,61,0.8
+Serie A,2015/2016,FB,shots_p90,Shots /90,attacking,10,61,0.8
+Serie A,2015/2016,FB,xa_p90,xA /90,attacking,10,61,0.9
+Serie A,2015/2016,FB,key_passes_p90,Key passes /90,attacking,10,61,0.8
+Serie A,2015/2016,FB,touches_box_p90,Box touches /90,attacking,10,61,0.8
+Serie A,2015/2016,FB,progressive_passes_p90,Progressive passes /90,progression,10,61,0.7
+Serie A,2015/2016,FB,progressive_carries_p90,Progressive carries /90,progression,10,61,0.8
+Serie A,2015/2016,FB,dribbles_completed_p90,Successful dribbles /90,progression,10,61,0.7
+Serie A,2015/2016,FB,pass_completion_pct,Pass completion %,progression,10,61,0.7
+Serie A,2015/2016,FB,pressures_p90,Pressures /90,defending,10,61,0.8
+Serie A,2015/2016,FB,tackles_interceptions_p90,Tackles + interceptions /90,defending,10,61,0.7
+Serie A,2015/2016,FB,ball_recoveries_p90,Ball recoveries /90,defending,10,61,0.6
+Serie A,2015/2016,FB,aerials_won_p90,Aerial duels won /90,defending,10,61,0.7
+Serie A,2015/2016,FB,npxg_p90,npxG /90,attacking,15,51,0.8
+Serie A,2015/2016,FB,shots_p90,Shots /90,attacking,15,51,0.9
+Serie A,2015/2016,FB,xa_p90,xA /90,attacking,15,51,0.9
+Serie A,2015/2016,FB,key_passes_p90,Key passes /90,attacking,15,51,0.7
+Serie A,2015/2016,FB,touches_box_p90,Box touches /90,attacking,15,51,0.9
+Serie A,2015/2016,FB,progressive_passes_p90,Progressive passes /90,progression,15,51,0.9
+Serie A,2015/2016,FB,progressive_carries_p90,Progressive carries /90,progression,15,51,0.8
+Serie A,2015/2016,FB,dribbles_completed_p90,Successful dribbles /90,progression,15,51,0.8
+Serie A,2015/2016,FB,pass_completion_pct,Pass completion %,progression,15,51,0.9
+Serie A,2015/2016,FB,pressures_p90,Pressures /90,defending,15,51,0.9
+Serie A,2015/2016,FB,tackles_interceptions_p90,Tackles + interceptions /90,defending,15,51,0.9
+Serie A,2015/2016,FB,ball_recoveries_p90,Ball recoveries /90,defending,15,51,0.8
+Serie A,2015/2016,FB,aerials_won_p90,Aerial duels won /90,defending,15,51,1.0
+Serie A,2015/2016,FB,npxg_p90,npxG /90,attacking,20,36,0.8
+Serie A,2015/2016,FB,shots_p90,Shots /90,attacking,20,36,0.8
+Serie A,2015/2016,FB,xa_p90,xA /90,attacking,20,36,0.8
+Serie A,2015/2016,FB,key_passes_p90,Key passes /90,attacking,20,36,0.8
+Serie A,2015/2016,FB,touches_box_p90,Box touches /90,attacking,20,36,1.0
+Serie A,2015/2016,FB,progressive_passes_p90,Progressive passes /90,progression,20,36,0.9
+Serie A,2015/2016,FB,progressive_carries_p90,Progressive carries /90,progression,20,36,0.8
+Serie A,2015/2016,FB,dribbles_completed_p90,Successful dribbles /90,progression,20,36,1.0
+Serie A,2015/2016,FB,pass_completion_pct,Pass completion %,progression,20,36,1.0
+Serie A,2015/2016,FB,pressures_p90,Pressures /90,defending,20,36,0.8
+Serie A,2015/2016,FB,tackles_interceptions_p90,Tackles + interceptions /90,defending,20,36,0.9
+Serie A,2015/2016,FB,ball_recoveries_p90,Ball recoveries /90,defending,20,36,0.9
+Serie A,2015/2016,FB,aerials_won_p90,Aerial duels won /90,defending,20,36,1.0
+Serie A,2015/2016,DM,npxg_p90,npxG /90,attacking,5,45,0.5
+Serie A,2015/2016,DM,shots_p90,Shots /90,attacking,5,45,0.7
+Serie A,2015/2016,DM,xa_p90,xA /90,attacking,5,45,0.7
+Serie A,2015/2016,DM,key_passes_p90,Key passes /90,attacking,5,45,0.5
+Serie A,2015/2016,DM,touches_box_p90,Box touches /90,attacking,5,45,0.8
+Serie A,2015/2016,DM,progressive_passes_p90,Progressive passes /90,progression,5,45,0.8
+Serie A,2015/2016,DM,progressive_carries_p90,Progressive carries /90,progression,5,45,0.7
+Serie A,2015/2016,DM,dribbles_completed_p90,Successful dribbles /90,progression,5,45,0.8
+Serie A,2015/2016,DM,pass_completion_pct,Pass completion %,progression,5,45,0.8
+Serie A,2015/2016,DM,pressures_p90,Pressures /90,defending,5,45,0.8
+Serie A,2015/2016,DM,tackles_interceptions_p90,Tackles + interceptions /90,defending,5,45,0.6
+Serie A,2015/2016,DM,ball_recoveries_p90,Ball recoveries /90,defending,5,45,0.7
+Serie A,2015/2016,DM,aerials_won_p90,Aerial duels won /90,defending,5,45,0.6
+Serie A,2015/2016,DM,npxg_p90,npxG /90,attacking,10,45,0.5
+Serie A,2015/2016,DM,shots_p90,Shots /90,attacking,10,45,0.8
+Serie A,2015/2016,DM,xa_p90,xA /90,attacking,10,45,0.6
+Serie A,2015/2016,DM,key_passes_p90,Key passes /90,attacking,10,45,0.8
+Serie A,2015/2016,DM,touches_box_p90,Box touches /90,attacking,10,45,0.8
+Serie A,2015/2016,DM,progressive_passes_p90,Progressive passes /90,progression,10,45,0.8
+Serie A,2015/2016,DM,progressive_carries_p90,Progressive carries /90,progression,10,45,0.8
+Serie A,2015/2016,DM,dribbles_completed_p90,Successful dribbles /90,progression,10,45,0.9
+Serie A,2015/2016,DM,pass_completion_pct,Pass completion %,progression,10,45,0.9
+Serie A,2015/2016,DM,pressures_p90,Pressures /90,defending,10,45,0.9
+Serie A,2015/2016,DM,tackles_interceptions_p90,Tackles + interceptions /90,defending,10,45,0.7
+Serie A,2015/2016,DM,ball_recoveries_p90,Ball recoveries /90,defending,10,45,0.8
+Serie A,2015/2016,DM,aerials_won_p90,Aerial duels won /90,defending,10,45,0.5
+Serie A,2015/2016,DM,npxg_p90,npxG /90,attacking,15,37,0.8
+Serie A,2015/2016,DM,shots_p90,Shots /90,attacking,15,37,0.7
+Serie A,2015/2016,DM,xa_p90,xA /90,attacking,15,37,0.7
+Serie A,2015/2016,DM,key_passes_p90,Key passes /90,attacking,15,37,0.8
+Serie A,2015/2016,DM,touches_box_p90,Box touches /90,attacking,15,37,0.9
+Serie A,2015/2016,DM,progressive_passes_p90,Progressive passes /90,progression,15,37,0.9
+Serie A,2015/2016,DM,progressive_carries_p90,Progressive carries /90,progression,15,37,0.9
+Serie A,2015/2016,DM,dribbles_completed_p90,Successful dribbles /90,progression,15,37,0.8
+Serie A,2015/2016,DM,pass_completion_pct,Pass completion %,progression,15,37,0.9
+Serie A,2015/2016,DM,pressures_p90,Pressures /90,defending,15,37,0.8
+Serie A,2015/2016,DM,tackles_interceptions_p90,Tackles + interceptions /90,defending,15,37,0.8
+Serie A,2015/2016,DM,ball_recoveries_p90,Ball recoveries /90,defending,15,37,0.9
+Serie A,2015/2016,DM,aerials_won_p90,Aerial duels won /90,defending,15,37,0.8
+Serie A,2015/2016,DM,npxg_p90,npxG /90,attacking,20,30,0.9
+Serie A,2015/2016,DM,shots_p90,Shots /90,attacking,20,30,0.9
+Serie A,2015/2016,DM,xa_p90,xA /90,attacking,20,30,0.9
+Serie A,2015/2016,DM,key_passes_p90,Key passes /90,attacking,20,30,0.9
+Serie A,2015/2016,DM,touches_box_p90,Box touches /90,attacking,20,30,0.9
+Serie A,2015/2016,DM,progressive_passes_p90,Progressive passes /90,progression,20,30,0.9
+Serie A,2015/2016,DM,progressive_carries_p90,Progressive carries /90,progression,20,30,0.9
+Serie A,2015/2016,DM,dribbles_completed_p90,Successful dribbles /90,progression,20,30,0.7
+Serie A,2015/2016,DM,pass_completion_pct,Pass completion %,progression,20,30,0.9
+Serie A,2015/2016,DM,pressures_p90,Pressures /90,defending,20,30,0.9
+Serie A,2015/2016,DM,tackles_interceptions_p90,Tackles + interceptions /90,defending,20,30,0.8
+Serie A,2015/2016,DM,ball_recoveries_p90,Ball recoveries /90,defending,20,30,1.0
+Serie A,2015/2016,DM,aerials_won_p90,Aerial duels won /90,defending,20,30,0.9
+Serie A,2015/2016,CM,npxg_p90,npxG /90,attacking,5,52,0.5
+Serie A,2015/2016,CM,shots_p90,Shots /90,attacking,5,52,0.6
+Serie A,2015/2016,CM,xa_p90,xA /90,attacking,5,52,0.7
+Serie A,2015/2016,CM,key_passes_p90,Key passes /90,attacking,5,52,0.7
+Serie A,2015/2016,CM,touches_box_p90,Box touches /90,attacking,5,52,0.9
+Serie A,2015/2016,CM,progressive_passes_p90,Progressive passes /90,progression,5,52,0.8
+Serie A,2015/2016,CM,progressive_carries_p90,Progressive carries /90,progression,5,52,0.6
+Serie A,2015/2016,CM,dribbles_completed_p90,Successful dribbles /90,progression,5,52,0.6
+Serie A,2015/2016,CM,pass_completion_pct,Pass completion %,progression,5,52,0.8
+Serie A,2015/2016,CM,pressures_p90,Pressures /90,defending,5,52,0.5
+Serie A,2015/2016,CM,tackles_interceptions_p90,Tackles + interceptions /90,defending,5,52,0.7
+Serie A,2015/2016,CM,ball_recoveries_p90,Ball recoveries /90,defending,5,52,0.4
+Serie A,2015/2016,CM,aerials_won_p90,Aerial duels won /90,defending,5,52,0.8
+Serie A,2015/2016,CM,npxg_p90,npxG /90,attacking,10,52,0.8
+Serie A,2015/2016,CM,shots_p90,Shots /90,attacking,10,52,0.6
+Serie A,2015/2016,CM,xa_p90,xA /90,attacking,10,52,0.7
+Serie A,2015/2016,CM,key_passes_p90,Key passes /90,attacking,10,52,0.6
+Serie A,2015/2016,CM,touches_box_p90,Box touches /90,attacking,10,52,1.0
+Serie A,2015/2016,CM,progressive_passes_p90,Progressive passes /90,progression,10,52,0.8
+Serie A,2015/2016,CM,progressive_carries_p90,Progressive carries /90,progression,10,52,1.0
+Serie A,2015/2016,CM,dribbles_completed_p90,Successful dribbles /90,progression,10,52,0.7
+Serie A,2015/2016,CM,pass_completion_pct,Pass completion %,progression,10,52,0.9
+Serie A,2015/2016,CM,pressures_p90,Pressures /90,defending,10,52,0.7
+Serie A,2015/2016,CM,tackles_interceptions_p90,Tackles + interceptions /90,defending,10,52,0.8
+Serie A,2015/2016,CM,ball_recoveries_p90,Ball recoveries /90,defending,10,52,0.7
+Serie A,2015/2016,CM,aerials_won_p90,Aerial duels won /90,defending,10,52,0.9
+Serie A,2015/2016,CM,npxg_p90,npxG /90,attacking,15,44,0.6
+Serie A,2015/2016,CM,shots_p90,Shots /90,attacking,15,44,0.8
+Serie A,2015/2016,CM,xa_p90,xA /90,attacking,15,44,0.9
+Serie A,2015/2016,CM,key_passes_p90,Key passes /90,attacking,15,44,0.6
+Serie A,2015/2016,CM,touches_box_p90,Box touches /90,attacking,15,44,0.9
+Serie A,2015/2016,CM,progressive_passes_p90,Progressive passes /90,progression,15,44,0.9
+Serie A,2015/2016,CM,progressive_carries_p90,Progressive carries /90,progression,15,44,1.0
+Serie A,2015/2016,CM,dribbles_completed_p90,Successful dribbles /90,progression,15,44,0.9
+Serie A,2015/2016,CM,pass_completion_pct,Pass completion %,progression,15,44,0.8
+Serie A,2015/2016,CM,pressures_p90,Pressures /90,defending,15,44,0.8
+Serie A,2015/2016,CM,tackles_interceptions_p90,Tackles + interceptions /90,defending,15,44,0.8
+Serie A,2015/2016,CM,ball_recoveries_p90,Ball recoveries /90,defending,15,44,0.9
+Serie A,2015/2016,CM,aerials_won_p90,Aerial duels won /90,defending,15,44,0.9
+Serie A,2015/2016,CM,npxg_p90,npxG /90,attacking,20,38,0.9
+Serie A,2015/2016,CM,shots_p90,Shots /90,attacking,20,38,0.9
+Serie A,2015/2016,CM,xa_p90,xA /90,attacking,20,38,0.8
+Serie A,2015/2016,CM,key_passes_p90,Key passes /90,attacking,20,38,0.9
+Serie A,2015/2016,CM,touches_box_p90,Box touches /90,attacking,20,38,0.9
+Serie A,2015/2016,CM,progressive_passes_p90,Progressive passes /90,progression,20,38,0.9
+Serie A,2015/2016,CM,progressive_carries_p90,Progressive carries /90,progression,20,38,0.9
+Serie A,2015/2016,CM,dribbles_completed_p90,Successful dribbles /90,progression,20,38,1.0
+Serie A,2015/2016,CM,pass_completion_pct,Pass completion %,progression,20,38,0.9
+Serie A,2015/2016,CM,pressures_p90,Pressures /90,defending,20,38,0.8
+Serie A,2015/2016,CM,tackles_interceptions_p90,Tackles + interceptions /90,defending,20,38,0.8
+Serie A,2015/2016,CM,ball_recoveries_p90,Ball recoveries /90,defending,20,38,1.0
+Serie A,2015/2016,CM,aerials_won_p90,Aerial duels won /90,defending,20,38,0.9
+Serie A,2015/2016,W,npxg_p90,npxG /90,attacking,5,28,0.8
+Serie A,2015/2016,W,shots_p90,Shots /90,attacking,5,28,0.8
+Serie A,2015/2016,W,xa_p90,xA /90,attacking,5,28,0.5
+Serie A,2015/2016,W,key_passes_p90,Key passes /90,attacking,5,28,0.7
+Serie A,2015/2016,W,touches_box_p90,Box touches /90,attacking,5,28,0.9
+Serie A,2015/2016,W,progressive_passes_p90,Progressive passes /90,progression,5,28,0.8
+Serie A,2015/2016,W,progressive_carries_p90,Progressive carries /90,progression,5,28,0.8
+Serie A,2015/2016,W,dribbles_completed_p90,Successful dribbles /90,progression,5,28,0.6
+Serie A,2015/2016,W,pass_completion_pct,Pass completion %,progression,5,28,0.8
+Serie A,2015/2016,W,pressures_p90,Pressures /90,defending,5,28,0.8
+Serie A,2015/2016,W,tackles_interceptions_p90,Tackles + interceptions /90,defending,5,28,0.9
+Serie A,2015/2016,W,ball_recoveries_p90,Ball recoveries /90,defending,5,28,0.5
+Serie A,2015/2016,W,aerials_won_p90,Aerial duels won /90,defending,5,28,0.8
+Serie A,2015/2016,W,npxg_p90,npxG /90,attacking,10,28,0.7
+Serie A,2015/2016,W,shots_p90,Shots /90,attacking,10,28,0.9
+Serie A,2015/2016,W,xa_p90,xA /90,attacking,10,28,0.7
+Serie A,2015/2016,W,key_passes_p90,Key passes /90,attacking,10,28,1.0
+Serie A,2015/2016,W,touches_box_p90,Box touches /90,attacking,10,28,1.0
+Serie A,2015/2016,W,progressive_passes_p90,Progressive passes /90,progression,10,28,0.8
+Serie A,2015/2016,W,progressive_carries_p90,Progressive carries /90,progression,10,28,0.9
+Serie A,2015/2016,W,dribbles_completed_p90,Successful dribbles /90,progression,10,28,0.9
+Serie A,2015/2016,W,pass_completion_pct,Pass completion %,progression,10,28,0.9
+Serie A,2015/2016,W,pressures_p90,Pressures /90,defending,10,28,0.8
+Serie A,2015/2016,W,tackles_interceptions_p90,Tackles + interceptions /90,defending,10,28,0.9
+Serie A,2015/2016,W,ball_recoveries_p90,Ball recoveries /90,defending,10,28,0.6
+Serie A,2015/2016,W,aerials_won_p90,Aerial duels won /90,defending,10,28,0.8
+Serie A,2015/2016,W,npxg_p90,npxG /90,attacking,15,25,0.9
+Serie A,2015/2016,W,shots_p90,Shots /90,attacking,15,25,0.8
+Serie A,2015/2016,W,xa_p90,xA /90,attacking,15,25,0.8
+Serie A,2015/2016,W,key_passes_p90,Key passes /90,attacking,15,25,0.9
+Serie A,2015/2016,W,touches_box_p90,Box touches /90,attacking,15,25,0.9
+Serie A,2015/2016,W,progressive_passes_p90,Progressive passes /90,progression,15,25,0.9
+Serie A,2015/2016,W,progressive_carries_p90,Progressive carries /90,progression,15,25,0.9
+Serie A,2015/2016,W,dribbles_completed_p90,Successful dribbles /90,progression,15,25,0.9
+Serie A,2015/2016,W,pass_completion_pct,Pass completion %,progression,15,25,0.9
+Serie A,2015/2016,W,pressures_p90,Pressures /90,defending,15,25,0.9
+Serie A,2015/2016,W,tackles_interceptions_p90,Tackles + interceptions /90,defending,15,25,1.0
+Serie A,2015/2016,W,ball_recoveries_p90,Ball recoveries /90,defending,15,25,0.9
+Serie A,2015/2016,W,aerials_won_p90,Aerial duels won /90,defending,15,25,0.9
+Serie A,2015/2016,FW,npxg_p90,npxG /90,attacking,5,48,0.5
+Serie A,2015/2016,FW,shots_p90,Shots /90,attacking,5,48,0.6
+Serie A,2015/2016,FW,xa_p90,xA /90,attacking,5,48,0.6
+Serie A,2015/2016,FW,key_passes_p90,Key passes /90,attacking,5,48,0.8
+Serie A,2015/2016,FW,touches_box_p90,Box touches /90,attacking,5,48,0.6
+Serie A,2015/2016,FW,progressive_passes_p90,Progressive passes /90,progression,5,48,0.8
+Serie A,2015/2016,FW,progressive_carries_p90,Progressive carries /90,progression,5,48,0.7
+Serie A,2015/2016,FW,dribbles_completed_p90,Successful dribbles /90,progression,5,48,0.6
+Serie A,2015/2016,FW,pass_completion_pct,Pass completion %,progression,5,48,0.6
+Serie A,2015/2016,FW,pressures_p90,Pressures /90,defending,5,48,0.4
+Serie A,2015/2016,FW,tackles_interceptions_p90,Tackles + interceptions /90,defending,5,48,0.7
+Serie A,2015/2016,FW,ball_recoveries_p90,Ball recoveries /90,defending,5,48,0.7
+Serie A,2015/2016,FW,aerials_won_p90,Aerial duels won /90,defending,5,48,0.8
+Serie A,2015/2016,FW,npxg_p90,npxG /90,attacking,10,48,0.6
+Serie A,2015/2016,FW,shots_p90,Shots /90,attacking,10,48,0.7
+Serie A,2015/2016,FW,xa_p90,xA /90,attacking,10,48,0.5
+Serie A,2015/2016,FW,key_passes_p90,Key passes /90,attacking,10,48,0.9
+Serie A,2015/2016,FW,touches_box_p90,Box touches /90,attacking,10,48,0.7
+Serie A,2015/2016,FW,progressive_passes_p90,Progressive passes /90,progression,10,48,0.9
+Serie A,2015/2016,FW,progressive_carries_p90,Progressive carries /90,progression,10,48,0.7
+Serie A,2015/2016,FW,dribbles_completed_p90,Successful dribbles /90,progression,10,48,0.7
+Serie A,2015/2016,FW,pass_completion_pct,Pass completion %,progression,10,48,0.7
+Serie A,2015/2016,FW,pressures_p90,Pressures /90,defending,10,48,0.8
+Serie A,2015/2016,FW,tackles_interceptions_p90,Tackles + interceptions /90,defending,10,48,0.8
+Serie A,2015/2016,FW,ball_recoveries_p90,Ball recoveries /90,defending,10,48,0.7
+Serie A,2015/2016,FW,aerials_won_p90,Aerial duels won /90,defending,10,48,1.0
+Serie A,2015/2016,FW,npxg_p90,npxG /90,attacking,15,45,0.8
+Serie A,2015/2016,FW,shots_p90,Shots /90,attacking,15,45,0.7
+Serie A,2015/2016,FW,xa_p90,xA /90,attacking,15,45,0.8
+Serie A,2015/2016,FW,key_passes_p90,Key passes /90,attacking,15,45,0.8
+Serie A,2015/2016,FW,touches_box_p90,Box touches /90,attacking,15,45,0.8
+Serie A,2015/2016,FW,progressive_passes_p90,Progressive passes /90,progression,15,45,0.9
+Serie A,2015/2016,FW,progressive_carries_p90,Progressive carries /90,progression,15,45,0.8
+Serie A,2015/2016,FW,dribbles_completed_p90,Successful dribbles /90,progression,15,45,0.7
+Serie A,2015/2016,FW,pass_completion_pct,Pass completion %,progression,15,45,0.8
+Serie A,2015/2016,FW,pressures_p90,Pressures /90,defending,15,45,0.8
+Serie A,2015/2016,FW,tackles_interceptions_p90,Tackles + interceptions /90,defending,15,45,0.9
+Serie A,2015/2016,FW,ball_recoveries_p90,Ball recoveries /90,defending,15,45,0.8
+Serie A,2015/2016,FW,aerials_won_p90,Aerial duels won /90,defending,15,45,0.9
+Serie A,2015/2016,FW,npxg_p90,npxG /90,attacking,20,35,0.9
+Serie A,2015/2016,FW,shots_p90,Shots /90,attacking,20,35,0.9
+Serie A,2015/2016,FW,xa_p90,xA /90,attacking,20,35,0.8
+Serie A,2015/2016,FW,key_passes_p90,Key passes /90,attacking,20,35,0.9
+Serie A,2015/2016,FW,touches_box_p90,Box touches /90,attacking,20,35,0.9
+Serie A,2015/2016,FW,progressive_passes_p90,Progressive passes /90,progression,20,35,0.9
+Serie A,2015/2016,FW,progressive_carries_p90,Progressive carries /90,progression,20,35,1.0
+Serie A,2015/2016,FW,dribbles_completed_p90,Successful dribbles /90,progression,20,35,0.9
+Serie A,2015/2016,FW,pass_completion_pct,Pass completion %,progression,20,35,0.9
+Serie A,2015/2016,FW,pressures_p90,Pressures /90,defending,20,35,0.9
+Serie A,2015/2016,FW,tackles_interceptions_p90,Tackles + interceptions /90,defending,20,35,0.9
+Serie A,2015/2016,FW,ball_recoveries_p90,Ball recoveries /90,defending,20,35,0.8
+Serie A,2015/2016,FW,aerials_won_p90,Aerial duels won /90,defending,20,35,1.0
