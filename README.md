@@ -8,8 +8,8 @@ metric need before it repeats itself, and how often is the ranking a scout sees 
 he would see in May?
 
 **Data.** 1,517 matches of the 2015/16 La Liga, Premier League, Serie A and Ligue 1 (StatsBomb open
-data): 36,052 player appearances of at least 30 minutes, 2,093 player-seasons, 13 per-90 metrics,
-seven position groups.
+data): 36,052 player appearances of at least 30 minutes, 2,093 player-seasons, 13 scouting metrics,
+seven outfield position groups.
 
 **Headline results.**
 - Pass completion is repeatable (split-half r ≥ 0.7) after 6 matches; pressures, progressive passes
