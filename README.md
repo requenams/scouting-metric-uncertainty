@@ -2,7 +2,7 @@
 
 Code and data for the paper *How Many Minutes Until a Number Means Something? Sampling Uncertainty
 in Data-Driven Scouting*, submitted to the MIT Sloan Sports Analytics Conference 2027 research paper
-competition (paper ID 175). The manuscript is in `paper/`.
+competition (paper ID 175).
 
 ## What this is about
 
@@ -50,7 +50,6 @@ scripts/
   replication_figures.py         comparison of curves and k across data sets
 data/derived*/                   player-match tables for each data set
 results_*/                       tables and figures for each data set
-paper/                           the manuscript
 abstract/                        the abstract from the first round
 ```
 
