@@ -1,0 +1,14 @@
+family,label,mirage_rate,cells
+defending,Tackles + interceptions /90,0.42857142857142855,23.0
+defending,Ball recoveries /90,0.4065934065934066,23.0
+attacking,npxG /90,0.37362637362637363,23.0
+attacking,xA /90,0.32967032967032966,23.0
+attacking,Key passes /90,0.32967032967032966,23.0
+progression,Successful dribbles /90,0.31868131868131866,23.0
+attacking,Shots /90,0.31868131868131866,23.0
+defending,Pressures /90,0.3076923076923077,23.0
+progression,Progressive carries /90,0.2857142857142857,23.0
+defending,Aerial duels won /90,0.27472527472527475,23.0
+progression,Progressive passes /90,0.25274725274725274,23.0
+attacking,Box touches /90,0.21978021978021978,23.0
+progression,Pass completion %,0.21978021978021978,23.0

@@ -1,0 +1,14 @@
+competition,season,pos_group,metric,label,family,players,top_decile_at_snapshot,mirage_rate
+Indian Super league,2021/2022,CB,npxg_p90,npxG /90,attacking,13,2,0.5
+Indian Super league,2021/2022,CB,shots_p90,Shots /90,attacking,13,2,0.5
+Indian Super league,2021/2022,CB,xa_p90,xA /90,attacking,13,2,0.5
+Indian Super league,2021/2022,CB,key_passes_p90,Key passes /90,attacking,13,2,0.5
+Indian Super league,2021/2022,CB,touches_box_p90,Box touches /90,attacking,13,2,0.0
+Indian Super league,2021/2022,CB,progressive_passes_p90,Progressive passes /90,progression,13,2,0.5
+Indian Super league,2021/2022,CB,progressive_carries_p90,Progressive carries /90,progression,13,2,0.0
+Indian Super league,2021/2022,CB,dribbles_completed_p90,Successful dribbles /90,progression,13,2,0.5
+Indian Super league,2021/2022,CB,pass_completion_pct,Pass completion %,progression,13,2,1.0
+Indian Super league,2021/2022,CB,pressures_p90,Pressures /90,defending,13,2,0.0
+Indian Super league,2021/2022,CB,tackles_interceptions_p90,Tackles + interceptions /90,defending,13,2,0.0
+Indian Super league,2021/2022,CB,ball_recoveries_p90,Ball recoveries /90,defending,13,2,0.0
+Indian Super league,2021/2022,CB,aerials_won_p90,Aerial duels won /90,defending,13,2,0.5

@@ -1,0 +1,170 @@
+pos_group,metric,label,family,matches,players,reliability
+CB,npxg_p90,npxG /90,attacking,3,36,0.11239561263633317
+CB,shots_p90,Shots /90,attacking,3,36,0.13318650724595035
+CB,xa_p90,xA /90,attacking,3,36,0.1023617933282535
+CB,key_passes_p90,Key passes /90,attacking,3,36,0.05399750099631227
+CB,touches_box_p90,Box touches /90,attacking,3,36,0.2892078381673008
+CB,progressive_passes_p90,Progressive passes /90,progression,3,36,0.4130005235433566
+CB,progressive_carries_p90,Progressive carries /90,progression,3,36,0.2738087500429563
+CB,dribbles_completed_p90,Successful dribbles /90,progression,3,36,0.24870556158540894
+CB,pass_completion_pct,Pass completion %,progression,3,36,0.5082333376746435
+CB,pressures_p90,Pressures /90,defending,3,36,0.41960125917945507
+CB,tackles_interceptions_p90,Tackles + interceptions /90,defending,3,36,0.16817191069492732
+CB,ball_recoveries_p90,Ball recoveries /90,defending,3,36,0.42672047717992234
+CB,aerials_won_p90,Aerial duels won /90,defending,3,36,0.4026064854904292
+CB,npxg_p90,npxG /90,attacking,5,29,0.18698247379080785
+CB,shots_p90,Shots /90,attacking,5,29,0.3017531021360706
+CB,xa_p90,xA /90,attacking,5,29,0.06320194316889058
+CB,key_passes_p90,Key passes /90,attacking,5,29,0.002417591346335026
+CB,touches_box_p90,Box touches /90,attacking,5,29,0.4214075217505074
+CB,progressive_passes_p90,Progressive passes /90,progression,5,29,0.5095052090593413
+CB,progressive_carries_p90,Progressive carries /90,progression,5,29,0.3824815665473415
+CB,dribbles_completed_p90,Successful dribbles /90,progression,5,29,0.35886663555684
+CB,pass_completion_pct,Pass completion %,progression,5,29,0.6540698788664054
+CB,pressures_p90,Pressures /90,defending,5,29,0.5592110745451423
+CB,tackles_interceptions_p90,Tackles + interceptions /90,defending,5,29,0.36893417513930793
+CB,ball_recoveries_p90,Ball recoveries /90,defending,5,29,0.507122593502974
+CB,aerials_won_p90,Aerial duels won /90,defending,5,29,0.5337473159743304
+CB,npxg_p90,npxG /90,attacking,8,15,0.086071488565078
+CB,shots_p90,Shots /90,attacking,8,15,0.4090228269578298
+CB,xa_p90,xA /90,attacking,8,15,0.24589340395426404
+CB,key_passes_p90,Key passes /90,attacking,8,15,0.07066864695283628
+CB,touches_box_p90,Box touches /90,attacking,8,15,0.5961057538864143
+CB,progressive_passes_p90,Progressive passes /90,progression,8,15,0.41096755460719103
+CB,progressive_carries_p90,Progressive carries /90,progression,8,15,0.6000083079851702
+CB,dribbles_completed_p90,Successful dribbles /90,progression,8,15,0.5161637594020279
+CB,pass_completion_pct,Pass completion %,progression,8,15,0.5052934015633117
+CB,pressures_p90,Pressures /90,defending,8,15,0.7672185923492719
+CB,tackles_interceptions_p90,Tackles + interceptions /90,defending,8,15,0.33375726419456675
+CB,ball_recoveries_p90,Ball recoveries /90,defending,8,15,0.5234821428571428
+CB,aerials_won_p90,Aerial duels won /90,defending,8,15,0.7219427196327912
+FB,npxg_p90,npxG /90,attacking,3,33,0.17196752205578164
+FB,shots_p90,Shots /90,attacking,3,33,0.22160940714043384
+FB,xa_p90,xA /90,attacking,3,33,0.293257457420588
+FB,key_passes_p90,Key passes /90,attacking,3,33,0.2782361638928834
+FB,touches_box_p90,Box touches /90,attacking,3,33,0.412105719557906
+FB,progressive_passes_p90,Progressive passes /90,progression,3,33,0.15142642249050703
+FB,progressive_carries_p90,Progressive carries /90,progression,3,33,0.5681887334332794
+FB,dribbles_completed_p90,Successful dribbles /90,progression,3,33,0.19876696423268433
+FB,pass_completion_pct,Pass completion %,progression,3,33,0.45483079445053043
+FB,pressures_p90,Pressures /90,defending,3,33,0.5258847892483038
+FB,tackles_interceptions_p90,Tackles + interceptions /90,defending,3,33,0.21015256269695154
+FB,ball_recoveries_p90,Ball recoveries /90,defending,3,33,0.20772936755414043
+FB,aerials_won_p90,Aerial duels won /90,defending,3,33,0.17955880629619564
+FB,npxg_p90,npxG /90,attacking,5,25,0.20490004790038877
+FB,shots_p90,Shots /90,attacking,5,25,0.21180487719905963
+FB,xa_p90,xA /90,attacking,5,25,0.5169991365059781
+FB,key_passes_p90,Key passes /90,attacking,5,25,0.4308260490587398
+FB,touches_box_p90,Box touches /90,attacking,5,25,0.369665780872117
+FB,progressive_passes_p90,Progressive passes /90,progression,5,25,0.2969651387975564
+FB,progressive_carries_p90,Progressive carries /90,progression,5,25,0.6021423057179168
+FB,dribbles_completed_p90,Successful dribbles /90,progression,5,25,0.2760299574473596
+FB,pass_completion_pct,Pass completion %,progression,5,25,0.6494174548741545
+FB,pressures_p90,Pressures /90,defending,5,25,0.6846386615801765
+FB,tackles_interceptions_p90,Tackles + interceptions /90,defending,5,25,0.40883124017007366
+FB,ball_recoveries_p90,Ball recoveries /90,defending,5,25,0.31548538687208433
+FB,aerials_won_p90,Aerial duels won /90,defending,5,25,0.30531292474859023
+DM,npxg_p90,npxG /90,attacking,3,35,0.19535040587925528
+DM,shots_p90,Shots /90,attacking,3,35,0.34368352575251376
+DM,xa_p90,xA /90,attacking,3,35,0.22994371670540653
+DM,key_passes_p90,Key passes /90,attacking,3,35,0.35590522744229824
+DM,touches_box_p90,Box touches /90,attacking,3,35,0.182202101244064
+DM,progressive_passes_p90,Progressive passes /90,progression,3,35,0.475605104762001
+DM,progressive_carries_p90,Progressive carries /90,progression,3,35,0.35284168574962976
+DM,dribbles_completed_p90,Successful dribbles /90,progression,3,35,0.24989193195477752
+DM,pass_completion_pct,Pass completion %,progression,3,35,0.4246264624268334
+DM,pressures_p90,Pressures /90,defending,3,35,0.39016259915369783
+DM,tackles_interceptions_p90,Tackles + interceptions /90,defending,3,35,0.2797244634789166
+DM,ball_recoveries_p90,Ball recoveries /90,defending,3,35,0.26194065111454773
+DM,aerials_won_p90,Aerial duels won /90,defending,3,35,0.36569467684608525
+DM,npxg_p90,npxG /90,attacking,5,29,0.18309764702967596
+DM,shots_p90,Shots /90,attacking,5,29,0.40846122128945483
+DM,xa_p90,xA /90,attacking,5,29,0.27619080846235344
+DM,key_passes_p90,Key passes /90,attacking,5,29,0.45440976058058674
+DM,touches_box_p90,Box touches /90,attacking,5,29,0.2776344411819224
+DM,progressive_passes_p90,Progressive passes /90,progression,5,29,0.6478916122667358
+DM,progressive_carries_p90,Progressive carries /90,progression,5,29,0.5527332829603944
+DM,dribbles_completed_p90,Successful dribbles /90,progression,5,29,0.32756792791600864
+DM,pass_completion_pct,Pass completion %,progression,5,29,0.48441002334637356
+DM,pressures_p90,Pressures /90,defending,5,29,0.6032317225512553
+DM,tackles_interceptions_p90,Tackles + interceptions /90,defending,5,29,0.35189039398991817
+DM,ball_recoveries_p90,Ball recoveries /90,defending,5,29,0.385079406078905
+DM,aerials_won_p90,Aerial duels won /90,defending,5,29,0.4908207942567122
+DM,npxg_p90,npxG /90,attacking,8,12,0.46678321678321677
+DM,shots_p90,Shots /90,attacking,8,12,0.3205146081373902
+DM,xa_p90,xA /90,attacking,8,12,0.31445192894700186
+DM,key_passes_p90,Key passes /90,attacking,8,12,0.4760358552534812
+DM,touches_box_p90,Box touches /90,attacking,8,12,0.5439721322321642
+DM,progressive_passes_p90,Progressive passes /90,progression,8,12,0.6566433566433569
+DM,progressive_carries_p90,Progressive carries /90,progression,8,12,0.5959420181432816
+DM,dribbles_completed_p90,Successful dribbles /90,progression,8,12,0.4618018221731977
+DM,pass_completion_pct,Pass completion %,progression,8,12,0.5686480912381009
+DM,pressures_p90,Pressures /90,defending,8,12,0.645979020979021
+DM,tackles_interceptions_p90,Tackles + interceptions /90,defending,8,12,0.24405594405594405
+DM,ball_recoveries_p90,Ball recoveries /90,defending,8,12,0.5705663202015814
+DM,aerials_won_p90,Aerial duels won /90,defending,8,12,0.7428325509520769
+CM,npxg_p90,npxG /90,attacking,3,15,0.10734392889532023
+CM,shots_p90,Shots /90,attacking,3,15,0.1403821220410402
+CM,xa_p90,xA /90,attacking,3,15,0.19313166270426216
+CM,key_passes_p90,Key passes /90,attacking,3,15,0.3296448394441868
+CM,touches_box_p90,Box touches /90,attacking,3,15,0.32772407242750595
+CM,progressive_passes_p90,Progressive passes /90,progression,3,15,0.6189119076944575
+CM,progressive_carries_p90,Progressive carries /90,progression,3,15,0.02714676863223924
+CM,dribbles_completed_p90,Successful dribbles /90,progression,3,15,0.09399336028288979
+CM,pass_completion_pct,Pass completion %,progression,3,15,0.4488108748391652
+CM,pressures_p90,Pressures /90,defending,3,15,0.5429275297005249
+CM,tackles_interceptions_p90,Tackles + interceptions /90,defending,3,15,0.3141428252194652
+CM,ball_recoveries_p90,Ball recoveries /90,defending,3,15,0.11991398716458501
+CM,aerials_won_p90,Aerial duels won /90,defending,3,15,0.2905218778645634
+W,npxg_p90,npxG /90,attacking,3,26,0.18110479254956852
+W,shots_p90,Shots /90,attacking,3,26,0.2305662720521172
+W,xa_p90,xA /90,attacking,3,26,0.12797454061203611
+W,key_passes_p90,Key passes /90,attacking,3,26,0.1672690195725502
+W,touches_box_p90,Box touches /90,attacking,3,26,0.49547771620705516
+W,progressive_passes_p90,Progressive passes /90,progression,3,26,0.3704524601674045
+W,progressive_carries_p90,Progressive carries /90,progression,3,26,0.4269169597840138
+W,dribbles_completed_p90,Successful dribbles /90,progression,3,26,0.34869041522154615
+W,pass_completion_pct,Pass completion %,progression,3,26,0.44457731061839745
+W,pressures_p90,Pressures /90,defending,3,26,0.6107889879966291
+W,tackles_interceptions_p90,Tackles + interceptions /90,defending,3,26,0.2234137609113862
+W,ball_recoveries_p90,Ball recoveries /90,defending,3,26,0.23157099561898092
+W,aerials_won_p90,Aerial duels won /90,defending,3,26,0.49552813698631376
+W,npxg_p90,npxG /90,attacking,5,21,0.3299025974025974
+W,shots_p90,Shots /90,attacking,5,21,0.46873402432684036
+W,xa_p90,xA /90,attacking,5,21,0.17433518560711544
+W,key_passes_p90,Key passes /90,attacking,5,21,0.16170937593537849
+W,touches_box_p90,Box touches /90,attacking,5,21,0.5736100368291182
+W,progressive_passes_p90,Progressive passes /90,progression,5,21,0.3728271458528543
+W,progressive_carries_p90,Progressive carries /90,progression,5,21,0.5001401920229837
+W,dribbles_completed_p90,Successful dribbles /90,progression,5,21,0.4088779313376067
+W,pass_completion_pct,Pass completion %,progression,5,21,0.603419436282883
+W,pressures_p90,Pressures /90,defending,5,21,0.6697453115344654
+W,tackles_interceptions_p90,Tackles + interceptions /90,defending,5,21,0.41069918212594203
+W,ball_recoveries_p90,Ball recoveries /90,defending,5,21,0.2466532312501879
+W,aerials_won_p90,Aerial duels won /90,defending,5,21,0.6734029406865718
+FW,npxg_p90,npxG /90,attacking,3,27,0.0862179487179487
+FW,shots_p90,Shots /90,attacking,3,27,0.1723336984973228
+FW,xa_p90,xA /90,attacking,3,27,0.26309843678929123
+FW,key_passes_p90,Key passes /90,attacking,3,27,0.25088364702254556
+FW,touches_box_p90,Box touches /90,attacking,3,27,0.20214250252036975
+FW,progressive_passes_p90,Progressive passes /90,progression,3,27,0.4988900818750567
+FW,progressive_carries_p90,Progressive carries /90,progression,3,27,0.5060418051318827
+FW,dribbles_completed_p90,Successful dribbles /90,progression,3,27,0.3606593217832499
+FW,pass_completion_pct,Pass completion %,progression,3,27,0.26491896909908014
+FW,pressures_p90,Pressures /90,defending,3,27,0.4786578095615651
+FW,tackles_interceptions_p90,Tackles + interceptions /90,defending,3,27,0.3066791630692285
+FW,ball_recoveries_p90,Ball recoveries /90,defending,3,27,0.3536467745157899
+FW,aerials_won_p90,Aerial duels won /90,defending,3,27,0.7322166387240577
+FW,npxg_p90,npxG /90,attacking,5,19,0.008991228070175435
+FW,shots_p90,Shots /90,attacking,5,19,0.2019392567444646
+FW,xa_p90,xA /90,attacking,5,19,0.14378621284462545
+FW,key_passes_p90,Key passes /90,attacking,5,19,0.46804857832986935
+FW,touches_box_p90,Box touches /90,attacking,5,19,0.32017984669837085
+FW,progressive_passes_p90,Progressive passes /90,progression,5,19,0.6558423083453123
+FW,progressive_carries_p90,Progressive carries /90,progression,5,19,0.6589384887489644
+FW,dribbles_completed_p90,Successful dribbles /90,progression,5,19,0.5182638541820809
+FW,pass_completion_pct,Pass completion %,progression,5,19,0.3768868930826371
+FW,pressures_p90,Pressures /90,defending,5,19,0.5415712524405407
+FW,tackles_interceptions_p90,Tackles + interceptions /90,defending,5,19,0.4370103073879227
+FW,ball_recoveries_p90,Ball recoveries /90,defending,5,19,0.44764557804052885
+FW,aerials_won_p90,Aerial duels won /90,defending,5,19,0.8290179846711041

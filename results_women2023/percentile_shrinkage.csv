@@ -1,0 +1,14 @@
+family,label,900-1500,1500-2500,2500+,top10_lost_900-1500,top10_lost_1500-2500,top10_lost_2500+
+attacking,Box touches /90,0.9,0.6,1.1,0.0,0.0,
+attacking,Key passes /90,1.7,1.2,2.9,0.18,0.0,
+attacking,Shots /90,1.2,0.9,1.6,0.1,0.0,
+attacking,npxG /90,1.7,1.2,2.4,0.07,0.06,0.0
+attacking,xA /90,2.0,1.5,3.0,0.11,0.0,
+defending,Aerial duels won /90,1.1,0.8,1.5,0.09,0.0,0.0
+defending,Ball recoveries /90,1.1,0.8,1.6,0.03,0.02,0.0
+defending,Pressures /90,0.6,0.5,1.0,0.03,0.0,0.0
+defending,Tackles + interceptions /90,1.2,0.9,1.6,0.06,0.0,0.0
+progression,Pass completion %,0.5,0.4,0.5,0.08,0.0,
+progression,Progressive carries /90,0.8,0.6,1.5,0.09,0.0,0.0
+progression,Progressive passes /90,0.6,0.5,1.3,0.06,0.0,
+progression,Successful dribbles /90,1.4,1.1,2.1,0.07,0.07,0.0

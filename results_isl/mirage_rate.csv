@@ -1,0 +1,14 @@
+family,label,mirage_rate,cells
+progression,Pass completion %,1.0,1.0
+attacking,npxG /90,0.5,1.0
+attacking,Shots /90,0.5,1.0
+attacking,xA /90,0.5,1.0
+attacking,Key passes /90,0.5,1.0
+progression,Progressive passes /90,0.5,1.0
+defending,Aerial duels won /90,0.5,1.0
+progression,Successful dribbles /90,0.5,1.0
+attacking,Box touches /90,0.0,1.0
+defending,Tackles + interceptions /90,0.0,1.0
+defending,Pressures /90,0.0,1.0
+defending,Ball recoveries /90,0.0,1.0
+progression,Progressive carries /90,0.0,1.0

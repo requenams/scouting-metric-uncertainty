@@ -1,0 +1,781 @@
+competition,season,pos_group,metric,label,family,matches,players,top10_overlap
+FA Women's Super League,2023/2024,CB,npxg_p90,npxG /90,attacking,5,34,0.5
+FA Women's Super League,2023/2024,CB,shots_p90,Shots /90,attacking,5,34,0.7
+FA Women's Super League,2023/2024,CB,xa_p90,xA /90,attacking,5,34,0.7
+FA Women's Super League,2023/2024,CB,key_passes_p90,Key passes /90,attacking,5,34,0.7
+FA Women's Super League,2023/2024,CB,touches_box_p90,Box touches /90,attacking,5,34,0.6
+FA Women's Super League,2023/2024,CB,progressive_passes_p90,Progressive passes /90,progression,5,34,0.8
+FA Women's Super League,2023/2024,CB,progressive_carries_p90,Progressive carries /90,progression,5,34,0.6
+FA Women's Super League,2023/2024,CB,dribbles_completed_p90,Successful dribbles /90,progression,5,34,0.8
+FA Women's Super League,2023/2024,CB,pass_completion_pct,Pass completion %,progression,5,34,0.8
+FA Women's Super League,2023/2024,CB,pressures_p90,Pressures /90,defending,5,34,0.6
+FA Women's Super League,2023/2024,CB,tackles_interceptions_p90,Tackles + interceptions /90,defending,5,34,0.6
+FA Women's Super League,2023/2024,CB,ball_recoveries_p90,Ball recoveries /90,defending,5,34,0.8
+FA Women's Super League,2023/2024,CB,aerials_won_p90,Aerial duels won /90,defending,5,34,0.7
+FA Women's Super League,2023/2024,CB,npxg_p90,npxG /90,attacking,10,34,0.8
+FA Women's Super League,2023/2024,CB,shots_p90,Shots /90,attacking,10,34,0.7
+FA Women's Super League,2023/2024,CB,xa_p90,xA /90,attacking,10,34,0.8
+FA Women's Super League,2023/2024,CB,key_passes_p90,Key passes /90,attacking,10,34,0.7
+FA Women's Super League,2023/2024,CB,touches_box_p90,Box touches /90,attacking,10,34,0.7
+FA Women's Super League,2023/2024,CB,progressive_passes_p90,Progressive passes /90,progression,10,34,0.8
+FA Women's Super League,2023/2024,CB,progressive_carries_p90,Progressive carries /90,progression,10,34,0.8
+FA Women's Super League,2023/2024,CB,dribbles_completed_p90,Successful dribbles /90,progression,10,34,0.9
+FA Women's Super League,2023/2024,CB,pass_completion_pct,Pass completion %,progression,10,34,0.9
+FA Women's Super League,2023/2024,CB,pressures_p90,Pressures /90,defending,10,34,0.9
+FA Women's Super League,2023/2024,CB,tackles_interceptions_p90,Tackles + interceptions /90,defending,10,34,0.8
+FA Women's Super League,2023/2024,CB,ball_recoveries_p90,Ball recoveries /90,defending,10,34,0.9
+FA Women's Super League,2023/2024,CB,aerials_won_p90,Aerial duels won /90,defending,10,34,0.9
+FA Women's Super League,2023/2024,CB,npxg_p90,npxG /90,attacking,15,27,0.8
+FA Women's Super League,2023/2024,CB,shots_p90,Shots /90,attacking,15,27,0.9
+FA Women's Super League,2023/2024,CB,xa_p90,xA /90,attacking,15,27,0.9
+FA Women's Super League,2023/2024,CB,key_passes_p90,Key passes /90,attacking,15,27,0.8
+FA Women's Super League,2023/2024,CB,touches_box_p90,Box touches /90,attacking,15,27,0.8
+FA Women's Super League,2023/2024,CB,progressive_passes_p90,Progressive passes /90,progression,15,27,0.9
+FA Women's Super League,2023/2024,CB,progressive_carries_p90,Progressive carries /90,progression,15,27,0.9
+FA Women's Super League,2023/2024,CB,dribbles_completed_p90,Successful dribbles /90,progression,15,27,1.0
+FA Women's Super League,2023/2024,CB,pass_completion_pct,Pass completion %,progression,15,27,1.0
+FA Women's Super League,2023/2024,CB,pressures_p90,Pressures /90,defending,15,27,1.0
+FA Women's Super League,2023/2024,CB,tackles_interceptions_p90,Tackles + interceptions /90,defending,15,27,0.9
+FA Women's Super League,2023/2024,CB,ball_recoveries_p90,Ball recoveries /90,defending,15,27,0.9
+FA Women's Super League,2023/2024,CB,aerials_won_p90,Aerial duels won /90,defending,15,27,0.9
+FA Women's Super League,2023/2024,FB,npxg_p90,npxG /90,attacking,5,29,0.7
+FA Women's Super League,2023/2024,FB,shots_p90,Shots /90,attacking,5,29,0.8
+FA Women's Super League,2023/2024,FB,xa_p90,xA /90,attacking,5,29,0.7
+FA Women's Super League,2023/2024,FB,key_passes_p90,Key passes /90,attacking,5,29,0.6
+FA Women's Super League,2023/2024,FB,touches_box_p90,Box touches /90,attacking,5,29,0.6
+FA Women's Super League,2023/2024,FB,progressive_passes_p90,Progressive passes /90,progression,5,29,0.8
+FA Women's Super League,2023/2024,FB,progressive_carries_p90,Progressive carries /90,progression,5,29,0.6
+FA Women's Super League,2023/2024,FB,dribbles_completed_p90,Successful dribbles /90,progression,5,29,0.7
+FA Women's Super League,2023/2024,FB,pass_completion_pct,Pass completion %,progression,5,29,0.9
+FA Women's Super League,2023/2024,FB,pressures_p90,Pressures /90,defending,5,29,0.9
+FA Women's Super League,2023/2024,FB,tackles_interceptions_p90,Tackles + interceptions /90,defending,5,29,0.8
+FA Women's Super League,2023/2024,FB,ball_recoveries_p90,Ball recoveries /90,defending,5,29,0.5
+FA Women's Super League,2023/2024,FB,aerials_won_p90,Aerial duels won /90,defending,5,29,0.8
+FA Women's Super League,2023/2024,FB,npxg_p90,npxG /90,attacking,10,29,0.5
+FA Women's Super League,2023/2024,FB,shots_p90,Shots /90,attacking,10,29,0.8
+FA Women's Super League,2023/2024,FB,xa_p90,xA /90,attacking,10,29,0.7
+FA Women's Super League,2023/2024,FB,key_passes_p90,Key passes /90,attacking,10,29,0.8
+FA Women's Super League,2023/2024,FB,touches_box_p90,Box touches /90,attacking,10,29,0.6
+FA Women's Super League,2023/2024,FB,progressive_passes_p90,Progressive passes /90,progression,10,29,1.0
+FA Women's Super League,2023/2024,FB,progressive_carries_p90,Progressive carries /90,progression,10,29,0.8
+FA Women's Super League,2023/2024,FB,dribbles_completed_p90,Successful dribbles /90,progression,10,29,1.0
+FA Women's Super League,2023/2024,FB,pass_completion_pct,Pass completion %,progression,10,29,0.9
+FA Women's Super League,2023/2024,FB,pressures_p90,Pressures /90,defending,10,29,0.9
+FA Women's Super League,2023/2024,FB,tackles_interceptions_p90,Tackles + interceptions /90,defending,10,29,0.8
+FA Women's Super League,2023/2024,FB,ball_recoveries_p90,Ball recoveries /90,defending,10,29,0.7
+FA Women's Super League,2023/2024,FB,aerials_won_p90,Aerial duels won /90,defending,10,29,1.0
+FA Women's Super League,2023/2024,FB,npxg_p90,npxG /90,attacking,15,21,0.9
+FA Women's Super League,2023/2024,FB,shots_p90,Shots /90,attacking,15,21,0.9
+FA Women's Super League,2023/2024,FB,xa_p90,xA /90,attacking,15,21,0.9
+FA Women's Super League,2023/2024,FB,key_passes_p90,Key passes /90,attacking,15,21,0.9
+FA Women's Super League,2023/2024,FB,touches_box_p90,Box touches /90,attacking,15,21,0.9
+FA Women's Super League,2023/2024,FB,progressive_passes_p90,Progressive passes /90,progression,15,21,0.9
+FA Women's Super League,2023/2024,FB,progressive_carries_p90,Progressive carries /90,progression,15,21,1.0
+FA Women's Super League,2023/2024,FB,dribbles_completed_p90,Successful dribbles /90,progression,15,21,1.0
+FA Women's Super League,2023/2024,FB,pass_completion_pct,Pass completion %,progression,15,21,1.0
+FA Women's Super League,2023/2024,FB,pressures_p90,Pressures /90,defending,15,21,0.9
+FA Women's Super League,2023/2024,FB,tackles_interceptions_p90,Tackles + interceptions /90,defending,15,21,0.9
+FA Women's Super League,2023/2024,FB,ball_recoveries_p90,Ball recoveries /90,defending,15,21,0.9
+FA Women's Super League,2023/2024,FB,aerials_won_p90,Aerial duels won /90,defending,15,21,0.9
+FA Women's Super League,2023/2024,DM,npxg_p90,npxG /90,attacking,5,22,0.7
+FA Women's Super League,2023/2024,DM,shots_p90,Shots /90,attacking,5,22,0.7
+FA Women's Super League,2023/2024,DM,xa_p90,xA /90,attacking,5,22,0.7
+FA Women's Super League,2023/2024,DM,key_passes_p90,Key passes /90,attacking,5,22,0.7
+FA Women's Super League,2023/2024,DM,touches_box_p90,Box touches /90,attacking,5,22,0.8
+FA Women's Super League,2023/2024,DM,progressive_passes_p90,Progressive passes /90,progression,5,22,0.9
+FA Women's Super League,2023/2024,DM,progressive_carries_p90,Progressive carries /90,progression,5,22,0.8
+FA Women's Super League,2023/2024,DM,dribbles_completed_p90,Successful dribbles /90,progression,5,22,0.8
+FA Women's Super League,2023/2024,DM,pass_completion_pct,Pass completion %,progression,5,22,0.8
+FA Women's Super League,2023/2024,DM,pressures_p90,Pressures /90,defending,5,22,0.8
+FA Women's Super League,2023/2024,DM,tackles_interceptions_p90,Tackles + interceptions /90,defending,5,22,0.9
+FA Women's Super League,2023/2024,DM,ball_recoveries_p90,Ball recoveries /90,defending,5,22,0.9
+FA Women's Super League,2023/2024,DM,aerials_won_p90,Aerial duels won /90,defending,5,22,0.7
+FA Women's Super League,2023/2024,DM,npxg_p90,npxG /90,attacking,10,22,0.9
+FA Women's Super League,2023/2024,DM,shots_p90,Shots /90,attacking,10,22,0.7
+FA Women's Super League,2023/2024,DM,xa_p90,xA /90,attacking,10,22,0.8
+FA Women's Super League,2023/2024,DM,key_passes_p90,Key passes /90,attacking,10,22,0.9
+FA Women's Super League,2023/2024,DM,touches_box_p90,Box touches /90,attacking,10,22,0.9
+FA Women's Super League,2023/2024,DM,progressive_passes_p90,Progressive passes /90,progression,10,22,1.0
+FA Women's Super League,2023/2024,DM,progressive_carries_p90,Progressive carries /90,progression,10,22,0.8
+FA Women's Super League,2023/2024,DM,dribbles_completed_p90,Successful dribbles /90,progression,10,22,1.0
+FA Women's Super League,2023/2024,DM,pass_completion_pct,Pass completion %,progression,10,22,0.8
+FA Women's Super League,2023/2024,DM,pressures_p90,Pressures /90,defending,10,22,0.9
+FA Women's Super League,2023/2024,DM,tackles_interceptions_p90,Tackles + interceptions /90,defending,10,22,0.9
+FA Women's Super League,2023/2024,DM,ball_recoveries_p90,Ball recoveries /90,defending,10,22,0.8
+FA Women's Super League,2023/2024,DM,aerials_won_p90,Aerial duels won /90,defending,10,22,0.9
+Frauen Bundesliga,2023/2024,CB,npxg_p90,npxG /90,attacking,5,31,0.6
+Frauen Bundesliga,2023/2024,CB,shots_p90,Shots /90,attacking,5,31,0.5
+Frauen Bundesliga,2023/2024,CB,xa_p90,xA /90,attacking,5,31,0.5
+Frauen Bundesliga,2023/2024,CB,key_passes_p90,Key passes /90,attacking,5,31,0.7
+Frauen Bundesliga,2023/2024,CB,touches_box_p90,Box touches /90,attacking,5,31,0.7
+Frauen Bundesliga,2023/2024,CB,progressive_passes_p90,Progressive passes /90,progression,5,31,1.0
+Frauen Bundesliga,2023/2024,CB,progressive_carries_p90,Progressive carries /90,progression,5,31,0.7
+Frauen Bundesliga,2023/2024,CB,dribbles_completed_p90,Successful dribbles /90,progression,5,31,0.8
+Frauen Bundesliga,2023/2024,CB,pass_completion_pct,Pass completion %,progression,5,31,0.8
+Frauen Bundesliga,2023/2024,CB,pressures_p90,Pressures /90,defending,5,31,0.8
+Frauen Bundesliga,2023/2024,CB,tackles_interceptions_p90,Tackles + interceptions /90,defending,5,31,0.7
+Frauen Bundesliga,2023/2024,CB,ball_recoveries_p90,Ball recoveries /90,defending,5,31,0.7
+Frauen Bundesliga,2023/2024,CB,aerials_won_p90,Aerial duels won /90,defending,5,31,0.6
+Frauen Bundesliga,2023/2024,CB,npxg_p90,npxG /90,attacking,10,31,0.7
+Frauen Bundesliga,2023/2024,CB,shots_p90,Shots /90,attacking,10,31,0.7
+Frauen Bundesliga,2023/2024,CB,xa_p90,xA /90,attacking,10,31,0.7
+Frauen Bundesliga,2023/2024,CB,key_passes_p90,Key passes /90,attacking,10,31,0.7
+Frauen Bundesliga,2023/2024,CB,touches_box_p90,Box touches /90,attacking,10,31,0.7
+Frauen Bundesliga,2023/2024,CB,progressive_passes_p90,Progressive passes /90,progression,10,31,1.0
+Frauen Bundesliga,2023/2024,CB,progressive_carries_p90,Progressive carries /90,progression,10,31,0.9
+Frauen Bundesliga,2023/2024,CB,dribbles_completed_p90,Successful dribbles /90,progression,10,31,0.8
+Frauen Bundesliga,2023/2024,CB,pass_completion_pct,Pass completion %,progression,10,31,0.9
+Frauen Bundesliga,2023/2024,CB,pressures_p90,Pressures /90,defending,10,31,1.0
+Frauen Bundesliga,2023/2024,CB,tackles_interceptions_p90,Tackles + interceptions /90,defending,10,31,0.8
+Frauen Bundesliga,2023/2024,CB,ball_recoveries_p90,Ball recoveries /90,defending,10,31,0.9
+Frauen Bundesliga,2023/2024,CB,aerials_won_p90,Aerial duels won /90,defending,10,31,0.8
+Frauen Bundesliga,2023/2024,CB,npxg_p90,npxG /90,attacking,15,24,1.0
+Frauen Bundesliga,2023/2024,CB,shots_p90,Shots /90,attacking,15,24,0.9
+Frauen Bundesliga,2023/2024,CB,xa_p90,xA /90,attacking,15,24,0.9
+Frauen Bundesliga,2023/2024,CB,key_passes_p90,Key passes /90,attacking,15,24,1.0
+Frauen Bundesliga,2023/2024,CB,touches_box_p90,Box touches /90,attacking,15,24,1.0
+Frauen Bundesliga,2023/2024,CB,progressive_passes_p90,Progressive passes /90,progression,15,24,1.0
+Frauen Bundesliga,2023/2024,CB,progressive_carries_p90,Progressive carries /90,progression,15,24,1.0
+Frauen Bundesliga,2023/2024,CB,dribbles_completed_p90,Successful dribbles /90,progression,15,24,0.9
+Frauen Bundesliga,2023/2024,CB,pass_completion_pct,Pass completion %,progression,15,24,0.9
+Frauen Bundesliga,2023/2024,CB,pressures_p90,Pressures /90,defending,15,24,1.0
+Frauen Bundesliga,2023/2024,CB,tackles_interceptions_p90,Tackles + interceptions /90,defending,15,24,1.0
+Frauen Bundesliga,2023/2024,CB,ball_recoveries_p90,Ball recoveries /90,defending,15,24,0.9
+Frauen Bundesliga,2023/2024,CB,aerials_won_p90,Aerial duels won /90,defending,15,24,1.0
+Frauen Bundesliga,2023/2024,FB,npxg_p90,npxG /90,attacking,5,30,0.8
+Frauen Bundesliga,2023/2024,FB,shots_p90,Shots /90,attacking,5,30,0.7
+Frauen Bundesliga,2023/2024,FB,xa_p90,xA /90,attacking,5,30,0.7
+Frauen Bundesliga,2023/2024,FB,key_passes_p90,Key passes /90,attacking,5,30,0.6
+Frauen Bundesliga,2023/2024,FB,touches_box_p90,Box touches /90,attacking,5,30,0.7
+Frauen Bundesliga,2023/2024,FB,progressive_passes_p90,Progressive passes /90,progression,5,30,0.7
+Frauen Bundesliga,2023/2024,FB,progressive_carries_p90,Progressive carries /90,progression,5,30,0.8
+Frauen Bundesliga,2023/2024,FB,dribbles_completed_p90,Successful dribbles /90,progression,5,30,0.6
+Frauen Bundesliga,2023/2024,FB,pass_completion_pct,Pass completion %,progression,5,30,0.8
+Frauen Bundesliga,2023/2024,FB,pressures_p90,Pressures /90,defending,5,30,0.8
+Frauen Bundesliga,2023/2024,FB,tackles_interceptions_p90,Tackles + interceptions /90,defending,5,30,0.8
+Frauen Bundesliga,2023/2024,FB,ball_recoveries_p90,Ball recoveries /90,defending,5,30,0.8
+Frauen Bundesliga,2023/2024,FB,aerials_won_p90,Aerial duels won /90,defending,5,30,0.5
+Frauen Bundesliga,2023/2024,FB,npxg_p90,npxG /90,attacking,10,30,0.7
+Frauen Bundesliga,2023/2024,FB,shots_p90,Shots /90,attacking,10,30,0.8
+Frauen Bundesliga,2023/2024,FB,xa_p90,xA /90,attacking,10,30,0.9
+Frauen Bundesliga,2023/2024,FB,key_passes_p90,Key passes /90,attacking,10,30,0.7
+Frauen Bundesliga,2023/2024,FB,touches_box_p90,Box touches /90,attacking,10,30,0.8
+Frauen Bundesliga,2023/2024,FB,progressive_passes_p90,Progressive passes /90,progression,10,30,0.9
+Frauen Bundesliga,2023/2024,FB,progressive_carries_p90,Progressive carries /90,progression,10,30,0.9
+Frauen Bundesliga,2023/2024,FB,dribbles_completed_p90,Successful dribbles /90,progression,10,30,0.8
+Frauen Bundesliga,2023/2024,FB,pass_completion_pct,Pass completion %,progression,10,30,0.9
+Frauen Bundesliga,2023/2024,FB,pressures_p90,Pressures /90,defending,10,30,0.8
+Frauen Bundesliga,2023/2024,FB,tackles_interceptions_p90,Tackles + interceptions /90,defending,10,30,0.9
+Frauen Bundesliga,2023/2024,FB,ball_recoveries_p90,Ball recoveries /90,defending,10,30,1.0
+Frauen Bundesliga,2023/2024,FB,aerials_won_p90,Aerial duels won /90,defending,10,30,0.7
+Frauen Bundesliga,2023/2024,FB,npxg_p90,npxG /90,attacking,15,26,0.8
+Frauen Bundesliga,2023/2024,FB,shots_p90,Shots /90,attacking,15,26,0.9
+Frauen Bundesliga,2023/2024,FB,xa_p90,xA /90,attacking,15,26,0.9
+Frauen Bundesliga,2023/2024,FB,key_passes_p90,Key passes /90,attacking,15,26,0.9
+Frauen Bundesliga,2023/2024,FB,touches_box_p90,Box touches /90,attacking,15,26,0.9
+Frauen Bundesliga,2023/2024,FB,progressive_passes_p90,Progressive passes /90,progression,15,26,1.0
+Frauen Bundesliga,2023/2024,FB,progressive_carries_p90,Progressive carries /90,progression,15,26,0.9
+Frauen Bundesliga,2023/2024,FB,dribbles_completed_p90,Successful dribbles /90,progression,15,26,0.9
+Frauen Bundesliga,2023/2024,FB,pass_completion_pct,Pass completion %,progression,15,26,0.9
+Frauen Bundesliga,2023/2024,FB,pressures_p90,Pressures /90,defending,15,26,1.0
+Frauen Bundesliga,2023/2024,FB,tackles_interceptions_p90,Tackles + interceptions /90,defending,15,26,0.8
+Frauen Bundesliga,2023/2024,FB,ball_recoveries_p90,Ball recoveries /90,defending,15,26,0.8
+Frauen Bundesliga,2023/2024,FB,aerials_won_p90,Aerial duels won /90,defending,15,26,0.9
+Frauen Bundesliga,2023/2024,DM,npxg_p90,npxG /90,attacking,5,21,0.9
+Frauen Bundesliga,2023/2024,DM,shots_p90,Shots /90,attacking,5,21,0.8
+Frauen Bundesliga,2023/2024,DM,xa_p90,xA /90,attacking,5,21,0.6
+Frauen Bundesliga,2023/2024,DM,key_passes_p90,Key passes /90,attacking,5,21,0.7
+Frauen Bundesliga,2023/2024,DM,touches_box_p90,Box touches /90,attacking,5,21,0.8
+Frauen Bundesliga,2023/2024,DM,progressive_passes_p90,Progressive passes /90,progression,5,21,0.9
+Frauen Bundesliga,2023/2024,DM,progressive_carries_p90,Progressive carries /90,progression,5,21,0.7
+Frauen Bundesliga,2023/2024,DM,dribbles_completed_p90,Successful dribbles /90,progression,5,21,0.9
+Frauen Bundesliga,2023/2024,DM,pass_completion_pct,Pass completion %,progression,5,21,0.9
+Frauen Bundesliga,2023/2024,DM,pressures_p90,Pressures /90,defending,5,21,1.0
+Frauen Bundesliga,2023/2024,DM,tackles_interceptions_p90,Tackles + interceptions /90,defending,5,21,0.8
+Frauen Bundesliga,2023/2024,DM,ball_recoveries_p90,Ball recoveries /90,defending,5,21,1.0
+Frauen Bundesliga,2023/2024,DM,aerials_won_p90,Aerial duels won /90,defending,5,21,0.7
+Frauen Bundesliga,2023/2024,DM,npxg_p90,npxG /90,attacking,10,21,0.9
+Frauen Bundesliga,2023/2024,DM,shots_p90,Shots /90,attacking,10,21,0.9
+Frauen Bundesliga,2023/2024,DM,xa_p90,xA /90,attacking,10,21,0.8
+Frauen Bundesliga,2023/2024,DM,key_passes_p90,Key passes /90,attacking,10,21,0.7
+Frauen Bundesliga,2023/2024,DM,touches_box_p90,Box touches /90,attacking,10,21,0.9
+Frauen Bundesliga,2023/2024,DM,progressive_passes_p90,Progressive passes /90,progression,10,21,0.9
+Frauen Bundesliga,2023/2024,DM,progressive_carries_p90,Progressive carries /90,progression,10,21,0.9
+Frauen Bundesliga,2023/2024,DM,dribbles_completed_p90,Successful dribbles /90,progression,10,21,0.8
+Frauen Bundesliga,2023/2024,DM,pass_completion_pct,Pass completion %,progression,10,21,0.9
+Frauen Bundesliga,2023/2024,DM,pressures_p90,Pressures /90,defending,10,21,0.8
+Frauen Bundesliga,2023/2024,DM,tackles_interceptions_p90,Tackles + interceptions /90,defending,10,21,0.9
+Frauen Bundesliga,2023/2024,DM,ball_recoveries_p90,Ball recoveries /90,defending,10,21,0.9
+Frauen Bundesliga,2023/2024,DM,aerials_won_p90,Aerial duels won /90,defending,10,21,0.9
+Frauen Bundesliga,2023/2024,DM,npxg_p90,npxG /90,attacking,15,20,0.9
+Frauen Bundesliga,2023/2024,DM,shots_p90,Shots /90,attacking,15,20,0.9
+Frauen Bundesliga,2023/2024,DM,xa_p90,xA /90,attacking,15,20,0.9
+Frauen Bundesliga,2023/2024,DM,key_passes_p90,Key passes /90,attacking,15,20,0.9
+Frauen Bundesliga,2023/2024,DM,touches_box_p90,Box touches /90,attacking,15,20,1.0
+Frauen Bundesliga,2023/2024,DM,progressive_passes_p90,Progressive passes /90,progression,15,20,0.9
+Frauen Bundesliga,2023/2024,DM,progressive_carries_p90,Progressive carries /90,progression,15,20,1.0
+Frauen Bundesliga,2023/2024,DM,dribbles_completed_p90,Successful dribbles /90,progression,15,20,1.0
+Frauen Bundesliga,2023/2024,DM,pass_completion_pct,Pass completion %,progression,15,20,0.9
+Frauen Bundesliga,2023/2024,DM,pressures_p90,Pressures /90,defending,15,20,1.0
+Frauen Bundesliga,2023/2024,DM,tackles_interceptions_p90,Tackles + interceptions /90,defending,15,20,0.9
+Frauen Bundesliga,2023/2024,DM,ball_recoveries_p90,Ball recoveries /90,defending,15,20,0.9
+Frauen Bundesliga,2023/2024,DM,aerials_won_p90,Aerial duels won /90,defending,15,20,1.0
+Liga F,2023/2024,CB,npxg_p90,npxG /90,attacking,5,53,0.5
+Liga F,2023/2024,CB,shots_p90,Shots /90,attacking,5,53,0.4
+Liga F,2023/2024,CB,xa_p90,xA /90,attacking,5,53,0.4
+Liga F,2023/2024,CB,key_passes_p90,Key passes /90,attacking,5,53,0.7
+Liga F,2023/2024,CB,touches_box_p90,Box touches /90,attacking,5,53,0.5
+Liga F,2023/2024,CB,progressive_passes_p90,Progressive passes /90,progression,5,53,0.6
+Liga F,2023/2024,CB,progressive_carries_p90,Progressive carries /90,progression,5,53,0.7
+Liga F,2023/2024,CB,dribbles_completed_p90,Successful dribbles /90,progression,5,53,0.4
+Liga F,2023/2024,CB,pass_completion_pct,Pass completion %,progression,5,53,0.6
+Liga F,2023/2024,CB,pressures_p90,Pressures /90,defending,5,53,0.6
+Liga F,2023/2024,CB,tackles_interceptions_p90,Tackles + interceptions /90,defending,5,53,0.5
+Liga F,2023/2024,CB,ball_recoveries_p90,Ball recoveries /90,defending,5,53,0.5
+Liga F,2023/2024,CB,aerials_won_p90,Aerial duels won /90,defending,5,53,0.6
+Liga F,2023/2024,CB,npxg_p90,npxG /90,attacking,10,53,0.6
+Liga F,2023/2024,CB,shots_p90,Shots /90,attacking,10,53,0.8
+Liga F,2023/2024,CB,xa_p90,xA /90,attacking,10,53,0.6
+Liga F,2023/2024,CB,key_passes_p90,Key passes /90,attacking,10,53,0.6
+Liga F,2023/2024,CB,touches_box_p90,Box touches /90,attacking,10,53,0.5
+Liga F,2023/2024,CB,progressive_passes_p90,Progressive passes /90,progression,10,53,0.9
+Liga F,2023/2024,CB,progressive_carries_p90,Progressive carries /90,progression,10,53,0.7
+Liga F,2023/2024,CB,dribbles_completed_p90,Successful dribbles /90,progression,10,53,0.7
+Liga F,2023/2024,CB,pass_completion_pct,Pass completion %,progression,10,53,0.8
+Liga F,2023/2024,CB,pressures_p90,Pressures /90,defending,10,53,0.8
+Liga F,2023/2024,CB,tackles_interceptions_p90,Tackles + interceptions /90,defending,10,53,0.7
+Liga F,2023/2024,CB,ball_recoveries_p90,Ball recoveries /90,defending,10,53,0.7
+Liga F,2023/2024,CB,aerials_won_p90,Aerial duels won /90,defending,10,53,0.7
+Liga F,2023/2024,CB,npxg_p90,npxG /90,attacking,15,47,0.7
+Liga F,2023/2024,CB,shots_p90,Shots /90,attacking,15,47,0.8
+Liga F,2023/2024,CB,xa_p90,xA /90,attacking,15,47,0.9
+Liga F,2023/2024,CB,key_passes_p90,Key passes /90,attacking,15,47,0.9
+Liga F,2023/2024,CB,touches_box_p90,Box touches /90,attacking,15,47,0.8
+Liga F,2023/2024,CB,progressive_passes_p90,Progressive passes /90,progression,15,47,0.9
+Liga F,2023/2024,CB,progressive_carries_p90,Progressive carries /90,progression,15,47,1.0
+Liga F,2023/2024,CB,dribbles_completed_p90,Successful dribbles /90,progression,15,47,0.7
+Liga F,2023/2024,CB,pass_completion_pct,Pass completion %,progression,15,47,0.8
+Liga F,2023/2024,CB,pressures_p90,Pressures /90,defending,15,47,0.9
+Liga F,2023/2024,CB,tackles_interceptions_p90,Tackles + interceptions /90,defending,15,47,0.9
+Liga F,2023/2024,CB,ball_recoveries_p90,Ball recoveries /90,defending,15,47,0.9
+Liga F,2023/2024,CB,aerials_won_p90,Aerial duels won /90,defending,15,47,0.9
+Liga F,2023/2024,CB,npxg_p90,npxG /90,attacking,20,34,1.0
+Liga F,2023/2024,CB,shots_p90,Shots /90,attacking,20,34,0.8
+Liga F,2023/2024,CB,xa_p90,xA /90,attacking,20,34,0.8
+Liga F,2023/2024,CB,key_passes_p90,Key passes /90,attacking,20,34,1.0
+Liga F,2023/2024,CB,touches_box_p90,Box touches /90,attacking,20,34,0.9
+Liga F,2023/2024,CB,progressive_passes_p90,Progressive passes /90,progression,20,34,0.9
+Liga F,2023/2024,CB,progressive_carries_p90,Progressive carries /90,progression,20,34,0.9
+Liga F,2023/2024,CB,dribbles_completed_p90,Successful dribbles /90,progression,20,34,0.9
+Liga F,2023/2024,CB,pass_completion_pct,Pass completion %,progression,20,34,1.0
+Liga F,2023/2024,CB,pressures_p90,Pressures /90,defending,20,34,1.0
+Liga F,2023/2024,CB,tackles_interceptions_p90,Tackles + interceptions /90,defending,20,34,1.0
+Liga F,2023/2024,CB,ball_recoveries_p90,Ball recoveries /90,defending,20,34,0.9
+Liga F,2023/2024,CB,aerials_won_p90,Aerial duels won /90,defending,20,34,0.9
+Liga F,2023/2024,FB,npxg_p90,npxG /90,attacking,5,44,0.8
+Liga F,2023/2024,FB,shots_p90,Shots /90,attacking,5,44,0.6
+Liga F,2023/2024,FB,xa_p90,xA /90,attacking,5,44,0.5
+Liga F,2023/2024,FB,key_passes_p90,Key passes /90,attacking,5,44,0.8
+Liga F,2023/2024,FB,touches_box_p90,Box touches /90,attacking,5,44,0.8
+Liga F,2023/2024,FB,progressive_passes_p90,Progressive passes /90,progression,5,44,0.7
+Liga F,2023/2024,FB,progressive_carries_p90,Progressive carries /90,progression,5,44,0.6
+Liga F,2023/2024,FB,dribbles_completed_p90,Successful dribbles /90,progression,5,44,0.8
+Liga F,2023/2024,FB,pass_completion_pct,Pass completion %,progression,5,44,0.7
+Liga F,2023/2024,FB,pressures_p90,Pressures /90,defending,5,44,0.6
+Liga F,2023/2024,FB,tackles_interceptions_p90,Tackles + interceptions /90,defending,5,44,0.7
+Liga F,2023/2024,FB,ball_recoveries_p90,Ball recoveries /90,defending,5,44,0.4
+Liga F,2023/2024,FB,aerials_won_p90,Aerial duels won /90,defending,5,44,0.6
+Liga F,2023/2024,FB,npxg_p90,npxG /90,attacking,10,44,0.8
+Liga F,2023/2024,FB,shots_p90,Shots /90,attacking,10,44,0.8
+Liga F,2023/2024,FB,xa_p90,xA /90,attacking,10,44,0.6
+Liga F,2023/2024,FB,key_passes_p90,Key passes /90,attacking,10,44,0.7
+Liga F,2023/2024,FB,touches_box_p90,Box touches /90,attacking,10,44,0.9
+Liga F,2023/2024,FB,progressive_passes_p90,Progressive passes /90,progression,10,44,0.9
+Liga F,2023/2024,FB,progressive_carries_p90,Progressive carries /90,progression,10,44,0.8
+Liga F,2023/2024,FB,dribbles_completed_p90,Successful dribbles /90,progression,10,44,0.8
+Liga F,2023/2024,FB,pass_completion_pct,Pass completion %,progression,10,44,0.8
+Liga F,2023/2024,FB,pressures_p90,Pressures /90,defending,10,44,0.8
+Liga F,2023/2024,FB,tackles_interceptions_p90,Tackles + interceptions /90,defending,10,44,0.7
+Liga F,2023/2024,FB,ball_recoveries_p90,Ball recoveries /90,defending,10,44,0.5
+Liga F,2023/2024,FB,aerials_won_p90,Aerial duels won /90,defending,10,44,0.8
+Liga F,2023/2024,FB,npxg_p90,npxG /90,attacking,15,38,0.7
+Liga F,2023/2024,FB,shots_p90,Shots /90,attacking,15,38,0.8
+Liga F,2023/2024,FB,xa_p90,xA /90,attacking,15,38,0.7
+Liga F,2023/2024,FB,key_passes_p90,Key passes /90,attacking,15,38,0.8
+Liga F,2023/2024,FB,touches_box_p90,Box touches /90,attacking,15,38,0.9
+Liga F,2023/2024,FB,progressive_passes_p90,Progressive passes /90,progression,15,38,0.9
+Liga F,2023/2024,FB,progressive_carries_p90,Progressive carries /90,progression,15,38,0.8
+Liga F,2023/2024,FB,dribbles_completed_p90,Successful dribbles /90,progression,15,38,0.8
+Liga F,2023/2024,FB,pass_completion_pct,Pass completion %,progression,15,38,0.9
+Liga F,2023/2024,FB,pressures_p90,Pressures /90,defending,15,38,0.9
+Liga F,2023/2024,FB,tackles_interceptions_p90,Tackles + interceptions /90,defending,15,38,0.9
+Liga F,2023/2024,FB,ball_recoveries_p90,Ball recoveries /90,defending,15,38,0.8
+Liga F,2023/2024,FB,aerials_won_p90,Aerial duels won /90,defending,15,38,0.8
+Liga F,2023/2024,FB,npxg_p90,npxG /90,attacking,20,29,0.9
+Liga F,2023/2024,FB,shots_p90,Shots /90,attacking,20,29,0.9
+Liga F,2023/2024,FB,xa_p90,xA /90,attacking,20,29,0.9
+Liga F,2023/2024,FB,key_passes_p90,Key passes /90,attacking,20,29,0.8
+Liga F,2023/2024,FB,touches_box_p90,Box touches /90,attacking,20,29,1.0
+Liga F,2023/2024,FB,progressive_passes_p90,Progressive passes /90,progression,20,29,0.9
+Liga F,2023/2024,FB,progressive_carries_p90,Progressive carries /90,progression,20,29,0.9
+Liga F,2023/2024,FB,dribbles_completed_p90,Successful dribbles /90,progression,20,29,0.9
+Liga F,2023/2024,FB,pass_completion_pct,Pass completion %,progression,20,29,0.9
+Liga F,2023/2024,FB,pressures_p90,Pressures /90,defending,20,29,0.8
+Liga F,2023/2024,FB,tackles_interceptions_p90,Tackles + interceptions /90,defending,20,29,0.9
+Liga F,2023/2024,FB,ball_recoveries_p90,Ball recoveries /90,defending,20,29,0.8
+Liga F,2023/2024,FB,aerials_won_p90,Aerial duels won /90,defending,20,29,1.0
+Liga F,2023/2024,DM,npxg_p90,npxG /90,attacking,5,34,0.7
+Liga F,2023/2024,DM,shots_p90,Shots /90,attacking,5,34,0.6
+Liga F,2023/2024,DM,xa_p90,xA /90,attacking,5,34,0.6
+Liga F,2023/2024,DM,key_passes_p90,Key passes /90,attacking,5,34,0.8
+Liga F,2023/2024,DM,touches_box_p90,Box touches /90,attacking,5,34,0.9
+Liga F,2023/2024,DM,progressive_passes_p90,Progressive passes /90,progression,5,34,0.9
+Liga F,2023/2024,DM,progressive_carries_p90,Progressive carries /90,progression,5,34,0.8
+Liga F,2023/2024,DM,dribbles_completed_p90,Successful dribbles /90,progression,5,34,0.7
+Liga F,2023/2024,DM,pass_completion_pct,Pass completion %,progression,5,34,0.8
+Liga F,2023/2024,DM,pressures_p90,Pressures /90,defending,5,34,0.7
+Liga F,2023/2024,DM,tackles_interceptions_p90,Tackles + interceptions /90,defending,5,34,0.7
+Liga F,2023/2024,DM,ball_recoveries_p90,Ball recoveries /90,defending,5,34,0.6
+Liga F,2023/2024,DM,aerials_won_p90,Aerial duels won /90,defending,5,34,0.9
+Liga F,2023/2024,DM,npxg_p90,npxG /90,attacking,10,34,0.8
+Liga F,2023/2024,DM,shots_p90,Shots /90,attacking,10,34,0.6
+Liga F,2023/2024,DM,xa_p90,xA /90,attacking,10,34,0.7
+Liga F,2023/2024,DM,key_passes_p90,Key passes /90,attacking,10,34,0.9
+Liga F,2023/2024,DM,touches_box_p90,Box touches /90,attacking,10,34,1.0
+Liga F,2023/2024,DM,progressive_passes_p90,Progressive passes /90,progression,10,34,0.9
+Liga F,2023/2024,DM,progressive_carries_p90,Progressive carries /90,progression,10,34,0.9
+Liga F,2023/2024,DM,dribbles_completed_p90,Successful dribbles /90,progression,10,34,0.7
+Liga F,2023/2024,DM,pass_completion_pct,Pass completion %,progression,10,34,0.8
+Liga F,2023/2024,DM,pressures_p90,Pressures /90,defending,10,34,0.8
+Liga F,2023/2024,DM,tackles_interceptions_p90,Tackles + interceptions /90,defending,10,34,0.8
+Liga F,2023/2024,DM,ball_recoveries_p90,Ball recoveries /90,defending,10,34,0.8
+Liga F,2023/2024,DM,aerials_won_p90,Aerial duels won /90,defending,10,34,0.9
+Liga F,2023/2024,DM,npxg_p90,npxG /90,attacking,15,33,0.9
+Liga F,2023/2024,DM,shots_p90,Shots /90,attacking,15,33,0.8
+Liga F,2023/2024,DM,xa_p90,xA /90,attacking,15,33,0.7
+Liga F,2023/2024,DM,key_passes_p90,Key passes /90,attacking,15,33,0.8
+Liga F,2023/2024,DM,touches_box_p90,Box touches /90,attacking,15,33,0.9
+Liga F,2023/2024,DM,progressive_passes_p90,Progressive passes /90,progression,15,33,0.9
+Liga F,2023/2024,DM,progressive_carries_p90,Progressive carries /90,progression,15,33,1.0
+Liga F,2023/2024,DM,dribbles_completed_p90,Successful dribbles /90,progression,15,33,0.8
+Liga F,2023/2024,DM,pass_completion_pct,Pass completion %,progression,15,33,0.9
+Liga F,2023/2024,DM,pressures_p90,Pressures /90,defending,15,33,0.9
+Liga F,2023/2024,DM,tackles_interceptions_p90,Tackles + interceptions /90,defending,15,33,0.8
+Liga F,2023/2024,DM,ball_recoveries_p90,Ball recoveries /90,defending,15,33,0.9
+Liga F,2023/2024,DM,aerials_won_p90,Aerial duels won /90,defending,15,33,1.0
+Liga F,2023/2024,DM,npxg_p90,npxG /90,attacking,20,25,0.9
+Liga F,2023/2024,DM,shots_p90,Shots /90,attacking,20,25,0.9
+Liga F,2023/2024,DM,xa_p90,xA /90,attacking,20,25,0.9
+Liga F,2023/2024,DM,key_passes_p90,Key passes /90,attacking,20,25,1.0
+Liga F,2023/2024,DM,touches_box_p90,Box touches /90,attacking,20,25,0.9
+Liga F,2023/2024,DM,progressive_passes_p90,Progressive passes /90,progression,20,25,0.9
+Liga F,2023/2024,DM,progressive_carries_p90,Progressive carries /90,progression,20,25,1.0
+Liga F,2023/2024,DM,dribbles_completed_p90,Successful dribbles /90,progression,20,25,0.9
+Liga F,2023/2024,DM,pass_completion_pct,Pass completion %,progression,20,25,1.0
+Liga F,2023/2024,DM,pressures_p90,Pressures /90,defending,20,25,0.9
+Liga F,2023/2024,DM,tackles_interceptions_p90,Tackles + interceptions /90,defending,20,25,1.0
+Liga F,2023/2024,DM,ball_recoveries_p90,Ball recoveries /90,defending,20,25,0.8
+Liga F,2023/2024,DM,aerials_won_p90,Aerial duels won /90,defending,20,25,1.0
+Liga F,2023/2024,CM,npxg_p90,npxG /90,attacking,5,27,0.8
+Liga F,2023/2024,CM,shots_p90,Shots /90,attacking,5,27,0.7
+Liga F,2023/2024,CM,xa_p90,xA /90,attacking,5,27,0.9
+Liga F,2023/2024,CM,key_passes_p90,Key passes /90,attacking,5,27,0.7
+Liga F,2023/2024,CM,touches_box_p90,Box touches /90,attacking,5,27,0.9
+Liga F,2023/2024,CM,progressive_passes_p90,Progressive passes /90,progression,5,27,0.7
+Liga F,2023/2024,CM,progressive_carries_p90,Progressive carries /90,progression,5,27,0.7
+Liga F,2023/2024,CM,dribbles_completed_p90,Successful dribbles /90,progression,5,27,0.8
+Liga F,2023/2024,CM,pass_completion_pct,Pass completion %,progression,5,27,0.7
+Liga F,2023/2024,CM,pressures_p90,Pressures /90,defending,5,27,0.7
+Liga F,2023/2024,CM,tackles_interceptions_p90,Tackles + interceptions /90,defending,5,27,0.8
+Liga F,2023/2024,CM,ball_recoveries_p90,Ball recoveries /90,defending,5,27,0.6
+Liga F,2023/2024,CM,aerials_won_p90,Aerial duels won /90,defending,5,27,0.8
+Liga F,2023/2024,CM,npxg_p90,npxG /90,attacking,10,27,0.8
+Liga F,2023/2024,CM,shots_p90,Shots /90,attacking,10,27,0.8
+Liga F,2023/2024,CM,xa_p90,xA /90,attacking,10,27,0.8
+Liga F,2023/2024,CM,key_passes_p90,Key passes /90,attacking,10,27,0.8
+Liga F,2023/2024,CM,touches_box_p90,Box touches /90,attacking,10,27,1.0
+Liga F,2023/2024,CM,progressive_passes_p90,Progressive passes /90,progression,10,27,0.7
+Liga F,2023/2024,CM,progressive_carries_p90,Progressive carries /90,progression,10,27,0.8
+Liga F,2023/2024,CM,dribbles_completed_p90,Successful dribbles /90,progression,10,27,0.8
+Liga F,2023/2024,CM,pass_completion_pct,Pass completion %,progression,10,27,0.7
+Liga F,2023/2024,CM,pressures_p90,Pressures /90,defending,10,27,0.8
+Liga F,2023/2024,CM,tackles_interceptions_p90,Tackles + interceptions /90,defending,10,27,0.8
+Liga F,2023/2024,CM,ball_recoveries_p90,Ball recoveries /90,defending,10,27,0.7
+Liga F,2023/2024,CM,aerials_won_p90,Aerial duels won /90,defending,10,27,0.9
+Liga F,2023/2024,CM,npxg_p90,npxG /90,attacking,15,27,0.9
+Liga F,2023/2024,CM,shots_p90,Shots /90,attacking,15,27,0.8
+Liga F,2023/2024,CM,xa_p90,xA /90,attacking,15,27,1.0
+Liga F,2023/2024,CM,key_passes_p90,Key passes /90,attacking,15,27,1.0
+Liga F,2023/2024,CM,touches_box_p90,Box touches /90,attacking,15,27,1.0
+Liga F,2023/2024,CM,progressive_passes_p90,Progressive passes /90,progression,15,27,0.9
+Liga F,2023/2024,CM,progressive_carries_p90,Progressive carries /90,progression,15,27,0.9
+Liga F,2023/2024,CM,dribbles_completed_p90,Successful dribbles /90,progression,15,27,0.8
+Liga F,2023/2024,CM,pass_completion_pct,Pass completion %,progression,15,27,0.8
+Liga F,2023/2024,CM,pressures_p90,Pressures /90,defending,15,27,0.8
+Liga F,2023/2024,CM,tackles_interceptions_p90,Tackles + interceptions /90,defending,15,27,0.9
+Liga F,2023/2024,CM,ball_recoveries_p90,Ball recoveries /90,defending,15,27,0.6
+Liga F,2023/2024,CM,aerials_won_p90,Aerial duels won /90,defending,15,27,0.8
+Liga F,2023/2024,CM,npxg_p90,npxG /90,attacking,20,22,0.9
+Liga F,2023/2024,CM,shots_p90,Shots /90,attacking,20,22,0.9
+Liga F,2023/2024,CM,xa_p90,xA /90,attacking,20,22,1.0
+Liga F,2023/2024,CM,key_passes_p90,Key passes /90,attacking,20,22,1.0
+Liga F,2023/2024,CM,touches_box_p90,Box touches /90,attacking,20,22,0.9
+Liga F,2023/2024,CM,progressive_passes_p90,Progressive passes /90,progression,20,22,1.0
+Liga F,2023/2024,CM,progressive_carries_p90,Progressive carries /90,progression,20,22,0.9
+Liga F,2023/2024,CM,dribbles_completed_p90,Successful dribbles /90,progression,20,22,1.0
+Liga F,2023/2024,CM,pass_completion_pct,Pass completion %,progression,20,22,0.8
+Liga F,2023/2024,CM,pressures_p90,Pressures /90,defending,20,22,1.0
+Liga F,2023/2024,CM,tackles_interceptions_p90,Tackles + interceptions /90,defending,20,22,0.9
+Liga F,2023/2024,CM,ball_recoveries_p90,Ball recoveries /90,defending,20,22,0.9
+Liga F,2023/2024,CM,aerials_won_p90,Aerial duels won /90,defending,20,22,0.9
+Liga F,2023/2024,W,npxg_p90,npxG /90,attacking,5,22,0.7
+Liga F,2023/2024,W,shots_p90,Shots /90,attacking,5,22,0.7
+Liga F,2023/2024,W,xa_p90,xA /90,attacking,5,22,0.6
+Liga F,2023/2024,W,key_passes_p90,Key passes /90,attacking,5,22,0.8
+Liga F,2023/2024,W,touches_box_p90,Box touches /90,attacking,5,22,0.9
+Liga F,2023/2024,W,progressive_passes_p90,Progressive passes /90,progression,5,22,0.7
+Liga F,2023/2024,W,progressive_carries_p90,Progressive carries /90,progression,5,22,0.9
+Liga F,2023/2024,W,dribbles_completed_p90,Successful dribbles /90,progression,5,22,0.8
+Liga F,2023/2024,W,pass_completion_pct,Pass completion %,progression,5,22,0.8
+Liga F,2023/2024,W,pressures_p90,Pressures /90,defending,5,22,0.7
+Liga F,2023/2024,W,tackles_interceptions_p90,Tackles + interceptions /90,defending,5,22,0.8
+Liga F,2023/2024,W,ball_recoveries_p90,Ball recoveries /90,defending,5,22,0.7
+Liga F,2023/2024,W,aerials_won_p90,Aerial duels won /90,defending,5,22,0.8
+Liga F,2023/2024,W,npxg_p90,npxG /90,attacking,10,22,0.9
+Liga F,2023/2024,W,shots_p90,Shots /90,attacking,10,22,0.8
+Liga F,2023/2024,W,xa_p90,xA /90,attacking,10,22,0.6
+Liga F,2023/2024,W,key_passes_p90,Key passes /90,attacking,10,22,0.8
+Liga F,2023/2024,W,touches_box_p90,Box touches /90,attacking,10,22,0.9
+Liga F,2023/2024,W,progressive_passes_p90,Progressive passes /90,progression,10,22,0.8
+Liga F,2023/2024,W,progressive_carries_p90,Progressive carries /90,progression,10,22,0.9
+Liga F,2023/2024,W,dribbles_completed_p90,Successful dribbles /90,progression,10,22,0.9
+Liga F,2023/2024,W,pass_completion_pct,Pass completion %,progression,10,22,0.9
+Liga F,2023/2024,W,pressures_p90,Pressures /90,defending,10,22,0.9
+Liga F,2023/2024,W,tackles_interceptions_p90,Tackles + interceptions /90,defending,10,22,0.9
+Liga F,2023/2024,W,ball_recoveries_p90,Ball recoveries /90,defending,10,22,0.8
+Liga F,2023/2024,W,aerials_won_p90,Aerial duels won /90,defending,10,22,0.9
+Liga F,2023/2024,W,npxg_p90,npxG /90,attacking,15,22,0.9
+Liga F,2023/2024,W,shots_p90,Shots /90,attacking,15,22,0.8
+Liga F,2023/2024,W,xa_p90,xA /90,attacking,15,22,0.8
+Liga F,2023/2024,W,key_passes_p90,Key passes /90,attacking,15,22,0.7
+Liga F,2023/2024,W,touches_box_p90,Box touches /90,attacking,15,22,0.9
+Liga F,2023/2024,W,progressive_passes_p90,Progressive passes /90,progression,15,22,0.7
+Liga F,2023/2024,W,progressive_carries_p90,Progressive carries /90,progression,15,22,1.0
+Liga F,2023/2024,W,dribbles_completed_p90,Successful dribbles /90,progression,15,22,1.0
+Liga F,2023/2024,W,pass_completion_pct,Pass completion %,progression,15,22,0.9
+Liga F,2023/2024,W,pressures_p90,Pressures /90,defending,15,22,0.9
+Liga F,2023/2024,W,tackles_interceptions_p90,Tackles + interceptions /90,defending,15,22,0.9
+Liga F,2023/2024,W,ball_recoveries_p90,Ball recoveries /90,defending,15,22,0.7
+Liga F,2023/2024,W,aerials_won_p90,Aerial duels won /90,defending,15,22,0.9
+Liga F,2023/2024,FW,npxg_p90,npxG /90,attacking,5,33,0.5
+Liga F,2023/2024,FW,shots_p90,Shots /90,attacking,5,33,0.6
+Liga F,2023/2024,FW,xa_p90,xA /90,attacking,5,33,0.5
+Liga F,2023/2024,FW,key_passes_p90,Key passes /90,attacking,5,33,0.4
+Liga F,2023/2024,FW,touches_box_p90,Box touches /90,attacking,5,33,0.7
+Liga F,2023/2024,FW,progressive_passes_p90,Progressive passes /90,progression,5,33,0.8
+Liga F,2023/2024,FW,progressive_carries_p90,Progressive carries /90,progression,5,33,0.9
+Liga F,2023/2024,FW,dribbles_completed_p90,Successful dribbles /90,progression,5,33,0.7
+Liga F,2023/2024,FW,pass_completion_pct,Pass completion %,progression,5,33,0.6
+Liga F,2023/2024,FW,pressures_p90,Pressures /90,defending,5,33,0.7
+Liga F,2023/2024,FW,tackles_interceptions_p90,Tackles + interceptions /90,defending,5,33,0.6
+Liga F,2023/2024,FW,ball_recoveries_p90,Ball recoveries /90,defending,5,33,0.7
+Liga F,2023/2024,FW,aerials_won_p90,Aerial duels won /90,defending,5,33,0.8
+Liga F,2023/2024,FW,npxg_p90,npxG /90,attacking,10,33,0.9
+Liga F,2023/2024,FW,shots_p90,Shots /90,attacking,10,33,0.9
+Liga F,2023/2024,FW,xa_p90,xA /90,attacking,10,33,0.7
+Liga F,2023/2024,FW,key_passes_p90,Key passes /90,attacking,10,33,0.6
+Liga F,2023/2024,FW,touches_box_p90,Box touches /90,attacking,10,33,0.9
+Liga F,2023/2024,FW,progressive_passes_p90,Progressive passes /90,progression,10,33,0.8
+Liga F,2023/2024,FW,progressive_carries_p90,Progressive carries /90,progression,10,33,0.9
+Liga F,2023/2024,FW,dribbles_completed_p90,Successful dribbles /90,progression,10,33,0.8
+Liga F,2023/2024,FW,pass_completion_pct,Pass completion %,progression,10,33,0.8
+Liga F,2023/2024,FW,pressures_p90,Pressures /90,defending,10,33,0.8
+Liga F,2023/2024,FW,tackles_interceptions_p90,Tackles + interceptions /90,defending,10,33,0.8
+Liga F,2023/2024,FW,ball_recoveries_p90,Ball recoveries /90,defending,10,33,0.8
+Liga F,2023/2024,FW,aerials_won_p90,Aerial duels won /90,defending,10,33,0.8
+Liga F,2023/2024,FW,npxg_p90,npxG /90,attacking,15,30,0.9
+Liga F,2023/2024,FW,shots_p90,Shots /90,attacking,15,30,0.9
+Liga F,2023/2024,FW,xa_p90,xA /90,attacking,15,30,0.8
+Liga F,2023/2024,FW,key_passes_p90,Key passes /90,attacking,15,30,0.9
+Liga F,2023/2024,FW,touches_box_p90,Box touches /90,attacking,15,30,0.9
+Liga F,2023/2024,FW,progressive_passes_p90,Progressive passes /90,progression,15,30,1.0
+Liga F,2023/2024,FW,progressive_carries_p90,Progressive carries /90,progression,15,30,0.8
+Liga F,2023/2024,FW,dribbles_completed_p90,Successful dribbles /90,progression,15,30,0.9
+Liga F,2023/2024,FW,pass_completion_pct,Pass completion %,progression,15,30,0.8
+Liga F,2023/2024,FW,pressures_p90,Pressures /90,defending,15,30,0.8
+Liga F,2023/2024,FW,tackles_interceptions_p90,Tackles + interceptions /90,defending,15,30,0.8
+Liga F,2023/2024,FW,ball_recoveries_p90,Ball recoveries /90,defending,15,30,0.7
+Liga F,2023/2024,FW,aerials_won_p90,Aerial duels won /90,defending,15,30,0.8
+Liga F,2023/2024,FW,npxg_p90,npxG /90,attacking,20,26,0.9
+Liga F,2023/2024,FW,shots_p90,Shots /90,attacking,20,26,1.0
+Liga F,2023/2024,FW,xa_p90,xA /90,attacking,20,26,0.7
+Liga F,2023/2024,FW,key_passes_p90,Key passes /90,attacking,20,26,0.9
+Liga F,2023/2024,FW,touches_box_p90,Box touches /90,attacking,20,26,1.0
+Liga F,2023/2024,FW,progressive_passes_p90,Progressive passes /90,progression,20,26,0.9
+Liga F,2023/2024,FW,progressive_carries_p90,Progressive carries /90,progression,20,26,0.9
+Liga F,2023/2024,FW,dribbles_completed_p90,Successful dribbles /90,progression,20,26,0.9
+Liga F,2023/2024,FW,pass_completion_pct,Pass completion %,progression,20,26,1.0
+Liga F,2023/2024,FW,pressures_p90,Pressures /90,defending,20,26,0.9
+Liga F,2023/2024,FW,tackles_interceptions_p90,Tackles + interceptions /90,defending,20,26,0.9
+Liga F,2023/2024,FW,ball_recoveries_p90,Ball recoveries /90,defending,20,26,1.0
+Liga F,2023/2024,FW,aerials_won_p90,Aerial duels won /90,defending,20,26,0.9
+NWSL,2023,CB,npxg_p90,npxG /90,attacking,5,26,0.7
+NWSL,2023,CB,shots_p90,Shots /90,attacking,5,26,0.8
+NWSL,2023,CB,xa_p90,xA /90,attacking,5,26,0.6
+NWSL,2023,CB,key_passes_p90,Key passes /90,attacking,5,26,0.6
+NWSL,2023,CB,touches_box_p90,Box touches /90,attacking,5,26,0.9
+NWSL,2023,CB,progressive_passes_p90,Progressive passes /90,progression,5,26,0.7
+NWSL,2023,CB,progressive_carries_p90,Progressive carries /90,progression,5,26,0.8
+NWSL,2023,CB,dribbles_completed_p90,Successful dribbles /90,progression,5,26,0.8
+NWSL,2023,CB,pass_completion_pct,Pass completion %,progression,5,26,0.8
+NWSL,2023,CB,pressures_p90,Pressures /90,defending,5,26,0.7
+NWSL,2023,CB,tackles_interceptions_p90,Tackles + interceptions /90,defending,5,26,0.7
+NWSL,2023,CB,ball_recoveries_p90,Ball recoveries /90,defending,5,26,0.7
+NWSL,2023,CB,aerials_won_p90,Aerial duels won /90,defending,5,26,0.7
+NWSL,2023,CB,npxg_p90,npxG /90,attacking,10,26,0.8
+NWSL,2023,CB,shots_p90,Shots /90,attacking,10,26,0.8
+NWSL,2023,CB,xa_p90,xA /90,attacking,10,26,0.7
+NWSL,2023,CB,key_passes_p90,Key passes /90,attacking,10,26,0.9
+NWSL,2023,CB,touches_box_p90,Box touches /90,attacking,10,26,0.9
+NWSL,2023,CB,progressive_passes_p90,Progressive passes /90,progression,10,26,0.8
+NWSL,2023,CB,progressive_carries_p90,Progressive carries /90,progression,10,26,0.8
+NWSL,2023,CB,dribbles_completed_p90,Successful dribbles /90,progression,10,26,0.8
+NWSL,2023,CB,pass_completion_pct,Pass completion %,progression,10,26,0.8
+NWSL,2023,CB,pressures_p90,Pressures /90,defending,10,26,0.9
+NWSL,2023,CB,tackles_interceptions_p90,Tackles + interceptions /90,defending,10,26,0.8
+NWSL,2023,CB,ball_recoveries_p90,Ball recoveries /90,defending,10,26,0.9
+NWSL,2023,CB,aerials_won_p90,Aerial duels won /90,defending,10,26,0.8
+NWSL,2023,CB,npxg_p90,npxG /90,attacking,15,20,0.8
+NWSL,2023,CB,shots_p90,Shots /90,attacking,15,20,0.9
+NWSL,2023,CB,xa_p90,xA /90,attacking,15,20,0.8
+NWSL,2023,CB,key_passes_p90,Key passes /90,attacking,15,20,1.0
+NWSL,2023,CB,touches_box_p90,Box touches /90,attacking,15,20,1.0
+NWSL,2023,CB,progressive_passes_p90,Progressive passes /90,progression,15,20,0.9
+NWSL,2023,CB,progressive_carries_p90,Progressive carries /90,progression,15,20,0.9
+NWSL,2023,CB,dribbles_completed_p90,Successful dribbles /90,progression,15,20,0.9
+NWSL,2023,CB,pass_completion_pct,Pass completion %,progression,15,20,1.0
+NWSL,2023,CB,pressures_p90,Pressures /90,defending,15,20,0.9
+NWSL,2023,CB,tackles_interceptions_p90,Tackles + interceptions /90,defending,15,20,0.9
+NWSL,2023,CB,ball_recoveries_p90,Ball recoveries /90,defending,15,20,0.9
+NWSL,2023,CB,aerials_won_p90,Aerial duels won /90,defending,15,20,0.8
+NWSL,2023,FB,npxg_p90,npxG /90,attacking,5,26,0.6
+NWSL,2023,FB,shots_p90,Shots /90,attacking,5,26,0.8
+NWSL,2023,FB,xa_p90,xA /90,attacking,5,26,0.8
+NWSL,2023,FB,key_passes_p90,Key passes /90,attacking,5,26,0.9
+NWSL,2023,FB,touches_box_p90,Box touches /90,attacking,5,26,0.7
+NWSL,2023,FB,progressive_passes_p90,Progressive passes /90,progression,5,26,0.7
+NWSL,2023,FB,progressive_carries_p90,Progressive carries /90,progression,5,26,0.6
+NWSL,2023,FB,dribbles_completed_p90,Successful dribbles /90,progression,5,26,0.8
+NWSL,2023,FB,pass_completion_pct,Pass completion %,progression,5,26,0.9
+NWSL,2023,FB,pressures_p90,Pressures /90,defending,5,26,0.6
+NWSL,2023,FB,tackles_interceptions_p90,Tackles + interceptions /90,defending,5,26,0.6
+NWSL,2023,FB,ball_recoveries_p90,Ball recoveries /90,defending,5,26,0.8
+NWSL,2023,FB,aerials_won_p90,Aerial duels won /90,defending,5,26,0.9
+NWSL,2023,FB,npxg_p90,npxG /90,attacking,10,26,0.8
+NWSL,2023,FB,shots_p90,Shots /90,attacking,10,26,0.8
+NWSL,2023,FB,xa_p90,xA /90,attacking,10,26,0.7
+NWSL,2023,FB,key_passes_p90,Key passes /90,attacking,10,26,1.0
+NWSL,2023,FB,touches_box_p90,Box touches /90,attacking,10,26,0.8
+NWSL,2023,FB,progressive_passes_p90,Progressive passes /90,progression,10,26,1.0
+NWSL,2023,FB,progressive_carries_p90,Progressive carries /90,progression,10,26,0.7
+NWSL,2023,FB,dribbles_completed_p90,Successful dribbles /90,progression,10,26,0.8
+NWSL,2023,FB,pass_completion_pct,Pass completion %,progression,10,26,0.8
+NWSL,2023,FB,pressures_p90,Pressures /90,defending,10,26,0.7
+NWSL,2023,FB,tackles_interceptions_p90,Tackles + interceptions /90,defending,10,26,0.7
+NWSL,2023,FB,ball_recoveries_p90,Ball recoveries /90,defending,10,26,0.9
+NWSL,2023,FB,aerials_won_p90,Aerial duels won /90,defending,10,26,0.9
+NWSL,2023,FB,npxg_p90,npxG /90,attacking,15,22,0.8
+NWSL,2023,FB,shots_p90,Shots /90,attacking,15,22,0.8
+NWSL,2023,FB,xa_p90,xA /90,attacking,15,22,0.9
+NWSL,2023,FB,key_passes_p90,Key passes /90,attacking,15,22,0.9
+NWSL,2023,FB,touches_box_p90,Box touches /90,attacking,15,22,0.9
+NWSL,2023,FB,progressive_passes_p90,Progressive passes /90,progression,15,22,1.0
+NWSL,2023,FB,progressive_carries_p90,Progressive carries /90,progression,15,22,0.7
+NWSL,2023,FB,dribbles_completed_p90,Successful dribbles /90,progression,15,22,0.8
+NWSL,2023,FB,pass_completion_pct,Pass completion %,progression,15,22,1.0
+NWSL,2023,FB,pressures_p90,Pressures /90,defending,15,22,0.9
+NWSL,2023,FB,tackles_interceptions_p90,Tackles + interceptions /90,defending,15,22,0.8
+NWSL,2023,FB,ball_recoveries_p90,Ball recoveries /90,defending,15,22,0.9
+NWSL,2023,FB,aerials_won_p90,Aerial duels won /90,defending,15,22,0.9
+NWSL,2023,DM,npxg_p90,npxG /90,attacking,5,23,0.7
+NWSL,2023,DM,shots_p90,Shots /90,attacking,5,23,0.8
+NWSL,2023,DM,xa_p90,xA /90,attacking,5,23,0.7
+NWSL,2023,DM,key_passes_p90,Key passes /90,attacking,5,23,0.7
+NWSL,2023,DM,touches_box_p90,Box touches /90,attacking,5,23,0.9
+NWSL,2023,DM,progressive_passes_p90,Progressive passes /90,progression,5,23,0.6
+NWSL,2023,DM,progressive_carries_p90,Progressive carries /90,progression,5,23,0.7
+NWSL,2023,DM,dribbles_completed_p90,Successful dribbles /90,progression,5,23,0.9
+NWSL,2023,DM,pass_completion_pct,Pass completion %,progression,5,23,0.8
+NWSL,2023,DM,pressures_p90,Pressures /90,defending,5,23,0.7
+NWSL,2023,DM,tackles_interceptions_p90,Tackles + interceptions /90,defending,5,23,0.7
+NWSL,2023,DM,ball_recoveries_p90,Ball recoveries /90,defending,5,23,0.8
+NWSL,2023,DM,aerials_won_p90,Aerial duels won /90,defending,5,23,0.8
+NWSL,2023,DM,npxg_p90,npxG /90,attacking,10,23,0.9
+NWSL,2023,DM,shots_p90,Shots /90,attacking,10,23,0.7
+NWSL,2023,DM,xa_p90,xA /90,attacking,10,23,0.8
+NWSL,2023,DM,key_passes_p90,Key passes /90,attacking,10,23,0.9
+NWSL,2023,DM,touches_box_p90,Box touches /90,attacking,10,23,0.9
+NWSL,2023,DM,progressive_passes_p90,Progressive passes /90,progression,10,23,0.8
+NWSL,2023,DM,progressive_carries_p90,Progressive carries /90,progression,10,23,0.6
+NWSL,2023,DM,dribbles_completed_p90,Successful dribbles /90,progression,10,23,0.8
+NWSL,2023,DM,pass_completion_pct,Pass completion %,progression,10,23,0.8
+NWSL,2023,DM,pressures_p90,Pressures /90,defending,10,23,0.8
+NWSL,2023,DM,tackles_interceptions_p90,Tackles + interceptions /90,defending,10,23,0.8
+NWSL,2023,DM,ball_recoveries_p90,Ball recoveries /90,defending,10,23,0.8
+NWSL,2023,DM,aerials_won_p90,Aerial duels won /90,defending,10,23,0.9
+NWSL,2023,DM,npxg_p90,npxG /90,attacking,15,20,0.9
+NWSL,2023,DM,shots_p90,Shots /90,attacking,15,20,0.9
+NWSL,2023,DM,xa_p90,xA /90,attacking,15,20,1.0
+NWSL,2023,DM,key_passes_p90,Key passes /90,attacking,15,20,0.9
+NWSL,2023,DM,touches_box_p90,Box touches /90,attacking,15,20,0.9
+NWSL,2023,DM,progressive_passes_p90,Progressive passes /90,progression,15,20,0.9
+NWSL,2023,DM,progressive_carries_p90,Progressive carries /90,progression,15,20,0.8
+NWSL,2023,DM,dribbles_completed_p90,Successful dribbles /90,progression,15,20,0.9
+NWSL,2023,DM,pass_completion_pct,Pass completion %,progression,15,20,1.0
+NWSL,2023,DM,pressures_p90,Pressures /90,defending,15,20,0.9
+NWSL,2023,DM,tackles_interceptions_p90,Tackles + interceptions /90,defending,15,20,0.9
+NWSL,2023,DM,ball_recoveries_p90,Ball recoveries /90,defending,15,20,0.9
+NWSL,2023,DM,aerials_won_p90,Aerial duels won /90,defending,15,20,1.0
+NWSL,2023,W,npxg_p90,npxG /90,attacking,5,20,0.7
+NWSL,2023,W,shots_p90,Shots /90,attacking,5,20,0.8
+NWSL,2023,W,xa_p90,xA /90,attacking,5,20,0.5
+NWSL,2023,W,key_passes_p90,Key passes /90,attacking,5,20,0.8
+NWSL,2023,W,touches_box_p90,Box touches /90,attacking,5,20,0.8
+NWSL,2023,W,progressive_passes_p90,Progressive passes /90,progression,5,20,0.6
+NWSL,2023,W,progressive_carries_p90,Progressive carries /90,progression,5,20,0.8
+NWSL,2023,W,dribbles_completed_p90,Successful dribbles /90,progression,5,20,0.8
+NWSL,2023,W,pass_completion_pct,Pass completion %,progression,5,20,0.8
+NWSL,2023,W,pressures_p90,Pressures /90,defending,5,20,0.8
+NWSL,2023,W,tackles_interceptions_p90,Tackles + interceptions /90,defending,5,20,0.7
+NWSL,2023,W,ball_recoveries_p90,Ball recoveries /90,defending,5,20,0.7
+NWSL,2023,W,aerials_won_p90,Aerial duels won /90,defending,5,20,0.6
+NWSL,2023,W,npxg_p90,npxG /90,attacking,10,20,0.8
+NWSL,2023,W,shots_p90,Shots /90,attacking,10,20,0.8
+NWSL,2023,W,xa_p90,xA /90,attacking,10,20,0.8
+NWSL,2023,W,key_passes_p90,Key passes /90,attacking,10,20,0.8
+NWSL,2023,W,touches_box_p90,Box touches /90,attacking,10,20,0.9
+NWSL,2023,W,progressive_passes_p90,Progressive passes /90,progression,10,20,0.7
+NWSL,2023,W,progressive_carries_p90,Progressive carries /90,progression,10,20,0.9
+NWSL,2023,W,dribbles_completed_p90,Successful dribbles /90,progression,10,20,0.9
+NWSL,2023,W,pass_completion_pct,Pass completion %,progression,10,20,0.9
+NWSL,2023,W,pressures_p90,Pressures /90,defending,10,20,0.8
+NWSL,2023,W,tackles_interceptions_p90,Tackles + interceptions /90,defending,10,20,0.9
+NWSL,2023,W,ball_recoveries_p90,Ball recoveries /90,defending,10,20,0.8
+NWSL,2023,W,aerials_won_p90,Aerial duels won /90,defending,10,20,0.7
+Serie A Women,2023/2024,CB,npxg_p90,npxG /90,attacking,5,26,0.7
+Serie A Women,2023/2024,CB,shots_p90,Shots /90,attacking,5,26,0.7
+Serie A Women,2023/2024,CB,xa_p90,xA /90,attacking,5,26,0.8
+Serie A Women,2023/2024,CB,key_passes_p90,Key passes /90,attacking,5,26,0.6
+Serie A Women,2023/2024,CB,touches_box_p90,Box touches /90,attacking,5,26,0.9
+Serie A Women,2023/2024,CB,progressive_passes_p90,Progressive passes /90,progression,5,26,0.9
+Serie A Women,2023/2024,CB,progressive_carries_p90,Progressive carries /90,progression,5,26,0.7
+Serie A Women,2023/2024,CB,dribbles_completed_p90,Successful dribbles /90,progression,5,26,0.8
+Serie A Women,2023/2024,CB,pass_completion_pct,Pass completion %,progression,5,26,0.7
+Serie A Women,2023/2024,CB,pressures_p90,Pressures /90,defending,5,26,0.6
+Serie A Women,2023/2024,CB,tackles_interceptions_p90,Tackles + interceptions /90,defending,5,26,0.7
+Serie A Women,2023/2024,CB,ball_recoveries_p90,Ball recoveries /90,defending,5,26,0.7
+Serie A Women,2023/2024,CB,aerials_won_p90,Aerial duels won /90,defending,5,26,0.8
+Serie A Women,2023/2024,CB,npxg_p90,npxG /90,attacking,10,26,0.9
+Serie A Women,2023/2024,CB,shots_p90,Shots /90,attacking,10,26,0.8
+Serie A Women,2023/2024,CB,xa_p90,xA /90,attacking,10,26,0.7
+Serie A Women,2023/2024,CB,key_passes_p90,Key passes /90,attacking,10,26,0.7
+Serie A Women,2023/2024,CB,touches_box_p90,Box touches /90,attacking,10,26,0.9
+Serie A Women,2023/2024,CB,progressive_passes_p90,Progressive passes /90,progression,10,26,0.8
+Serie A Women,2023/2024,CB,progressive_carries_p90,Progressive carries /90,progression,10,26,0.8
+Serie A Women,2023/2024,CB,dribbles_completed_p90,Successful dribbles /90,progression,10,26,0.9
+Serie A Women,2023/2024,CB,pass_completion_pct,Pass completion %,progression,10,26,0.7
+Serie A Women,2023/2024,CB,pressures_p90,Pressures /90,defending,10,26,0.8
+Serie A Women,2023/2024,CB,tackles_interceptions_p90,Tackles + interceptions /90,defending,10,26,0.8
+Serie A Women,2023/2024,CB,ball_recoveries_p90,Ball recoveries /90,defending,10,26,0.8
+Serie A Women,2023/2024,CB,aerials_won_p90,Aerial duels won /90,defending,10,26,0.9
+Serie A Women,2023/2024,CB,npxg_p90,npxG /90,attacking,15,22,0.9
+Serie A Women,2023/2024,CB,shots_p90,Shots /90,attacking,15,22,0.9
+Serie A Women,2023/2024,CB,xa_p90,xA /90,attacking,15,22,0.7
+Serie A Women,2023/2024,CB,key_passes_p90,Key passes /90,attacking,15,22,0.8
+Serie A Women,2023/2024,CB,touches_box_p90,Box touches /90,attacking,15,22,1.0
+Serie A Women,2023/2024,CB,progressive_passes_p90,Progressive passes /90,progression,15,22,1.0
+Serie A Women,2023/2024,CB,progressive_carries_p90,Progressive carries /90,progression,15,22,0.9
+Serie A Women,2023/2024,CB,dribbles_completed_p90,Successful dribbles /90,progression,15,22,0.9
+Serie A Women,2023/2024,CB,pass_completion_pct,Pass completion %,progression,15,22,0.9
+Serie A Women,2023/2024,CB,pressures_p90,Pressures /90,defending,15,22,0.9
+Serie A Women,2023/2024,CB,tackles_interceptions_p90,Tackles + interceptions /90,defending,15,22,0.9
+Serie A Women,2023/2024,CB,ball_recoveries_p90,Ball recoveries /90,defending,15,22,1.0
+Serie A Women,2023/2024,CB,aerials_won_p90,Aerial duels won /90,defending,15,22,0.8
+Serie A Women,2023/2024,FB,npxg_p90,npxG /90,attacking,5,26,0.5
+Serie A Women,2023/2024,FB,shots_p90,Shots /90,attacking,5,26,0.7
+Serie A Women,2023/2024,FB,xa_p90,xA /90,attacking,5,26,0.9
+Serie A Women,2023/2024,FB,key_passes_p90,Key passes /90,attacking,5,26,0.8
+Serie A Women,2023/2024,FB,touches_box_p90,Box touches /90,attacking,5,26,0.7
+Serie A Women,2023/2024,FB,progressive_passes_p90,Progressive passes /90,progression,5,26,0.7
+Serie A Women,2023/2024,FB,progressive_carries_p90,Progressive carries /90,progression,5,26,0.8
+Serie A Women,2023/2024,FB,dribbles_completed_p90,Successful dribbles /90,progression,5,26,0.8
+Serie A Women,2023/2024,FB,pass_completion_pct,Pass completion %,progression,5,26,0.8
+Serie A Women,2023/2024,FB,pressures_p90,Pressures /90,defending,5,26,0.7
+Serie A Women,2023/2024,FB,tackles_interceptions_p90,Tackles + interceptions /90,defending,5,26,0.7
+Serie A Women,2023/2024,FB,ball_recoveries_p90,Ball recoveries /90,defending,5,26,0.9
+Serie A Women,2023/2024,FB,aerials_won_p90,Aerial duels won /90,defending,5,26,0.6
+Serie A Women,2023/2024,FB,npxg_p90,npxG /90,attacking,10,26,0.8
+Serie A Women,2023/2024,FB,shots_p90,Shots /90,attacking,10,26,0.9
+Serie A Women,2023/2024,FB,xa_p90,xA /90,attacking,10,26,0.6
+Serie A Women,2023/2024,FB,key_passes_p90,Key passes /90,attacking,10,26,0.7
+Serie A Women,2023/2024,FB,touches_box_p90,Box touches /90,attacking,10,26,0.8
+Serie A Women,2023/2024,FB,progressive_passes_p90,Progressive passes /90,progression,10,26,1.0
+Serie A Women,2023/2024,FB,progressive_carries_p90,Progressive carries /90,progression,10,26,0.9
+Serie A Women,2023/2024,FB,dribbles_completed_p90,Successful dribbles /90,progression,10,26,0.9
+Serie A Women,2023/2024,FB,pass_completion_pct,Pass completion %,progression,10,26,0.8
+Serie A Women,2023/2024,FB,pressures_p90,Pressures /90,defending,10,26,0.9
+Serie A Women,2023/2024,FB,tackles_interceptions_p90,Tackles + interceptions /90,defending,10,26,0.7
+Serie A Women,2023/2024,FB,ball_recoveries_p90,Ball recoveries /90,defending,10,26,0.9
+Serie A Women,2023/2024,FB,aerials_won_p90,Aerial duels won /90,defending,10,26,0.9
+Serie A Women,2023/2024,FB,npxg_p90,npxG /90,attacking,15,20,1.0
+Serie A Women,2023/2024,FB,shots_p90,Shots /90,attacking,15,20,0.9
+Serie A Women,2023/2024,FB,xa_p90,xA /90,attacking,15,20,0.9
+Serie A Women,2023/2024,FB,key_passes_p90,Key passes /90,attacking,15,20,1.0
+Serie A Women,2023/2024,FB,touches_box_p90,Box touches /90,attacking,15,20,1.0
+Serie A Women,2023/2024,FB,progressive_passes_p90,Progressive passes /90,progression,15,20,0.9
+Serie A Women,2023/2024,FB,progressive_carries_p90,Progressive carries /90,progression,15,20,0.8
+Serie A Women,2023/2024,FB,dribbles_completed_p90,Successful dribbles /90,progression,15,20,0.9
+Serie A Women,2023/2024,FB,pass_completion_pct,Pass completion %,progression,15,20,0.8
+Serie A Women,2023/2024,FB,pressures_p90,Pressures /90,defending,15,20,0.8
+Serie A Women,2023/2024,FB,tackles_interceptions_p90,Tackles + interceptions /90,defending,15,20,0.9
+Serie A Women,2023/2024,FB,ball_recoveries_p90,Ball recoveries /90,defending,15,20,0.9
+Serie A Women,2023/2024,FB,aerials_won_p90,Aerial duels won /90,defending,15,20,0.9
+Serie A Women,2023/2024,FW,npxg_p90,npxG /90,attacking,5,22,0.7
+Serie A Women,2023/2024,FW,shots_p90,Shots /90,attacking,5,22,0.9
+Serie A Women,2023/2024,FW,xa_p90,xA /90,attacking,5,22,0.7
+Serie A Women,2023/2024,FW,key_passes_p90,Key passes /90,attacking,5,22,0.7
+Serie A Women,2023/2024,FW,touches_box_p90,Box touches /90,attacking,5,22,0.9
+Serie A Women,2023/2024,FW,progressive_passes_p90,Progressive passes /90,progression,5,22,0.8
+Serie A Women,2023/2024,FW,progressive_carries_p90,Progressive carries /90,progression,5,22,0.8
+Serie A Women,2023/2024,FW,dribbles_completed_p90,Successful dribbles /90,progression,5,22,0.8
+Serie A Women,2023/2024,FW,pass_completion_pct,Pass completion %,progression,5,22,0.6
+Serie A Women,2023/2024,FW,pressures_p90,Pressures /90,defending,5,22,0.8
+Serie A Women,2023/2024,FW,tackles_interceptions_p90,Tackles + interceptions /90,defending,5,22,0.7
+Serie A Women,2023/2024,FW,ball_recoveries_p90,Ball recoveries /90,defending,5,22,0.9
+Serie A Women,2023/2024,FW,aerials_won_p90,Aerial duels won /90,defending,5,22,1.0
+Serie A Women,2023/2024,FW,npxg_p90,npxG /90,attacking,10,22,0.8
+Serie A Women,2023/2024,FW,shots_p90,Shots /90,attacking,10,22,0.9
+Serie A Women,2023/2024,FW,xa_p90,xA /90,attacking,10,22,0.8
+Serie A Women,2023/2024,FW,key_passes_p90,Key passes /90,attacking,10,22,0.9
+Serie A Women,2023/2024,FW,touches_box_p90,Box touches /90,attacking,10,22,1.0
+Serie A Women,2023/2024,FW,progressive_passes_p90,Progressive passes /90,progression,10,22,0.9
+Serie A Women,2023/2024,FW,progressive_carries_p90,Progressive carries /90,progression,10,22,1.0
+Serie A Women,2023/2024,FW,dribbles_completed_p90,Successful dribbles /90,progression,10,22,0.9
+Serie A Women,2023/2024,FW,pass_completion_pct,Pass completion %,progression,10,22,0.7
+Serie A Women,2023/2024,FW,pressures_p90,Pressures /90,defending,10,22,0.8
+Serie A Women,2023/2024,FW,tackles_interceptions_p90,Tackles + interceptions /90,defending,10,22,0.8
+Serie A Women,2023/2024,FW,ball_recoveries_p90,Ball recoveries /90,defending,10,22,1.0
+Serie A Women,2023/2024,FW,aerials_won_p90,Aerial duels won /90,defending,10,22,1.0
+Serie A Women,2023/2024,FW,npxg_p90,npxG /90,attacking,15,20,0.9
+Serie A Women,2023/2024,FW,shots_p90,Shots /90,attacking,15,20,0.9
+Serie A Women,2023/2024,FW,xa_p90,xA /90,attacking,15,20,0.7
+Serie A Women,2023/2024,FW,key_passes_p90,Key passes /90,attacking,15,20,1.0
+Serie A Women,2023/2024,FW,touches_box_p90,Box touches /90,attacking,15,20,0.9
+Serie A Women,2023/2024,FW,progressive_passes_p90,Progressive passes /90,progression,15,20,0.9
+Serie A Women,2023/2024,FW,progressive_carries_p90,Progressive carries /90,progression,15,20,1.0
+Serie A Women,2023/2024,FW,dribbles_completed_p90,Successful dribbles /90,progression,15,20,0.9
+Serie A Women,2023/2024,FW,pass_completion_pct,Pass completion %,progression,15,20,0.9
+Serie A Women,2023/2024,FW,pressures_p90,Pressures /90,defending,15,20,0.8
+Serie A Women,2023/2024,FW,tackles_interceptions_p90,Tackles + interceptions /90,defending,15,20,0.9
+Serie A Women,2023/2024,FW,ball_recoveries_p90,Ball recoveries /90,defending,15,20,0.9
+Serie A Women,2023/2024,FW,aerials_won_p90,Aerial duels won /90,defending,15,20,1.0

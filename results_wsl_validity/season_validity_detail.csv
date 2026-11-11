@@ -1,0 +1,27 @@
+season_a,season_b,metric,label,family,players,spearman
+2018/2019,2019/2020,npxg_p90,npxG /90,attacking,30,0.5661953327799343
+2018/2019,2019/2020,shots_p90,Shots /90,attacking,30,0.5862184161893936
+2018/2019,2019/2020,xa_p90,xA /90,attacking,30,0.6284791961636528
+2018/2019,2019/2020,key_passes_p90,Key passes /90,attacking,30,0.43756955263743613
+2018/2019,2019/2020,touches_box_p90,Box touches /90,attacking,30,0.7312402764221207
+2018/2019,2019/2020,progressive_passes_p90,Progressive passes /90,progression,30,0.6514190357540751
+2018/2019,2019/2020,progressive_carries_p90,Progressive carries /90,progression,30,0.725906984371688
+2018/2019,2019/2020,dribbles_completed_p90,Successful dribbles /90,progression,30,0.6180725726200146
+2018/2019,2019/2020,pass_completion_pct,Pass completion %,progression,30,0.6666667327744646
+2018/2019,2019/2020,pressures_p90,Pressures /90,defending,30,0.6434453753851143
+2018/2019,2019/2020,tackles_interceptions_p90,Tackles + interceptions /90,defending,30,0.6225785520499009
+2018/2019,2019/2020,ball_recoveries_p90,Ball recoveries /90,defending,30,0.5319977773628018
+2018/2019,2019/2020,aerials_won_p90,Aerial duels won /90,defending,30,0.5842421544624974
+2019/2020,2020/2021,npxg_p90,npxG /90,attacking,39,0.38929674895934563
+2019/2020,2020/2021,shots_p90,Shots /90,attacking,39,0.41847633564118736
+2019/2020,2020/2021,xa_p90,xA /90,attacking,39,0.6303907705921062
+2019/2020,2020/2021,key_passes_p90,Key passes /90,attacking,39,0.4708204692977316
+2019/2020,2020/2021,touches_box_p90,Box touches /90,attacking,39,0.4968868698145318
+2019/2020,2020/2021,progressive_passes_p90,Progressive passes /90,progression,39,0.7361969556441701
+2019/2020,2020/2021,progressive_carries_p90,Progressive carries /90,progression,39,0.5844471475890304
+2019/2020,2020/2021,dribbles_completed_p90,Successful dribbles /90,progression,39,0.42737119360565706
+2019/2020,2020/2021,pass_completion_pct,Pass completion %,progression,39,0.5240772228844233
+2019/2020,2020/2021,pressures_p90,Pressures /90,defending,39,0.5878392332775403
+2019/2020,2020/2021,tackles_interceptions_p90,Tackles + interceptions /90,defending,39,0.6752734211916143
+2019/2020,2020/2021,ball_recoveries_p90,Ball recoveries /90,defending,39,0.6879967820267744
+2019/2020,2020/2021,aerials_won_p90,Aerial duels won /90,defending,39,0.615735128057232

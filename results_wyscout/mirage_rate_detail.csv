@@ -1,0 +1,121 @@
+competition,season,pos_group,metric,label,family,players,top_decile_at_snapshot,mirage_rate
+Bundesliga,2017/2018,DF,shots_p90,Shots /90,attacking,77,8,0.625
+Bundesliga,2017/2018,DF,key_passes_p90,Key passes /90,attacking,77,8,0.125
+Bundesliga,2017/2018,DF,touches_box_p90,Box touches /90,attacking,77,8,0.5
+Bundesliga,2017/2018,DF,progressive_passes_p90,Progressive passes /90,progression,77,8,0.25
+Bundesliga,2017/2018,DF,dribbles_completed_p90,Successful dribbles /90,progression,77,8,0.25
+Bundesliga,2017/2018,DF,pass_completion_pct,Pass completion %,progression,77,8,0.375
+Bundesliga,2017/2018,DF,tackles_interceptions_p90,Tackles + interceptions /90,defending,77,8,0.25
+Bundesliga,2017/2018,DF,aerials_won_p90,Aerial duels won /90,defending,77,8,0.5
+Bundesliga,2017/2018,MD,shots_p90,Shots /90,attacking,67,7,0.2857142857142857
+Bundesliga,2017/2018,MD,key_passes_p90,Key passes /90,attacking,67,7,0.2857142857142857
+Bundesliga,2017/2018,MD,touches_box_p90,Box touches /90,attacking,67,7,0.0
+Bundesliga,2017/2018,MD,progressive_passes_p90,Progressive passes /90,progression,67,7,0.0
+Bundesliga,2017/2018,MD,dribbles_completed_p90,Successful dribbles /90,progression,67,7,0.1428571428571429
+Bundesliga,2017/2018,MD,pass_completion_pct,Pass completion %,progression,67,7,0.1428571428571429
+Bundesliga,2017/2018,MD,tackles_interceptions_p90,Tackles + interceptions /90,defending,67,7,0.4285714285714286
+Bundesliga,2017/2018,MD,aerials_won_p90,Aerial duels won /90,defending,67,7,0.1428571428571429
+Bundesliga,2017/2018,FW,shots_p90,Shots /90,attacking,36,4,0.75
+Bundesliga,2017/2018,FW,key_passes_p90,Key passes /90,attacking,36,4,0.5
+Bundesliga,2017/2018,FW,touches_box_p90,Box touches /90,attacking,36,4,0.25
+Bundesliga,2017/2018,FW,progressive_passes_p90,Progressive passes /90,progression,36,4,0.25
+Bundesliga,2017/2018,FW,dribbles_completed_p90,Successful dribbles /90,progression,36,4,0.0
+Bundesliga,2017/2018,FW,pass_completion_pct,Pass completion %,progression,36,4,0.5
+Bundesliga,2017/2018,FW,tackles_interceptions_p90,Tackles + interceptions /90,defending,36,4,0.0
+Bundesliga,2017/2018,FW,aerials_won_p90,Aerial duels won /90,defending,36,4,0.25
+La Liga,2017/2018,DF,shots_p90,Shots /90,attacking,94,10,0.5
+La Liga,2017/2018,DF,key_passes_p90,Key passes /90,attacking,94,10,0.30000000000000004
+La Liga,2017/2018,DF,touches_box_p90,Box touches /90,attacking,94,10,0.30000000000000004
+La Liga,2017/2018,DF,progressive_passes_p90,Progressive passes /90,progression,94,10,0.19999999999999996
+La Liga,2017/2018,DF,dribbles_completed_p90,Successful dribbles /90,progression,94,10,0.30000000000000004
+La Liga,2017/2018,DF,pass_completion_pct,Pass completion %,progression,94,10,0.19999999999999996
+La Liga,2017/2018,DF,tackles_interceptions_p90,Tackles + interceptions /90,defending,94,10,0.4
+La Liga,2017/2018,DF,aerials_won_p90,Aerial duels won /90,defending,94,10,0.4
+La Liga,2017/2018,MD,shots_p90,Shots /90,attacking,81,9,0.33333333333333337
+La Liga,2017/2018,MD,key_passes_p90,Key passes /90,attacking,81,9,0.4444444444444444
+La Liga,2017/2018,MD,touches_box_p90,Box touches /90,attacking,81,9,0.11111111111111116
+La Liga,2017/2018,MD,progressive_passes_p90,Progressive passes /90,progression,81,9,0.11111111111111116
+La Liga,2017/2018,MD,dribbles_completed_p90,Successful dribbles /90,progression,81,9,0.2222222222222222
+La Liga,2017/2018,MD,pass_completion_pct,Pass completion %,progression,81,9,0.11111111111111116
+La Liga,2017/2018,MD,tackles_interceptions_p90,Tackles + interceptions /90,defending,81,9,0.4444444444444444
+La Liga,2017/2018,MD,aerials_won_p90,Aerial duels won /90,defending,81,9,0.11111111111111116
+La Liga,2017/2018,FW,shots_p90,Shots /90,attacking,38,4,0.25
+La Liga,2017/2018,FW,key_passes_p90,Key passes /90,attacking,38,4,0.5
+La Liga,2017/2018,FW,touches_box_p90,Box touches /90,attacking,38,4,0.25
+La Liga,2017/2018,FW,progressive_passes_p90,Progressive passes /90,progression,38,4,0.5
+La Liga,2017/2018,FW,dribbles_completed_p90,Successful dribbles /90,progression,38,4,0.0
+La Liga,2017/2018,FW,pass_completion_pct,Pass completion %,progression,38,4,0.5
+La Liga,2017/2018,FW,tackles_interceptions_p90,Tackles + interceptions /90,defending,38,4,0.25
+La Liga,2017/2018,FW,aerials_won_p90,Aerial duels won /90,defending,38,4,0.0
+Ligue 1,2017/2018,DF,shots_p90,Shots /90,attacking,99,10,0.5
+Ligue 1,2017/2018,DF,key_passes_p90,Key passes /90,attacking,99,10,0.5
+Ligue 1,2017/2018,DF,touches_box_p90,Box touches /90,attacking,99,10,0.30000000000000004
+Ligue 1,2017/2018,DF,progressive_passes_p90,Progressive passes /90,progression,99,10,0.30000000000000004
+Ligue 1,2017/2018,DF,dribbles_completed_p90,Successful dribbles /90,progression,99,10,0.0
+Ligue 1,2017/2018,DF,pass_completion_pct,Pass completion %,progression,99,10,0.19999999999999996
+Ligue 1,2017/2018,DF,tackles_interceptions_p90,Tackles + interceptions /90,defending,99,10,0.4
+Ligue 1,2017/2018,DF,aerials_won_p90,Aerial duels won /90,defending,99,10,0.4
+Ligue 1,2017/2018,MD,shots_p90,Shots /90,attacking,81,9,0.33333333333333337
+Ligue 1,2017/2018,MD,key_passes_p90,Key passes /90,attacking,81,9,0.4444444444444444
+Ligue 1,2017/2018,MD,touches_box_p90,Box touches /90,attacking,81,9,0.11111111111111116
+Ligue 1,2017/2018,MD,progressive_passes_p90,Progressive passes /90,progression,81,9,0.2222222222222222
+Ligue 1,2017/2018,MD,dribbles_completed_p90,Successful dribbles /90,progression,81,9,0.11111111111111116
+Ligue 1,2017/2018,MD,pass_completion_pct,Pass completion %,progression,81,9,0.2222222222222222
+Ligue 1,2017/2018,MD,tackles_interceptions_p90,Tackles + interceptions /90,defending,81,9,0.5555555555555556
+Ligue 1,2017/2018,MD,aerials_won_p90,Aerial duels won /90,defending,81,9,0.33333333333333337
+Ligue 1,2017/2018,FW,shots_p90,Shots /90,attacking,46,5,0.4
+Ligue 1,2017/2018,FW,key_passes_p90,Key passes /90,attacking,46,5,0.0
+Ligue 1,2017/2018,FW,touches_box_p90,Box touches /90,attacking,46,5,0.19999999999999996
+Ligue 1,2017/2018,FW,progressive_passes_p90,Progressive passes /90,progression,46,5,0.0
+Ligue 1,2017/2018,FW,dribbles_completed_p90,Successful dribbles /90,progression,46,5,0.4
+Ligue 1,2017/2018,FW,pass_completion_pct,Pass completion %,progression,46,5,0.4
+Ligue 1,2017/2018,FW,tackles_interceptions_p90,Tackles + interceptions /90,defending,46,5,0.0
+Ligue 1,2017/2018,FW,aerials_won_p90,Aerial duels won /90,defending,46,5,0.0
+Premier League,2017/2018,DF,shots_p90,Shots /90,attacking,97,10,0.19999999999999996
+Premier League,2017/2018,DF,key_passes_p90,Key passes /90,attacking,97,10,0.4
+Premier League,2017/2018,DF,touches_box_p90,Box touches /90,attacking,97,10,0.30000000000000004
+Premier League,2017/2018,DF,progressive_passes_p90,Progressive passes /90,progression,97,10,0.19999999999999996
+Premier League,2017/2018,DF,dribbles_completed_p90,Successful dribbles /90,progression,97,10,0.09999999999999998
+Premier League,2017/2018,DF,pass_completion_pct,Pass completion %,progression,97,10,0.09999999999999998
+Premier League,2017/2018,DF,tackles_interceptions_p90,Tackles + interceptions /90,defending,97,10,0.19999999999999996
+Premier League,2017/2018,DF,aerials_won_p90,Aerial duels won /90,defending,97,10,0.19999999999999996
+Premier League,2017/2018,MD,shots_p90,Shots /90,attacking,91,10,0.30000000000000004
+Premier League,2017/2018,MD,key_passes_p90,Key passes /90,attacking,91,10,0.19999999999999996
+Premier League,2017/2018,MD,touches_box_p90,Box touches /90,attacking,91,10,0.19999999999999996
+Premier League,2017/2018,MD,progressive_passes_p90,Progressive passes /90,progression,91,10,0.09999999999999998
+Premier League,2017/2018,MD,dribbles_completed_p90,Successful dribbles /90,progression,91,10,0.19999999999999996
+Premier League,2017/2018,MD,pass_completion_pct,Pass completion %,progression,91,10,0.4
+Premier League,2017/2018,MD,tackles_interceptions_p90,Tackles + interceptions /90,defending,91,10,0.4
+Premier League,2017/2018,MD,aerials_won_p90,Aerial duels won /90,defending,91,10,0.09999999999999998
+Premier League,2017/2018,FW,shots_p90,Shots /90,attacking,39,4,0.25
+Premier League,2017/2018,FW,key_passes_p90,Key passes /90,attacking,39,4,0.25
+Premier League,2017/2018,FW,touches_box_p90,Box touches /90,attacking,39,4,0.75
+Premier League,2017/2018,FW,progressive_passes_p90,Progressive passes /90,progression,39,4,0.25
+Premier League,2017/2018,FW,dribbles_completed_p90,Successful dribbles /90,progression,39,4,0.5
+Premier League,2017/2018,FW,pass_completion_pct,Pass completion %,progression,39,4,0.25
+Premier League,2017/2018,FW,tackles_interceptions_p90,Tackles + interceptions /90,defending,39,4,0.25
+Premier League,2017/2018,FW,aerials_won_p90,Aerial duels won /90,defending,39,4,0.25
+Serie A,2017/2018,DF,shots_p90,Shots /90,attacking,87,9,0.2222222222222222
+Serie A,2017/2018,DF,key_passes_p90,Key passes /90,attacking,87,9,0.2222222222222222
+Serie A,2017/2018,DF,touches_box_p90,Box touches /90,attacking,87,9,0.11111111111111116
+Serie A,2017/2018,DF,progressive_passes_p90,Progressive passes /90,progression,87,9,0.2222222222222222
+Serie A,2017/2018,DF,dribbles_completed_p90,Successful dribbles /90,progression,87,9,0.2222222222222222
+Serie A,2017/2018,DF,pass_completion_pct,Pass completion %,progression,87,9,0.4444444444444444
+Serie A,2017/2018,DF,tackles_interceptions_p90,Tackles + interceptions /90,defending,87,9,0.4444444444444444
+Serie A,2017/2018,DF,aerials_won_p90,Aerial duels won /90,defending,87,9,0.33333333333333337
+Serie A,2017/2018,MD,shots_p90,Shots /90,attacking,83,9,0.33333333333333337
+Serie A,2017/2018,MD,key_passes_p90,Key passes /90,attacking,83,9,0.33333333333333337
+Serie A,2017/2018,MD,touches_box_p90,Box touches /90,attacking,83,9,0.11111111111111116
+Serie A,2017/2018,MD,progressive_passes_p90,Progressive passes /90,progression,83,9,0.33333333333333337
+Serie A,2017/2018,MD,dribbles_completed_p90,Successful dribbles /90,progression,83,9,0.2222222222222222
+Serie A,2017/2018,MD,pass_completion_pct,Pass completion %,progression,83,9,0.33333333333333337
+Serie A,2017/2018,MD,tackles_interceptions_p90,Tackles + interceptions /90,defending,83,9,0.33333333333333337
+Serie A,2017/2018,MD,aerials_won_p90,Aerial duels won /90,defending,83,9,0.2222222222222222
+Serie A,2017/2018,FW,shots_p90,Shots /90,attacking,46,5,0.4
+Serie A,2017/2018,FW,key_passes_p90,Key passes /90,attacking,46,5,0.19999999999999996
+Serie A,2017/2018,FW,touches_box_p90,Box touches /90,attacking,46,5,0.19999999999999996
+Serie A,2017/2018,FW,progressive_passes_p90,Progressive passes /90,progression,46,5,0.0
+Serie A,2017/2018,FW,dribbles_completed_p90,Successful dribbles /90,progression,46,5,0.19999999999999996
+Serie A,2017/2018,FW,pass_completion_pct,Pass completion %,progression,46,5,0.19999999999999996
+Serie A,2017/2018,FW,tackles_interceptions_p90,Tackles + interceptions /90,defending,46,5,0.4
+Serie A,2017/2018,FW,aerials_won_p90,Aerial duels won /90,defending,46,5,0.19999999999999996

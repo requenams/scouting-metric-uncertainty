@@ -2,19 +2,30 @@
 Sampling uncertainty of per-90 scouting metrics.
 
 Input:  data/derived/player_match.parquet (from build_player_match.py)
-Output: results_uncertainty/
-  reliability_curves.csv        split-half reliability of each metric as a function of matches
+Output: <out>/
+  reliability_curves.csv        split-half reliability of each metric as a function of matches, by position
+  reliability_curves_pooled.csv the same, pooled across positions (player-weighted)
   matches_to_stability.csv      matches (and minutes) needed for reliability >= 0.7 per metric
-  percentile_intervals.csv      bootstrap 90% interval width of positional percentiles
+  stabilization_constants.csv   k per metric from r(n) = n / (n + k), with matches for r = 0.5 / 0.7 / 0.8
+  stabilization_by_position.csv k per metric and position group
+  percentile_intervals.csv      bootstrap 90% interval width of positional percentiles, by minutes played
+  percentile_shrinkage.csv      how far percentiles move when shrunk towards the positional mean
   rank_stability.csv            share of the top-10 after k matches still in the top-10 at season end
+  mirage_rate.csv               share of top-decile players at 900 minutes who are not top decile at season end
   fig1_reliability_curves.png
   fig2_honest_pizza.png         the usual percentile chart next to the same chart with intervals
+  fig3_shrinkage.png            share of the observed value that is signal, m / (m + k), by minutes played
+  k_vs_frequency.csv            stabilization constant against the mean number of events per appearance
+  fig4_k_vs_frequency.png
 
 Usage:
   python scripts/uncertainty_analysis.py --derived data/derived --out results_uncertainty
+  python scripts/uncertainty_analysis.py --derived data/derived_women2023 --out results_women2023 \
+      --min-matches-per-competition 100 --min-players 15
 """
 
 import argparse
+import warnings
 from pathlib import Path
 
 import numpy as np
@@ -23,6 +34,7 @@ import matplotlib
 matplotlib.use("Agg")
 import matplotlib.pyplot as plt  # noqa: E402
 
+warnings.filterwarnings("ignore")
 RNG = np.random.default_rng(2027)
 
 # (column, label, numerator count, denominator: "minutes" -> per 90, or a count column -> ratio)
@@ -53,6 +65,8 @@ N_SPLITS = 40
 N_BOOT = 400
 RANK_CUTOFFS = [5, 10, 15, 20]
 TOP_K = 10
+MIN_PLAYERS = 20           # minimum players per cell (metric x position x n); overridable with --min-players
+SNAPSHOT_MINUTES = 900     # the "typical scouting sample" used for the mirage rate
 
 
 # ----------------------------------------------------------------------------- helpers
@@ -61,6 +75,28 @@ NUM_IDX = np.array([COUNT_COLS.index(num) for _, _, num, _ in METRICS])
 DEN_IDX = np.array([COUNT_COLS.index(den) for _, _, _, den in METRICS])
 SCALE = np.array([90.0 if den == "minutes" else 100.0 for _, _, _, den in METRICS])
 METRIC_COLS = [col for col, _, _, _ in METRICS]
+
+
+def configure_metrics(pm: pd.DataFrame, pos_groups=None) -> None:
+    """Keep only the metrics the data set supports (columns present and not all NaN) and,
+    optionally, replace the position groups. Rebuilds the module-level index arrays."""
+    global METRICS, COUNT_COLS, NUM_IDX, DEN_IDX, SCALE, METRIC_COLS, POS_GROUPS
+    keep = []
+    for m in METRICS:
+        col, label, num, den = m
+        ok = num in pm.columns and den in pm.columns and pm[num].notna().any() and pm[den].notna().any()
+        if ok:
+            keep.append(m)
+        else:
+            print(f"  metric not available in this data set, skipped: {label}")
+    METRICS = keep
+    COUNT_COLS = sorted({num for _, _, num, _ in METRICS} | {den for _, _, _, den in METRICS})
+    NUM_IDX = np.array([COUNT_COLS.index(num) for _, _, num, _ in METRICS])
+    DEN_IDX = np.array([COUNT_COLS.index(den) for _, _, _, den in METRICS])
+    SCALE = np.array([90.0 if den == "minutes" else 100.0 for _, _, _, den in METRICS])
+    METRIC_COLS = [col for col, _, _, _ in METRICS]
+    if pos_groups:
+        POS_GROUPS = pos_groups
 
 
 def rates(df: pd.DataFrame) -> pd.Series:
@@ -119,7 +155,7 @@ def reliability_curves(pm: pd.DataFrame) -> pd.DataFrame:
         ids = [k for k, p in pos_of.items() if p == pos]
         for n in N_GRID:
             eligible = [k for k in ids if len(logs[k]) >= 2 * n]
-            if len(eligible) < 20:
+            if len(eligible) < MIN_PLAYERS:
                 continue
             corr = []
             for _ in range(N_SPLITS):
@@ -224,6 +260,133 @@ def rank_stability(pm: pd.DataFrame, ps: pd.DataFrame) -> pd.DataFrame:
     return df, df.groupby(["family", "label", "matches"])["top10_overlap"].mean().unstack("matches").round(2).reset_index()
 
 
+# ----------------------------------------------------------------------------- D. stabilization constant
+def fit_k(n: np.ndarray, r: np.ndarray) -> tuple[float, float]:
+    """Least-squares fit of r(n) = n / (n + k). Returns k and the RMSE of the fit."""
+    mask = np.isfinite(r)
+    n, r = n[mask], r[mask]
+    if len(n) < 2:
+        return np.nan, np.nan
+    def loss(k):
+        return float(np.mean((r - n / (n + k)) ** 2))
+    # coarse log-spaced grid, then golden-section refinement around the best cell (no scipy needed)
+    grid = np.logspace(np.log10(0.05), np.log10(500), 400)
+    best = int(np.argmin([loss(k) for k in grid]))
+    lo, hi = grid[max(best - 1, 0)], grid[min(best + 1, len(grid) - 1)]
+    phi = (np.sqrt(5) - 1) / 2
+    a, b = hi - phi * (hi - lo), lo + phi * (hi - lo)
+    for _ in range(60):
+        if loss(a) < loss(b):
+            hi, b = b, a
+            a = hi - phi * (hi - lo)
+        else:
+            lo, a = a, b
+            b = lo + phi * (hi - lo)
+    k = (lo + hi) / 2
+    return float(k), float(np.sqrt(loss(k)))
+
+
+def stabilization_constants(pooled: pd.DataFrame, curves: pd.DataFrame, minutes_per_appearance: float) -> tuple[pd.DataFrame, pd.DataFrame]:
+    """k per metric (pooled curve) and per metric x position. Matches needed for a target
+    reliability r* follow from the model: n* = k * r* / (1 - r*)."""
+    rows = []
+    for (metric, label, family), g in pooled.groupby(["metric", "label", "family"]):
+        k, rmse = fit_k(g["matches"].values.astype(float), g["reliability"].values.astype(float))
+        rows.append({"metric": metric, "label": label, "family": family, "k_matches": k, "k_minutes": k * minutes_per_appearance,
+                     "fit_rmse": rmse, "matches_for_r50": k, "matches_for_r70": k * 0.7 / 0.3, "matches_for_r80": k * 0.8 / 0.2,
+                     "minutes_for_r70": k * 0.7 / 0.3 * minutes_per_appearance})
+    by_metric = pd.DataFrame(rows).sort_values("k_matches")
+    rows = []
+    for (metric, label, pos), g in curves.groupby(["metric", "label", "pos_group"]):
+        k, rmse = fit_k(g["matches"].values.astype(float), g["reliability"].values.astype(float))
+        rows.append({"metric": metric, "label": label, "pos_group": pos, "k_matches": k, "fit_rmse": rmse, "players_min": int(g["players"].min())})
+    by_pos = pd.DataFrame(rows)
+    return by_metric, by_pos.pivot(index="label", columns="pos_group", values="k_matches").round(1).reset_index()
+
+
+# ----------------------------------------------------------------------------- E. shrinkage
+def percentile_shrinkage(ps: pd.DataFrame, kmet: pd.DataFrame) -> tuple[pd.DataFrame, pd.DataFrame]:
+    """Empirical-Bayes shrinkage: a player's rate after m appearances is pulled towards the
+    positional mean with weight 1 - m / (m + k). Players are then re-ranked on their shrunk
+    rates, so the shrunk percentile is a percentile among shrunk estimates: what changes is the
+    ordering, with small-sample players moving towards the middle relative to well-observed ones."""
+    ref = ps[ps["minutes"] >= MIN_SEASON_MINUTES]
+    kmap = kmet.set_index("metric")["k_matches"].to_dict()
+    rows = []
+    for pos in POS_GROUPS:
+        sub = ref[ref["pos_group"] == pos]
+        if len(sub) < MIN_PLAYERS:
+            continue
+        for col, label, _, _ in METRICS:
+            k = kmap.get(col, np.nan)
+            vals = sub[col].values
+            ok = np.isfinite(vals)
+            if not np.isfinite(k) or ok.sum() < MIN_PLAYERS:
+                continue
+            x, m = vals[ok], sub["matches"].values[ok]
+            w = m / (m + k)
+            shrunk = w * x + (1 - w) * x.mean()
+            raw_ref, shr_ref = np.sort(x), np.sort(shrunk)
+            raw_pct = 100.0 * np.searchsorted(raw_ref, x, side="right") / len(raw_ref)
+            shr_pct = 100.0 * np.searchsorted(shr_ref, shrunk, side="right") / len(shr_ref)
+            for pid, mins, mm, ww, rp, sp in zip(sub["player_id"].values[ok], sub["minutes"].values[ok], m, w, raw_pct, shr_pct):
+                rows.append({"player_id": pid, "pos_group": pos, "minutes": mins, "matches": mm, "metric": col, "label": label,
+                             "family": FAMILY[col], "reliability": ww, "raw_percentile": rp, "shrunk_percentile": sp, "shift": sp - rp})
+    df = pd.DataFrame(rows)
+    df["minutes_bucket"] = pd.cut(df["minutes"], [899, 1500, 2500, 10000], labels=["900-1500", "1500-2500", "2500+"])
+    df["abs_shift"] = df["shift"].abs()
+    summary = (df.groupby(["family", "label", "minutes_bucket"], observed=True)["abs_shift"].mean()
+               .unstack("minutes_bucket").round(1).reset_index())
+    # how often a raw top-decile player is no longer top decile once everyone is shrunk and re-ranked
+    top_raw = df[df["raw_percentile"] >= 90]
+    drop = (top_raw.groupby(["family", "label", "minutes_bucket"], observed=True)
+            .apply(lambda g: (g["shrunk_percentile"] < 90).mean(), include_groups=False)
+            .unstack("minutes_bucket").round(2).reset_index())
+    drop.columns = ["family", "label"] + [f"top10_lost_{c}" for c in drop.columns[2:]]
+    summary = summary.merge(drop, on=["family", "label"], how="left")
+    return df, summary
+
+
+# ----------------------------------------------------------------------------- F. mirage rate
+def mirage_rate(pm: pd.DataFrame, ps: pd.DataFrame, snapshot_minutes: int = SNAPSHOT_MINUTES) -> tuple[pd.DataFrame, pd.DataFrame]:
+    """Of the players in the top decile of a metric when their season reaches `snapshot_minutes`,
+    what share is no longer in the top decile at season end? Same player set on both sides."""
+    keys = ["player_id", "competition", "season"]
+    logs = count_matrices(pm, keys, sort_by_date=True)
+    mins = {k: g.sort_values("match_date")["minutes"].to_numpy() for k, g in pm.groupby(keys)}
+    # the snapshot must be a genuine early look: at least ~7 more appearances after it
+    full = ps[ps["minutes"] >= snapshot_minutes + 600]
+    rows = []
+    for (comp, season), rs in full.groupby(["competition", "season"]):
+        for pos in POS_GROUPS:
+            sub = rs[rs["pos_group"] == pos]
+            if len(sub) < MIN_PLAYERS:
+                continue
+            snap = {}
+            for pid in sub["player_id"]:
+                k = (pid, comp, season)
+                cut = int(np.searchsorted(np.cumsum(mins[k]), snapshot_minutes) + 1)
+                snap[pid] = rates_from_counts(logs[k][:cut])
+            snap = pd.DataFrame(snap, index=METRIC_COLS).T
+            final = sub.set_index("player_id")[METRIC_COLS]
+            for col, label, _, _ in METRICS:
+                q_snap, q_final = snap[col].quantile(0.9), final[col].quantile(0.9)
+                top_snap = set(snap.index[snap[col] >= q_snap])
+                top_final = set(final.index[final[col] >= q_final])
+                if not top_snap:
+                    continue
+                rows.append({"competition": comp, "season": season, "pos_group": pos, "metric": col, "label": label, "family": FAMILY[col],
+                             "players": len(sub), "top_decile_at_snapshot": len(top_snap),
+                             "mirage_rate": 1 - len(top_snap & top_final) / len(top_snap)})
+    df = pd.DataFrame(rows)
+    if df.empty:
+        return df, pd.DataFrame(columns=["family", "label", "mirage_rate", "cells"])
+    summary = (df.assign(w=df["top_decile_at_snapshot"]).groupby(["family", "label"])
+               .apply(lambda g: pd.Series({"mirage_rate": np.average(g["mirage_rate"], weights=g["w"]), "cells": len(g)}), include_groups=False)
+               .reset_index().sort_values("mirage_rate", ascending=False))
+    return df, summary
+
+
 # ----------------------------------------------------------------------------- figures
 def fig_reliability(pooled: pd.DataFrame, mts: pd.DataFrame, out: Path) -> None:
     fams = ["attacking", "progression", "defending"]
@@ -292,18 +455,102 @@ def fig_honest_pizza(detail: dict, ps: pd.DataFrame, out: Path, target_minutes=(
     fig.savefig(out, dpi=220)
     plt.close(fig)
 
+def place_labels(ax, texts) -> None:
+    """Spread point labels apart when adjustText is installed; otherwise leave them in place."""
+    try:
+        from adjustText import adjust_text
+        adjust_text(texts, ax=ax, arrowprops=dict(arrowstyle="-", color="grey", lw=0.5), expand=(1.2, 1.4))
+    except ImportError:
+        for t in texts:
+            t.set_position((t.get_position()[0] * 1.04, t.get_position()[1] * 1.03))
+
+
+# ----------------------------------------------------------------------------- G. k versus event frequency
+def k_vs_frequency(pm: pd.DataFrame, kmet: pd.DataFrame) -> pd.DataFrame:
+    """Does a metric stabilise faster simply because its events are more frequent? Mean events
+    per appearance (the numerator count; for ratios, the denominator count) against k."""
+    # xG and xA are sums of probabilities, so their underlying events are shots and key passes
+    event_col = {"npxg_p90": "shots", "xa_p90": "key_passes"}
+    rows = []
+    for col, label, num, den in METRICS:
+        count_col = event_col.get(col, num if den == "minutes" else den)
+        rows.append({"metric": col, "label": label, "family": FAMILY[col],
+                     "events_per_appearance": float(pm[count_col].mean()), "count_column": count_col})
+    df = pd.DataFrame(rows).merge(kmet[["metric", "k_matches"]], on="metric")
+    rho = df["events_per_appearance"].corr(df["k_matches"], method="spearman")
+    df["spearman_k_vs_frequency"] = rho
+    return df.sort_values("events_per_appearance")
+
+
+def fig_k_vs_frequency(df: pd.DataFrame, out: Path) -> None:
+    fig, ax = plt.subplots(figsize=(5.6, 4.4))
+    colors = {"attacking": "#c05621", "progression": "#1f3a5f", "defending": "#4a7c59"}
+    texts = []
+    for _, r in df.iterrows():
+        ax.scatter(r["events_per_appearance"], r["k_matches"], color=colors[r["family"]], s=40, zorder=3)
+        texts.append(ax.text(r["events_per_appearance"], r["k_matches"], r["label"].replace(" /90", ""), fontsize=7))
+    ax.set_xscale("log")
+    ax.set_yscale("log")
+    from matplotlib.ticker import ScalarFormatter, NullFormatter
+    for axis in (ax.xaxis, ax.yaxis):
+        axis.set_major_formatter(ScalarFormatter())
+        axis.set_minor_formatter(NullFormatter())
+    ax.set_yticks([2, 3, 5, 10, 20, 30])
+    place_labels(ax, texts)
+    ax.set_xlabel("Mean events per appearance (log scale)")
+    ax.set_ylabel("Stabilization constant k (matches, log scale)")
+    rho = df["spearman_k_vs_frequency"].iloc[0]
+    ax.set_title(f"Rarer events, slower stabilisation (Spearman {rho:.2f})", fontsize=10)
+    ax.grid(alpha=0.3, which="both")
+    fig.tight_layout()
+    fig.savefig(out, dpi=220)
+    plt.close(fig)
+
+
+def fig_shrinkage(kmet: pd.DataFrame, minutes_per_appearance: float, out: Path) -> None:
+    """Share of the observed per-90 value that is signal, m / (m + k), as a function of minutes
+    played, for every metric. The complement is the weight given to the positional mean."""
+    fams = ["attacking", "progression", "defending"]
+    minutes = np.linspace(200, 3400, 200)
+    fig, axes = plt.subplots(1, 3, figsize=(12, 3.8), sharey=True)
+    for ax, fam in zip(axes, fams):
+        for _, r in kmet[kmet["family"] == fam].sort_values("k_matches").iterrows():
+            m = minutes / minutes_per_appearance
+            ax.plot(minutes, m / (m + r["k_matches"]), lw=1.5, label=f"{r['label']} (k = {r['k_matches']:.1f})")
+        ax.axvline(900, color="black", lw=0.8, ls="--")
+        ax.text(930, 0.04, "900 min", fontsize=7.5)
+        ax.set_title(fam.capitalize(), fontsize=10)
+        ax.set_xlabel("Minutes played")
+        ax.set_ylim(0, 1)
+        ax.grid(alpha=0.3)
+        ax.legend(fontsize=7, frameon=False, loc="lower right")
+    axes[0].set_ylabel("Signal share  m / (m + k)")
+    fig.suptitle("How much of a per-90 value to keep, and how much to pull towards the positional mean", fontsize=11)
+    fig.tight_layout(rect=[0, 0, 1, 0.93])
+    fig.savefig(out, dpi=220)
+    plt.close(fig)
+
 
 # ----------------------------------------------------------------------------- main
 def main() -> None:
+    global MIN_PLAYERS
     parser = argparse.ArgumentParser()
     parser.add_argument("--derived", default="data/derived")
     parser.add_argument("--out", default="results_uncertainty")
     parser.add_argument("--min-matches-per-competition", type=int, default=300, help="keep only complete seasons")
+    parser.add_argument("--min-players", type=int, default=MIN_PLAYERS, help="minimum players per cell")
+    parser.add_argument("--max-n", type=int, default=None, help="largest half-sample size (about half the season length)")
+    parser.add_argument("--pos-groups", default=None, help="comma-separated position groups to use instead of the default seven")
     args = parser.parse_args()
+    MIN_PLAYERS = args.min_players
+    global N_GRID
+    if args.max_n:
+        N_GRID = [n for n in N_GRID if n <= args.max_n]
     out = Path(args.out)
     out.mkdir(parents=True, exist_ok=True)
 
     pm = add_derived(pd.read_parquet(Path(args.derived) / "player_match.parquet"))
+    configure_metrics(pm, args.pos_groups.split(",") if args.pos_groups else None)
     counts = pm.groupby(["competition", "season"])["match_id"].nunique()
     complete = counts[counts >= args.min_matches_per_competition].index
     pm = pm[pm.set_index(["competition", "season"]).index.isin(complete)]
@@ -324,6 +571,14 @@ def main() -> None:
     mts.to_csv(out / "matches_to_stability.csv", index=False)
     print(mts.round(2).to_string(index=False))
 
+    print("\n[D] stabilization constants: r(n) = n / (n + k)...")
+    kmet, kpos = stabilization_constants(pooled, curves, minutes_per_appearance)
+    kmet.to_csv(out / "stabilization_constants.csv", index=False)
+    kpos.to_csv(out / "stabilization_by_position.csv", index=False)
+    print(kmet.round(2).to_string(index=False))
+    print("\nk by position group (matches):")
+    print(kpos.to_string(index=False))
+
     print("\n[B] percentile intervals (bootstrap)...")
     pdet, psum, detail = percentile_intervals(pm, ps)
     pdet.to_csv(out / "percentile_intervals_detail.csv", index=False)
@@ -341,8 +596,29 @@ def main() -> None:
     print(rsum.to_string(index=False))
     print(f"Overall mean overlap at 10 matches: {rdet[rdet['matches'] == 10]['top10_overlap'].mean():.2f}")
 
+    print("\n[E] shrinkage towards the positional mean...")
+    shr, shr_sum = percentile_shrinkage(ps, kmet)
+    shr.to_csv(out / "percentile_shrinkage_detail.csv", index=False)
+    shr_sum.to_csv(out / "percentile_shrinkage.csv", index=False)
+    print("Mean |shift| of the percentile after shrinkage, and share of raw top-decile players that drop out:")
+    print(shr_sum.to_string(index=False))
+
+    print(f"\n[F] mirage rate at {SNAPSHOT_MINUTES} minutes (players with >= {SNAPSHOT_MINUTES + 600} minutes)...")
+    mir, mir_sum = mirage_rate(pm, ps)
+    mir.to_csv(out / "mirage_rate_detail.csv", index=False)
+    mir_sum.to_csv(out / "mirage_rate.csv", index=False)
+    print("Share of top-decile players at the snapshot who are not top decile at season end:")
+    print(mir_sum.round(2).to_string(index=False))
+
     fig_reliability(pooled, mts, out / "fig1_reliability_curves.png")
     fig_honest_pizza(detail, ps, out / "fig2_honest_pizza.png")
+    fig_shrinkage(kmet, minutes_per_appearance, out / "fig3_shrinkage.png")
+
+    kf = k_vs_frequency(pm, kmet)
+    kf.to_csv(out / "k_vs_frequency.csv", index=False)
+    print(f"\n[G] k versus event frequency (Spearman across metrics: {kf['spearman_k_vs_frequency'].iloc[0]:.2f})")
+    print(kf[["label", "events_per_appearance", "k_matches"]].round(2).to_string(index=False))
+    fig_k_vs_frequency(kf, out / "fig4_k_vs_frequency.png")
     print(f"\nTables and figures written to {out}/")
 
 

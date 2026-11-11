@@ -1,0 +1,9 @@
+metric,label,family,events_per_appearance,count_column,k_matches,spearman_k_vs_frequency
+key_passes_p90,Key passes /90,attacking,0.19295918842198334,key_passes,10.241786827296796,-0.5952380952380953
+shots_p90,Shots /90,attacking,0.8861743217460096,shots,8.052667258934083,-0.5952380952380953
+aerials_won_p90,Aerial duels won /90,defending,1.506375354832705,aerials_won,2.401870898467203,-0.5952380952380953
+touches_box_p90,Box touches /90,attacking,2.209502536181302,touches_box,3.351408345747921,-0.5952380952380953
+dribbles_completed_p90,Successful dribbles /90,progression,2.6455861138256784,dribbles_completed,1.7600492244103814,-0.5952380952380953
+progressive_passes_p90,Progressive passes /90,progression,6.968984131416073,progressive_passes,2.299110026780502,-0.5952380952380953
+tackles_interceptions_p90,Tackles + interceptions /90,defending,8.967239052538508,tackles_interceptions,3.5390956805356497,-0.5952380952380953
+pass_completion_pct,Pass completion %,progression,35.25399041370003,passes,2.3099952720325323,-0.5952380952380953

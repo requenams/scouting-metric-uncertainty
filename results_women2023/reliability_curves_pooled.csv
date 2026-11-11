@@ -1,0 +1,53 @@
+metric,label,family,matches,reliability
+aerials_won_p90,Aerial duels won /90,defending,3,0.36102323552706195
+aerials_won_p90,Aerial duels won /90,defending,5,0.4945027207102973
+aerials_won_p90,Aerial duels won /90,defending,8,0.6123920548781429
+aerials_won_p90,Aerial duels won /90,defending,10,0.6799626396354794
+ball_recoveries_p90,Ball recoveries /90,defending,3,0.29952661042745266
+ball_recoveries_p90,Ball recoveries /90,defending,5,0.43179123242098744
+ball_recoveries_p90,Ball recoveries /90,defending,8,0.5498880523022494
+ball_recoveries_p90,Ball recoveries /90,defending,10,0.5983437773972243
+dribbles_completed_p90,Successful dribbles /90,progression,3,0.2776477549021207
+dribbles_completed_p90,Successful dribbles /90,progression,5,0.3899647733960704
+dribbles_completed_p90,Successful dribbles /90,progression,8,0.49760690368629773
+dribbles_completed_p90,Successful dribbles /90,progression,10,0.5522650797711216
+key_passes_p90,Key passes /90,attacking,3,0.23497611915666808
+key_passes_p90,Key passes /90,attacking,5,0.3364596132509918
+key_passes_p90,Key passes /90,attacking,8,0.4474008942357132
+key_passes_p90,Key passes /90,attacking,10,0.4855641492711843
+npxg_p90,npxG /90,attacking,3,0.2820035162173854
+npxg_p90,npxG /90,attacking,5,0.3836652012150548
+npxg_p90,npxG /90,attacking,8,0.4979729341608142
+npxg_p90,npxG /90,attacking,10,0.5314770190007664
+pass_completion_pct,Pass completion %,progression,3,0.5755556081866442
+pass_completion_pct,Pass completion %,progression,5,0.6835675401699232
+pass_completion_pct,Pass completion %,progression,8,0.7727887861372228
+pass_completion_pct,Pass completion %,progression,10,0.8102542577310188
+pressures_p90,Pressures /90,defending,3,0.47896831691440606
+pressures_p90,Pressures /90,defending,5,0.6148449812410957
+pressures_p90,Pressures /90,defending,8,0.7180639958700032
+pressures_p90,Pressures /90,defending,10,0.7631692151360318
+progressive_carries_p90,Progressive carries /90,progression,3,0.43920859656999434
+progressive_carries_p90,Progressive carries /90,progression,5,0.5765674567843715
+progressive_carries_p90,Progressive carries /90,progression,8,0.6731043931811761
+progressive_carries_p90,Progressive carries /90,progression,10,0.7336594346539018
+progressive_passes_p90,Progressive passes /90,progression,3,0.48724622862268435
+progressive_passes_p90,Progressive passes /90,progression,5,0.6123500950932704
+progressive_passes_p90,Progressive passes /90,progression,8,0.7080552878111068
+progressive_passes_p90,Progressive passes /90,progression,10,0.7533768414355249
+shots_p90,Shots /90,attacking,3,0.30538051260332294
+shots_p90,Shots /90,attacking,5,0.4308329168511372
+shots_p90,Shots /90,attacking,8,0.5315031937957486
+shots_p90,Shots /90,attacking,10,0.5878926645756919
+tackles_interceptions_p90,Tackles + interceptions /90,defending,3,0.2718609528434016
+tackles_interceptions_p90,Tackles + interceptions /90,defending,5,0.40773513686784146
+tackles_interceptions_p90,Tackles + interceptions /90,defending,8,0.5173758896960939
+tackles_interceptions_p90,Tackles + interceptions /90,defending,10,0.587563676240064
+touches_box_p90,Box touches /90,attacking,3,0.4697555328084644
+touches_box_p90,Box touches /90,attacking,5,0.6019057481027212
+touches_box_p90,Box touches /90,attacking,8,0.6935956823952883
+touches_box_p90,Box touches /90,attacking,10,0.7394803760713058
+xa_p90,xA /90,attacking,3,0.2522416780705979
+xa_p90,xA /90,attacking,5,0.34572607485448426
+xa_p90,xA /90,attacking,8,0.41788386486908363
+xa_p90,xA /90,attacking,10,0.4256077230211706

@@ -1,0 +1,79 @@
+competition,season,pos_group,metric,label,family,matches,players,top10_overlap
+Indian Super league,2021/2022,CB,npxg_p90,npxG /90,attacking,5,24,0.6
+Indian Super league,2021/2022,CB,shots_p90,Shots /90,attacking,5,24,0.7
+Indian Super league,2021/2022,CB,xa_p90,xA /90,attacking,5,24,0.7
+Indian Super league,2021/2022,CB,key_passes_p90,Key passes /90,attacking,5,24,0.6
+Indian Super league,2021/2022,CB,touches_box_p90,Box touches /90,attacking,5,24,0.7
+Indian Super league,2021/2022,CB,progressive_passes_p90,Progressive passes /90,progression,5,24,0.7
+Indian Super league,2021/2022,CB,progressive_carries_p90,Progressive carries /90,progression,5,24,0.7
+Indian Super league,2021/2022,CB,dribbles_completed_p90,Successful dribbles /90,progression,5,24,0.7
+Indian Super league,2021/2022,CB,pass_completion_pct,Pass completion %,progression,5,24,0.8
+Indian Super league,2021/2022,CB,pressures_p90,Pressures /90,defending,5,24,0.6
+Indian Super league,2021/2022,CB,tackles_interceptions_p90,Tackles + interceptions /90,defending,5,24,0.8
+Indian Super league,2021/2022,CB,ball_recoveries_p90,Ball recoveries /90,defending,5,24,0.8
+Indian Super league,2021/2022,CB,aerials_won_p90,Aerial duels won /90,defending,5,24,0.7
+Indian Super league,2021/2022,CB,npxg_p90,npxG /90,attacking,10,24,0.8
+Indian Super league,2021/2022,CB,shots_p90,Shots /90,attacking,10,24,0.9
+Indian Super league,2021/2022,CB,xa_p90,xA /90,attacking,10,24,0.8
+Indian Super league,2021/2022,CB,key_passes_p90,Key passes /90,attacking,10,24,0.8
+Indian Super league,2021/2022,CB,touches_box_p90,Box touches /90,attacking,10,24,1.0
+Indian Super league,2021/2022,CB,progressive_passes_p90,Progressive passes /90,progression,10,24,0.8
+Indian Super league,2021/2022,CB,progressive_carries_p90,Progressive carries /90,progression,10,24,0.8
+Indian Super league,2021/2022,CB,dribbles_completed_p90,Successful dribbles /90,progression,10,24,0.8
+Indian Super league,2021/2022,CB,pass_completion_pct,Pass completion %,progression,10,24,0.9
+Indian Super league,2021/2022,CB,pressures_p90,Pressures /90,defending,10,24,0.9
+Indian Super league,2021/2022,CB,tackles_interceptions_p90,Tackles + interceptions /90,defending,10,24,1.0
+Indian Super league,2021/2022,CB,ball_recoveries_p90,Ball recoveries /90,defending,10,24,1.0
+Indian Super league,2021/2022,CB,aerials_won_p90,Aerial duels won /90,defending,10,24,0.9
+Indian Super league,2021/2022,FB,npxg_p90,npxG /90,attacking,5,21,0.6
+Indian Super league,2021/2022,FB,shots_p90,Shots /90,attacking,5,21,0.6
+Indian Super league,2021/2022,FB,xa_p90,xA /90,attacking,5,21,0.6
+Indian Super league,2021/2022,FB,key_passes_p90,Key passes /90,attacking,5,21,0.7
+Indian Super league,2021/2022,FB,touches_box_p90,Box touches /90,attacking,5,21,0.7
+Indian Super league,2021/2022,FB,progressive_passes_p90,Progressive passes /90,progression,5,21,0.4
+Indian Super league,2021/2022,FB,progressive_carries_p90,Progressive carries /90,progression,5,21,0.8
+Indian Super league,2021/2022,FB,dribbles_completed_p90,Successful dribbles /90,progression,5,21,0.8
+Indian Super league,2021/2022,FB,pass_completion_pct,Pass completion %,progression,5,21,0.8
+Indian Super league,2021/2022,FB,pressures_p90,Pressures /90,defending,5,21,0.8
+Indian Super league,2021/2022,FB,tackles_interceptions_p90,Tackles + interceptions /90,defending,5,21,0.7
+Indian Super league,2021/2022,FB,ball_recoveries_p90,Ball recoveries /90,defending,5,21,0.6
+Indian Super league,2021/2022,FB,aerials_won_p90,Aerial duels won /90,defending,5,21,0.9
+Indian Super league,2021/2022,FB,npxg_p90,npxG /90,attacking,10,21,0.9
+Indian Super league,2021/2022,FB,shots_p90,Shots /90,attacking,10,21,0.8
+Indian Super league,2021/2022,FB,xa_p90,xA /90,attacking,10,21,0.9
+Indian Super league,2021/2022,FB,key_passes_p90,Key passes /90,attacking,10,21,0.7
+Indian Super league,2021/2022,FB,touches_box_p90,Box touches /90,attacking,10,21,0.8
+Indian Super league,2021/2022,FB,progressive_passes_p90,Progressive passes /90,progression,10,21,0.9
+Indian Super league,2021/2022,FB,progressive_carries_p90,Progressive carries /90,progression,10,21,0.9
+Indian Super league,2021/2022,FB,dribbles_completed_p90,Successful dribbles /90,progression,10,21,0.8
+Indian Super league,2021/2022,FB,pass_completion_pct,Pass completion %,progression,10,21,0.8
+Indian Super league,2021/2022,FB,pressures_p90,Pressures /90,defending,10,21,0.9
+Indian Super league,2021/2022,FB,tackles_interceptions_p90,Tackles + interceptions /90,defending,10,21,0.8
+Indian Super league,2021/2022,FB,ball_recoveries_p90,Ball recoveries /90,defending,10,21,0.9
+Indian Super league,2021/2022,FB,aerials_won_p90,Aerial duels won /90,defending,10,21,0.8
+Indian Super league,2021/2022,DM,npxg_p90,npxG /90,attacking,5,21,0.8
+Indian Super league,2021/2022,DM,shots_p90,Shots /90,attacking,5,21,0.7
+Indian Super league,2021/2022,DM,xa_p90,xA /90,attacking,5,21,0.5
+Indian Super league,2021/2022,DM,key_passes_p90,Key passes /90,attacking,5,21,0.8
+Indian Super league,2021/2022,DM,touches_box_p90,Box touches /90,attacking,5,21,0.7
+Indian Super league,2021/2022,DM,progressive_passes_p90,Progressive passes /90,progression,5,21,0.6
+Indian Super league,2021/2022,DM,progressive_carries_p90,Progressive carries /90,progression,5,21,0.9
+Indian Super league,2021/2022,DM,dribbles_completed_p90,Successful dribbles /90,progression,5,21,0.9
+Indian Super league,2021/2022,DM,pass_completion_pct,Pass completion %,progression,5,21,0.7
+Indian Super league,2021/2022,DM,pressures_p90,Pressures /90,defending,5,21,0.6
+Indian Super league,2021/2022,DM,tackles_interceptions_p90,Tackles + interceptions /90,defending,5,21,0.8
+Indian Super league,2021/2022,DM,ball_recoveries_p90,Ball recoveries /90,defending,5,21,0.7
+Indian Super league,2021/2022,DM,aerials_won_p90,Aerial duels won /90,defending,5,21,0.8
+Indian Super league,2021/2022,DM,npxg_p90,npxG /90,attacking,10,21,0.7
+Indian Super league,2021/2022,DM,shots_p90,Shots /90,attacking,10,21,0.7
+Indian Super league,2021/2022,DM,xa_p90,xA /90,attacking,10,21,0.7
+Indian Super league,2021/2022,DM,key_passes_p90,Key passes /90,attacking,10,21,0.9
+Indian Super league,2021/2022,DM,touches_box_p90,Box touches /90,attacking,10,21,0.9
+Indian Super league,2021/2022,DM,progressive_passes_p90,Progressive passes /90,progression,10,21,0.9
+Indian Super league,2021/2022,DM,progressive_carries_p90,Progressive carries /90,progression,10,21,0.9
+Indian Super league,2021/2022,DM,dribbles_completed_p90,Successful dribbles /90,progression,10,21,0.9
+Indian Super league,2021/2022,DM,pass_completion_pct,Pass completion %,progression,10,21,0.9
+Indian Super league,2021/2022,DM,pressures_p90,Pressures /90,defending,10,21,0.8
+Indian Super league,2021/2022,DM,tackles_interceptions_p90,Tackles + interceptions /90,defending,10,21,0.9
+Indian Super league,2021/2022,DM,ball_recoveries_p90,Ball recoveries /90,defending,10,21,0.8
+Indian Super league,2021/2022,DM,aerials_won_p90,Aerial duels won /90,defending,10,21,0.9

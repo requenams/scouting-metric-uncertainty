@@ -1,0 +1,14 @@
+family,label,5,10
+attacking,Box touches /90,0.7,0.9
+attacking,Key passes /90,0.7,0.8
+attacking,Shots /90,0.67,0.8
+attacking,npxG /90,0.67,0.8
+attacking,xA /90,0.6,0.8
+defending,Aerial duels won /90,0.8,0.87
+defending,Ball recoveries /90,0.7,0.9
+defending,Pressures /90,0.67,0.87
+defending,Tackles + interceptions /90,0.77,0.9
+progression,Pass completion %,0.77,0.87
+progression,Progressive carries /90,0.8,0.87
+progression,Progressive passes /90,0.57,0.87
+progression,Successful dribbles /90,0.8,0.83

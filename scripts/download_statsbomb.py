@@ -1,13 +1,18 @@
 """
 Download StatsBomb open-data events for the study.
 
-Target competitions (all openly licensed):
-  - 2015/2016: La Liga, Premier League, Serie A, 1. Bundesliga, Ligue 1
-  - 2023/2024: 1. Bundesliga
+Three data sets, selected with --set (each goes to its own folder):
+  men2015       2015/16 La Liga, Premier League, Serie A, Ligue 1 (+ partial 1. Bundesliga)
+  women2023     2023/24 FA Women's Super League, Frauen Bundesliga, Liga F, Serie A Women, NWSL 2023
+  wsl-history   FA Women's Super League 2018/19, 2019/20, 2020/21 (season-to-season validity)
+  isl2021       Indian Super League 2021/22 (secondary replication)
 
 Usage:
   pip install statsbombpy pandas pyarrow tqdm
-  python scripts/download_statsbomb.py --out data/statsbomb
+  python scripts/download_statsbomb.py --set men2015 --out data/statsbomb
+  python scripts/download_statsbomb.py --set women2023 --out data/statsbomb_women2023
+  python scripts/download_statsbomb.py --set wsl-history --out data/statsbomb_wsl
+  python scripts/download_statsbomb.py --set isl2021 --out data/statsbomb_isl
 
 The download is resumable: matches already on disk are skipped.
 """
@@ -21,9 +26,23 @@ import pandas as pd
 from statsbombpy import sb
 from tqdm import tqdm
 
-TARGETS = {
-    "2015/2016": ["La Liga", "Premier League", "Serie A", "1. Bundesliga", "Ligue 1"],
-    "2023/2024": ["1. Bundesliga"],
+SETS = {
+    "men2015": {
+        "2015/2016": ["La Liga", "Premier League", "Serie A", "1. Bundesliga", "Ligue 1"],
+        "2023/2024": ["1. Bundesliga"],
+    },
+    "women2023": {
+        "2023/2024": ["FA Women's Super League", "Frauen Bundesliga", "Liga F", "Serie A Women"],
+        "2023": ["NWSL"],
+    },
+    "wsl-history": {
+        "2018/2019": ["FA Women's Super League"],
+        "2019/2020": ["FA Women's Super League"],
+        "2020/2021": ["FA Women's Super League"],
+    },
+    "isl2021": {
+        "2021/2022": ["Indian Super league"],
+    },
 }
 RETRIES = 3
 
@@ -64,17 +83,19 @@ def fetch_with_retry(fn, *args, **kwargs):
 
 def main() -> None:
     parser = argparse.ArgumentParser()
+    parser.add_argument("--set", default="men2015", choices=sorted(SETS), help="which data set to download")
     parser.add_argument("--out", default="data/statsbomb", help="output folder")
     args = parser.parse_args()
+    targets = SETS[args.set]
     out = Path(args.out)
     (out / "events").mkdir(parents=True, exist_ok=True)
 
     comps = sb.competitions()
     selected = comps[
-        comps.apply(lambda r: r["competition_name"] in TARGETS.get(r["season_name"], []), axis=1)
+        comps.apply(lambda r: r["competition_name"] in targets.get(r["season_name"], []), axis=1)
     ]
     if selected.empty:
-        raise SystemExit("Target competitions not found; check TARGETS.")
+        raise SystemExit("Target competitions not found; check SETS.")
     print("Selected competitions:")
     print(selected[["competition_id", "season_id", "competition_name", "season_name"]].to_string(index=False))
 
